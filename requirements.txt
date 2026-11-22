@@ -1,0 +1,8 @@
+# Runtime dependencies for ontology construction.
+pandas==3.0.3
+numpy==2.4.4
+rdflib==7.6.0
+rapidfuzz==3.14.5
+python-dotenv==1.2.2
+groq==0.37.1
+pydantic==2.13.4

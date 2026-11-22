@@ -1,0 +1,7417 @@
+{
+ "Aam Papad": {
+  "base": "aam papad",
+  "derived_from": "mango",
+  "synonyms": [
+   "mango papad",
+   "mango pickle"
+  ]
+ },
+ "Aamras": {
+  "base": "aamras",
+  "derived_from": "mango",
+  "synonyms": [
+   "mango pulp",
+   "mango puree"
+  ]
+ },
+ "Achari Masala": {
+  "base": "achari masala",
+  "derived_from": null,
+  "synonyms": [
+   "achar masala",
+   "pickle spice mix"
+  ]
+ },
+ "Active Dry Yeast": {
+  "base": "yeast",
+  "derived_from": null,
+  "synonyms": [
+   "baker s yeast",
+   "instant yeast"
+  ]
+ },
+ "Ada": {
+  "base": "ada",
+  "derived_from": "rice",
+  "synonyms": [
+   "rice noodles",
+   "rice vermicelli",
+   "sev"
+  ]
+ },
+ "Adobo Sauce": {
+  "base": "adobo sauce",
+  "derived_from": null,
+  "synonyms": [
+   "adobo"
+  ]
+ },
+ "Aerated Water": {
+  "base": "aerated water",
+  "derived_from": null,
+  "synonyms": [
+   "carbonated water",
+   "soda water",
+   "sparkling water"
+  ]
+ },
+ "Ajwain": {
+  "base": "ajwain",
+  "derived_from": null,
+  "synonyms": [
+   "caraway seeds",
+   "carom seeds"
+  ]
+ },
+ "Alfalfa Powder": {
+  "base": "alfalfa powder",
+  "derived_from": "alfalfa",
+  "synonyms": [
+   "lucerne powder"
+  ]
+ },
+ "All Purpose Flour": {
+  "base": "flour",
+  "derived_from": "wheat",
+  "synonyms": [
+   "maida",
+   "plain flour",
+   "wheat flour"
+  ]
+ },
+ "All Purpose Pie Crust": {
+  "base": "pie crust",
+  "derived_from": "flour",
+  "synonyms": [
+   "puff pastry",
+   "shortcrust pastry"
+  ]
+ },
+ "All Spice Powder": {
+  "base": "allspice",
+  "derived_from": null,
+  "synonyms": [
+   "all spice",
+   "pimento"
+  ]
+ },
+ "Almond": {
+  "base": "almond",
+  "derived_from": null,
+  "synonyms": [
+   "badam"
+  ]
+ },
+ "Almond Butter": {
+  "base": "almond butter",
+  "derived_from": "almond",
+  "synonyms": [
+   "badam butter"
+  ]
+ },
+ "Almond Essence": {
+  "base": "almond essence",
+  "derived_from": "almond",
+  "synonyms": [
+   "almond extract",
+   "badam essence"
+  ]
+ },
+ "Almond Meal": {
+  "base": "almond meal",
+  "derived_from": "almond",
+  "synonyms": [
+   "almond flour",
+   "badam flour"
+  ]
+ },
+ "Almond Milk": {
+  "base": "almond milk",
+  "derived_from": "almond",
+  "synonyms": [
+   "badam milk"
+  ]
+ },
+ "Almond Oil": {
+  "base": "almond oil",
+  "derived_from": "almond",
+  "synonyms": [
+   "badam oil"
+  ]
+ },
+ "Aloo Bhujia": {
+  "base": "aloo bhujia",
+  "derived_from": "potato",
+  "synonyms": [
+   "bhujia",
+   "potato sev"
+  ]
+ },
+ "Aloo Tikki": {
+  "base": "aloo tikki",
+  "derived_from": "potato",
+  "synonyms": [
+   "potato cutlet",
+   "potato patty"
+  ]
+ },
+ "Amaranth Flour": {
+  "base": "amaranth flour",
+  "derived_from": "amaranth",
+  "synonyms": [
+   "rajgira flour"
+  ]
+ },
+ "Amaranth Leaves": {
+  "base": "amaranth leaves",
+  "derived_from": null,
+  "synonyms": [
+   "amaranth greens",
+   "rajgira leaves"
+  ]
+ },
+ "Amaranth Seeds": {
+  "base": "amaranth seeds",
+  "derived_from": null,
+  "synonyms": [
+   "rajgira seeds"
+  ]
+ },
+ "Amchoor Powder": {
+  "base": "amchoor",
+  "derived_from": "mango",
+  "synonyms": [
+   "amchur",
+   "dried mango powder"
+  ]
+ },
+ "Amchur": {
+  "base": "amchoor",
+  "derived_from": "mango",
+  "synonyms": [
+   "amchoor powder",
+   "dried mango powder"
+  ]
+ },
+ "Amla": {
+  "base": "amla",
+  "derived_from": null,
+  "synonyms": [
+   "gooseberry",
+   "indian gooseberry"
+  ]
+ },
+ "Anardana Powder": {
+  "base": "anardana",
+  "derived_from": "pomegranate",
+  "synonyms": [
+   "anardana",
+   "dried pomegranate powder"
+  ]
+ },
+ "Aniseed": {
+  "base": "aniseed",
+  "derived_from": null,
+  "synonyms": [
+   "saunf",
+   "star anise"
+  ]
+ },
+ "Apple Cider Vinegar": {
+  "base": "apple cider vinegar",
+  "derived_from": "apple",
+  "synonyms": [
+   "acv"
+  ]
+ },
+ "Apple Puree": {
+  "base": "apple puree",
+  "derived_from": "apple",
+  "synonyms": [
+   "apple sauce"
+  ]
+ },
+ "Apples": {
+  "base": "apple",
+  "derived_from": null,
+  "synonyms": [
+   "seb"
+  ]
+ },
+ "Apricots": {
+  "base": "apricot",
+  "derived_from": null,
+  "synonyms": [
+   "albu"
+  ]
+ },
+ "Arborio Rice": {
+  "base": "rice",
+  "derived_from": null,
+  "synonyms": [
+   "arborio",
+   "risotto rice"
+  ]
+ },
+ "Arhar Dal": {
+  "base": "arhar dal",
+  "derived_from": null,
+  "synonyms": [
+   "chana dal",
+   "gram dal",
+   "toor dal"
+  ]
+ },
+ "Arisithipli": {
+  "base": "arisaigal",
+  "derived_from": null,
+  "synonyms": [
+   "arisaigal",
+   "arisaigal powder"
+  ]
+ },
+ "Arrowroot Flour": {
+  "base": "arrowroot flour",
+  "derived_from": "arrowroot",
+  "synonyms": [
+   "arrowroot starch"
+  ]
+ },
+ "Artichokes": {
+  "base": "artichoke",
+  "derived_from": null,
+  "synonyms": [
+   "globe artichoke"
+  ]
+ },
+ "Arugula Leaves": {
+  "base": "arugula",
+  "derived_from": null,
+  "synonyms": [
+   "rocket",
+   "rucola"
+  ]
+ },
+ "Asafoetida": {
+  "base": "asafoetida",
+  "derived_from": null,
+  "synonyms": [
+   "hing",
+   "hing powder"
+  ]
+ },
+ "Ash Gourd": {
+  "base": "ash gourd",
+  "derived_from": null,
+  "synonyms": [
+   "bottle gourd",
+   "lauki"
+  ]
+ },
+ "Ash Gourd Chips": {
+  "base": "ash gourd chips",
+  "derived_from": "ash gourd",
+  "synonyms": [
+   "bottle gourd chips",
+   "lauki chips"
+  ]
+ },
+ "Avarekalu": {
+  "base": "horse gram",
+  "derived_from": null,
+  "synonyms": [
+   "chavli",
+   "matki",
+   "moth bean"
+  ]
+ },
+ "Avocado": {
+  "base": "avocado",
+  "derived_from": null,
+  "synonyms": [
+   "alligator pear"
+  ]
+ },
+ "Baby Corn": {
+  "base": "baby corn",
+  "derived_from": "corn",
+  "synonyms": [
+   "mini corn",
+   "young corn"
+  ]
+ },
+ "Baby Potatoes": {
+  "base": "potato",
+  "derived_from": null,
+  "synonyms": [
+   "new potatoes",
+   "small potatoes"
+  ]
+ },
+ "Baby Spinach": {
+  "base": "spinach",
+  "derived_from": null,
+  "synonyms": [
+   "baby palak",
+   "palak"
+  ]
+ },
+ "Bacon": {
+  "base": "bacon",
+  "derived_from": "pork",
+  "synonyms": [
+   "smoked pork belly"
+  ]
+ },
+ "Bacon Strips": {
+  "base": "bacon",
+  "derived_from": "pork",
+  "synonyms": [
+   "smoked pork belly"
+  ]
+ },
+ "Badam": {
+  "base": "almond",
+  "derived_from": null,
+  "synonyms": [
+   "almond",
+   "badam"
+  ]
+ },
+ "Badi": {
+  "base": "badi",
+  "derived_from": "gram flour",
+  "synonyms": [
+   "bundi",
+   "chana dal fritter"
+  ]
+ },
+ "Badi Hari Mirch": {
+  "base": "green chili",
+  "derived_from": null,
+  "synonyms": [
+   "green chilli",
+   "hari mirch"
+  ]
+ },
+ "Bagel": {
+  "base": "bagel",
+  "derived_from": "wheat flour",
+  "synonyms": [
+   "bagel bread"
+  ]
+ },
+ "Baguette": {
+  "base": "baguette",
+  "derived_from": "wheat flour",
+  "synonyms": [
+   "french bread"
+  ]
+ },
+ "Bajra": {
+  "base": "pearl millet",
+  "derived_from": null,
+  "synonyms": [
+   "bajra",
+   "finger millet"
+  ]
+ },
+ "Bajra Flour": {
+  "base": "bajra flour",
+  "derived_from": "pearl millet",
+  "synonyms": [
+   "bajra atta",
+   "pearl millet flour"
+  ]
+ },
+ "Baked Beans": {
+  "base": "baked beans",
+  "derived_from": "beans",
+  "synonyms": [
+   "haricot beans"
+  ]
+ },
+ "Baking Powder": {
+  "base": "baking powder",
+  "derived_from": null,
+  "synonyms": [
+   "raising agent"
+  ]
+ },
+ "Baking Soda": {
+  "base": "baking soda",
+  "derived_from": null,
+  "synonyms": [
+   "bicarb soda",
+   "sodium bicarbonate"
+  ]
+ },
+ "Balsamic Vinegar": {
+  "base": "balsamic vinegar",
+  "derived_from": "grape must",
+  "synonyms": [
+   "balsamic"
+  ]
+ },
+ "Bamboo Shoots": {
+  "base": "bamboo shoots",
+  "derived_from": "bamboo",
+  "synonyms": [
+   "bamboo sprouts",
+   "vankaya"
+  ]
+ },
+ "Banana": {
+  "base": "banana",
+  "derived_from": null,
+  "synonyms": [
+   "kela",
+   "plantain"
+  ]
+ },
+ "Banana Flower": {
+  "base": "banana flower",
+  "derived_from": "banana",
+  "synonyms": [
+   "banana blossom",
+   "kela phool"
+  ]
+ },
+ "Banana Leaves": {
+  "base": "banana leaves",
+  "derived_from": "banana",
+  "synonyms": [
+   "kela patta"
+  ]
+ },
+ "Banana Stem": {
+  "base": "banana stem",
+  "derived_from": "banana",
+  "synonyms": [
+   "banana heart",
+   "kela kankad"
+  ]
+ },
+ "Barbeque Masala": {
+  "base": "barbeque masala",
+  "derived_from": null,
+  "synonyms": [
+   "bbq spice mix"
+  ]
+ },
+ "Barbeque Sauce": {
+  "base": "barbeque sauce",
+  "derived_from": null,
+  "synonyms": [
+   "bbq sauce"
+  ]
+ },
+ "Barley": {
+  "base": "barley",
+  "derived_from": null,
+  "synonyms": [
+   "jau"
+  ]
+ },
+ "Barley Flour": {
+  "base": "barley flour",
+  "derived_from": "barley",
+  "synonyms": [
+   "jau ka atta"
+  ]
+ },
+ "Barnyard Millet": {
+  "base": "barnyard millet",
+  "derived_from": null,
+  "synonyms": [
+   "kodo millet",
+   "shorgum"
+  ]
+ },
+ "Basa Fish": {
+  "base": "basa fish",
+  "derived_from": null,
+  "synonyms": [
+   "pangasius",
+   "swai"
+  ]
+ },
+ "Basella": {
+  "base": "basella",
+  "derived_from": null,
+  "synonyms": [
+   "climbing spinach",
+   "gandh boondi"
+  ]
+ },
+ "Basil": {
+  "base": "basil",
+  "derived_from": null,
+  "synonyms": [
+   "sweet basil",
+   "tulsi"
+  ]
+ },
+ "Basil Leaves": {
+  "base": "basil",
+  "derived_from": null,
+  "synonyms": [
+   "sweet basil",
+   "tulsi"
+  ]
+ },
+ "Basil Pesto": {
+  "base": "basil pesto",
+  "derived_from": "basil",
+  "synonyms": [
+   "pesto sauce"
+  ]
+ },
+ "Basmati Rice": {
+  "base": "rice",
+  "derived_from": null,
+  "synonyms": [
+   "basmati",
+   "long grain rice"
+  ]
+ },
+ "Bathua Leaves": {
+  "base": "bathua leaves",
+  "derived_from": null,
+  "synonyms": [
+   "bathua",
+   "winter spinach"
+  ]
+ },
+ "Bay Leaves": {
+  "base": "bay leaves",
+  "derived_from": null,
+  "synonyms": [
+   "tejpatta"
+  ]
+ },
+ "Bc Belle Bhat Powder": {
+  "base": "bhat powder",
+  "derived_from": "rice",
+  "synonyms": [
+   "bhat ka powder",
+   "rice powder"
+  ]
+ },
+ "Bean Paste": {
+  "base": "bean paste",
+  "derived_from": "beans",
+  "synonyms": [
+   "doubanjiang",
+   "fermented bean paste"
+  ]
+ },
+ "Bean Sprouts": {
+  "base": "bean sprouts",
+  "derived_from": "beans",
+  "synonyms": [
+   "moong sprouts",
+   "mung bean sprouts"
+  ]
+ },
+ "Beer": {
+  "base": "beer",
+  "derived_from": "barley",
+  "synonyms": [
+   "ale",
+   "lager"
+  ]
+ },
+ "Beetroot": {
+  "base": "beetroot",
+  "derived_from": null,
+  "synonyms": [
+   "beet",
+   "chukandar"
+  ]
+ },
+ "Beetroot Puree": {
+  "base": "beetroot puree",
+  "derived_from": "beetroot",
+  "synonyms": [
+   "beet paste"
+  ]
+ },
+ "Bell Pepper": {
+  "base": "capsicum",
+  "derived_from": null,
+  "synonyms": [
+   "bell pepper",
+   "capsicum",
+   "shimla mirch"
+  ]
+ },
+ "Ber": {
+  "base": "berry",
+  "derived_from": null,
+  "synonyms": [
+   "fruit"
+  ]
+ },
+ "Betel Leaves": {
+  "base": "betel leaves",
+  "derived_from": null,
+  "synonyms": [
+   "paan leaves",
+   "sop"
+  ]
+ },
+ "Bhaja Masala": {
+  "base": "bhaja masala",
+  "derived_from": null,
+  "synonyms": [
+   "bhaji masala",
+   "frying masala"
+  ]
+ },
+ "Bhetki Fish": {
+  "base": "bhetki fish",
+  "derived_from": null,
+  "synonyms": [
+   "pangasius",
+   "pomfret"
+  ]
+ },
+ "Bhindi": {
+  "base": "okra",
+  "derived_from": null,
+  "synonyms": [
+   "bhindi",
+   "lady finger"
+  ]
+ },
+ "Biryani Masala": {
+  "base": "biryani masala",
+  "derived_from": null,
+  "synonyms": [
+   "biryani spice mix"
+  ]
+ },
+ "Bisi Bele Bhat Spice Powder": {
+  "base": "bisi bele bhat spice powder",
+  "derived_from": null,
+  "synonyms": [
+   "bisi bele bath masala"
+  ]
+ },
+ "Bitter Gourd": {
+  "base": "bitter gourd",
+  "derived_from": null,
+  "synonyms": [
+   "bitter melon",
+   "karela"
+  ]
+ },
+ "Black Beans": {
+  "base": "black beans",
+  "derived_from": null,
+  "synonyms": [
+   "black turtle beans"
+  ]
+ },
+ "Black Cardamom": {
+  "base": "black cardamom",
+  "derived_from": null,
+  "synonyms": [
+   "badi elaichi",
+   "black cardamom seeds"
+  ]
+ },
+ "Black Chili Powder": {
+  "base": "black chili powder",
+  "derived_from": "chili",
+  "synonyms": [
+   "black pepper powder"
+  ]
+ },
+ "Black Currant Ice Cream": {
+  "base": "black currant ice cream",
+  "derived_from": "black currant",
+  "synonyms": [
+   "blackcurrant ice cream"
+  ]
+ },
+ "Black Gram": {
+  "base": "black gram",
+  "derived_from": null,
+  "synonyms": [
+   "black urad",
+   "urad dal"
+  ]
+ },
+ "Black Grapes": {
+  "base": "black grapes",
+  "derived_from": null,
+  "synonyms": [
+   "grapes"
+  ]
+ },
+ "Black Mustard Seeds": {
+  "base": "black mustard seeds",
+  "derived_from": null,
+  "synonyms": [
+   "black mustard",
+   "kala sarson"
+  ]
+ },
+ "Black Olives": {
+  "base": "black olives",
+  "derived_from": null,
+  "synonyms": [
+   "olives"
+  ]
+ },
+ "Black Pepper": {
+  "base": "black pepper",
+  "derived_from": null,
+  "synonyms": [
+   "kali mirch",
+   "pepper"
+  ]
+ },
+ "Black Pepper Powder": {
+  "base": "black pepper powder",
+  "derived_from": "black pepper",
+  "synonyms": [
+   "pepper powder"
+  ]
+ },
+ "Black Raisins": {
+  "base": "black raisins",
+  "derived_from": "grapes",
+  "synonyms": [
+   "kishmish",
+   "raisins"
+  ]
+ },
+ "Black Rice": {
+  "base": "black rice",
+  "derived_from": null,
+  "synonyms": [
+   "black rice",
+   "forbidden rice"
+  ]
+ },
+ "Black Salt": {
+  "base": "black salt",
+  "derived_from": null,
+  "synonyms": [
+   "kala namak"
+  ]
+ },
+ "Black Tea": {
+  "base": "black tea",
+  "derived_from": "tea leaves",
+  "synonyms": [
+   "chai",
+   "tea"
+  ]
+ },
+ "Black Urad Dal": {
+  "base": "black urad dal",
+  "derived_from": null,
+  "synonyms": [
+   "black gram",
+   "urad dal"
+  ]
+ },
+ "Blackberries": {
+  "base": "blackberries",
+  "derived_from": null,
+  "synonyms": [
+   "blackberry"
+  ]
+ },
+ "Blanched Tomatoes": {
+  "base": "tomato",
+  "derived_from": null,
+  "synonyms": [
+   "blanched tomato",
+   "tamatar"
+  ]
+ },
+ "Blueberries": {
+  "base": "blueberries",
+  "derived_from": null,
+  "synonyms": [
+   "blueberry"
+  ]
+ },
+ "Bocconcini Cheese": {
+  "base": "bocconcini cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "bocconcini",
+   "mozzarella balls"
+  ]
+ },
+ "Boiled Egg": {
+  "base": "egg",
+  "derived_from": null,
+  "synonyms": [
+   "anda",
+   "boiled egg"
+  ]
+ },
+ "Bok Choy": {
+  "base": "bok choy",
+  "derived_from": null,
+  "synonyms": [
+   "bok choy",
+   "pak choi"
+  ]
+ },
+ "Boneless Chicken": {
+  "base": "chicken",
+  "derived_from": null,
+  "synonyms": [
+   "chicken meat",
+   "murg"
+  ]
+ },
+ "Boondi": {
+  "base": "boondi",
+  "derived_from": "gram flour",
+  "synonyms": [
+   "boondi",
+   "chickpea flour fritters"
+  ]
+ },
+ "Botis": {
+  "base": "botis",
+  "derived_from": "flour",
+  "synonyms": [
+   "boti",
+   "botis"
+  ]
+ },
+ "Bottle Gourd": {
+  "base": "bottle gourd",
+  "derived_from": null,
+  "synonyms": [
+   "doodhi",
+   "lauki"
+  ]
+ },
+ "Bourbon Biscuits": {
+  "base": "bourbon biscuits",
+  "derived_from": "flour",
+  "synonyms": [
+   "biscuits",
+   "cookies"
+  ]
+ },
+ "Bread": {
+  "base": "bread",
+  "derived_from": "flour",
+  "synonyms": [
+   "bread",
+   "roti"
+  ]
+ },
+ "Bread Crumbs": {
+  "base": "bread crumbs",
+  "derived_from": "bread",
+  "synonyms": [
+   "bread crumbs",
+   "breadcrumbs"
+  ]
+ },
+ "Brinjal": {
+  "base": "eggplant",
+  "derived_from": null,
+  "synonyms": [
+   "aubergine",
+   "baingan",
+   "brinjal"
+  ]
+ },
+ "Britannia Cheese Block": {
+  "base": "cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "chiz",
+   "paneer"
+  ]
+ },
+ "Britannia Cheese Spread": {
+  "base": "cheese spread",
+  "derived_from": "milk",
+  "synonyms": [
+   "cheese dip"
+  ]
+ },
+ "Britannia Cream Cheese": {
+  "base": "cream cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "cream cheese"
+  ]
+ },
+ "Broad Beans": {
+  "base": "broad beans",
+  "derived_from": null,
+  "synonyms": [
+   "fava beans",
+   "horse beans"
+  ]
+ },
+ "Broccoli": {
+  "base": "broccoli",
+  "derived_from": null,
+  "synonyms": [
+   "broccoli"
+  ]
+ },
+ "Broken Raw Rice": {
+  "base": "rice",
+  "derived_from": null,
+  "synonyms": [
+   "broken rice",
+   "chawal"
+  ]
+ },
+ "Broken Wheat": {
+  "base": "wheat",
+  "derived_from": null,
+  "synonyms": [
+   "broken wheat",
+   "dalia"
+  ]
+ },
+ "Brown Cardamom": {
+  "base": "cardamom",
+  "derived_from": null,
+  "synonyms": [
+   "brown cardamom",
+   "elaichi"
+  ]
+ },
+ "Brown Chickpeas": {
+  "base": "chickpeas",
+  "derived_from": null,
+  "synonyms": [
+   "chana",
+   "kabuli chana"
+  ]
+ },
+ "Brown Rice": {
+  "base": "rice",
+  "derived_from": null,
+  "synonyms": [
+   "brown rice",
+   "chawal"
+  ]
+ },
+ "Brown Sugar": {
+  "base": "sugar",
+  "derived_from": null,
+  "synonyms": [
+   "brown sugar",
+   "shakkar"
+  ]
+ },
+ "Brussel Sprouts": {
+  "base": "brussels sprouts",
+  "derived_from": null,
+  "synonyms": [
+   "brussels sprouts"
+  ]
+ },
+ "Buckwheat Flour": {
+  "base": "buckwheat flour",
+  "derived_from": "buckwheat",
+  "synonyms": [
+   "kuttu atta"
+  ]
+ },
+ "Bulgur Wheat": {
+  "base": "wheat",
+  "derived_from": null,
+  "synonyms": [
+   "bulgur",
+   "cracked wheat"
+  ]
+ },
+ "Burger Buns": {
+  "base": "bread",
+  "derived_from": "wheat",
+  "synonyms": [
+   "bun",
+   "burger bun"
+  ]
+ },
+ "Butter": {
+  "base": "butter",
+  "derived_from": "milk",
+  "synonyms": [
+   "ghee",
+   "makkhan"
+  ]
+ },
+ "Buttermilk": {
+  "base": "buttermilk",
+  "derived_from": "milk",
+  "synonyms": [
+   "chaas",
+   "takra"
+  ]
+ },
+ "Butterscotch Chips": {
+  "base": "chocolate",
+  "derived_from": "cocoa",
+  "synonyms": [
+   "butterscotch",
+   "chocolate chips"
+  ]
+ },
+ "Button Mushrooms": {
+  "base": "mushroom",
+  "derived_from": null,
+  "synonyms": [
+   "mushroom",
+   "white mushroom"
+  ]
+ },
+ "Cabbage": {
+  "base": "cabbage",
+  "derived_from": null,
+  "synonyms": [
+   "cabbage",
+   "patta gobhi"
+  ]
+ },
+ "Cabbage Leaves": {
+  "base": "cabbage",
+  "derived_from": null,
+  "synonyms": [
+   "cabbage leaves",
+   "patta gobhi"
+  ]
+ },
+ "Cajun Spice Mix": {
+  "base": "spice mix",
+  "derived_from": null,
+  "synonyms": [
+   "cajun seasoning",
+   "masala"
+  ]
+ },
+ "Candied Orange Peel": {
+  "base": "orange peel",
+  "derived_from": "orange",
+  "synonyms": [
+   "candied peel",
+   "orange zest"
+  ]
+ },
+ "Cane Sugar": {
+  "base": "sugar",
+  "derived_from": null,
+  "synonyms": [
+   "cane sugar",
+   "shakkar"
+  ]
+ },
+ "Canned Black Beans": {
+  "base": "black beans",
+  "derived_from": null,
+  "synonyms": [
+   "black beans",
+   "rajma"
+  ]
+ },
+ "Canned Cherries": {
+  "base": "cherries",
+  "derived_from": null,
+  "synonyms": [
+   "cherries",
+   "cherry"
+  ]
+ },
+ "Canola Oil": {
+  "base": "oil",
+  "derived_from": "canola",
+  "synonyms": [
+   "canola oil",
+   "rapeseed oil"
+  ]
+ },
+ "Capers": {
+  "base": "capers",
+  "derived_from": null,
+  "synonyms": [
+   "capers"
+  ]
+ },
+ "Capsicum": {
+  "base": "capsicum",
+  "derived_from": null,
+  "synonyms": [
+   "bell pepper",
+   "shimla mirch"
+  ]
+ },
+ "Caramel Sauce": {
+  "base": "caramel sauce",
+  "derived_from": "sugar",
+  "synonyms": [
+   "caramel",
+   "caramel syrup"
+  ]
+ },
+ "Caramelized Onions": {
+  "base": "onion",
+  "derived_from": null,
+  "synonyms": [
+   "onion",
+   "pyaz"
+  ]
+ },
+ "Cardamom": {
+  "base": "cardamom",
+  "derived_from": null,
+  "synonyms": [
+   "elaichi",
+   "green cardamom"
+  ]
+ },
+ "Cardamom Pods": {
+  "base": "cardamom",
+  "derived_from": null,
+  "synonyms": [
+   "elaichi",
+   "green cardamom"
+  ]
+ },
+ "Cardamom Powder": {
+  "base": "cardamom",
+  "derived_from": null,
+  "synonyms": [
+   "cardamom powder",
+   "elaichi"
+  ]
+ },
+ "Carom Seeds": {
+  "base": "carom seeds",
+  "derived_from": null,
+  "synonyms": [
+   "ajwain",
+   "ajwain seeds"
+  ]
+ },
+ "Carrot Cake": {
+  "base": "cake",
+  "derived_from": "wheat",
+  "synonyms": [
+   "cake",
+   "carrot cake"
+  ]
+ },
+ "Carrots": {
+  "base": "carrot",
+  "derived_from": null,
+  "synonyms": [
+   "carrot",
+   "gajar"
+  ]
+ },
+ "Cashew": {
+  "base": "cashew",
+  "derived_from": null,
+  "synonyms": [
+   "cashew nut",
+   "kaju"
+  ]
+ },
+ "Caster Sugar": {
+  "base": "sugar",
+  "derived_from": null,
+  "synonyms": [
+   "caster sugar",
+   "shakkar"
+  ]
+ },
+ "Cauliflower": {
+  "base": "cauliflower",
+  "derived_from": null,
+  "synonyms": [
+   "gobi",
+   "phool gobi"
+  ]
+ },
+ "Cayenne Pepper": {
+  "base": "cayenne pepper",
+  "derived_from": null,
+  "synonyms": [
+   "cayenne",
+   "red pepper powder"
+  ]
+ },
+ "Celery": {
+  "base": "celery",
+  "derived_from": null,
+  "synonyms": [
+   "selery"
+  ]
+ },
+ "Chaat Masala Powder": {
+  "base": "chaat masala",
+  "derived_from": null,
+  "synonyms": [
+   "chaat masala powder"
+  ]
+ },
+ "Chakundar": {
+  "base": "chakundar",
+  "derived_from": null,
+  "synonyms": [
+   "chakunda",
+   "chakunda leaves"
+  ]
+ },
+ "Champagne": {
+  "base": "champagne",
+  "derived_from": null,
+  "synonyms": [
+   "sparkling wine"
+  ]
+ },
+ "Chana Dal": {
+  "base": "chana dal",
+  "derived_from": null,
+  "synonyms": [
+   "chana dal",
+   "chickpea split"
+  ]
+ },
+ "Chana Masala Powder": {
+  "base": "chana masala",
+  "derived_from": null,
+  "synonyms": [
+   "chana masala powder"
+  ]
+ },
+ "Charcoal": {
+  "base": "charcoal",
+  "derived_from": null,
+  "synonyms": [
+   "coal"
+  ]
+ },
+ "Chayote": {
+  "base": "chayote",
+  "derived_from": null,
+  "synonyms": [
+   "chayote squash",
+   "chayote vegetable"
+  ]
+ },
+ "Cheddar Cheese": {
+  "base": "cheddar cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "cheddar"
+  ]
+ },
+ "Cheese": {
+  "base": "cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "mozzarella",
+   "paneer"
+  ]
+ },
+ "Cheese Cubes": {
+  "base": "cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "mozzarella",
+   "paneer"
+  ]
+ },
+ "Cheese Spread": {
+  "base": "cheese spread",
+  "derived_from": "cheese",
+  "synonyms": [
+   "cream cheese spread"
+  ]
+ },
+ "Cheesy Garlic Mayo": {
+  "base": "cheesy garlic mayo",
+  "derived_from": "mayonnaise",
+  "synonyms": [
+   "garlic cheese mayo"
+  ]
+ },
+ "Chenna": {
+  "base": "chenna",
+  "derived_from": "milk",
+  "synonyms": [
+   "cottage cheese",
+   "paneer"
+  ]
+ },
+ "Cherries": {
+  "base": "cherry",
+  "derived_from": null,
+  "synonyms": [
+   "cherries"
+  ]
+ },
+ "Chia Seeds": {
+  "base": "chia seeds",
+  "derived_from": null,
+  "synonyms": [
+   "chia"
+  ]
+ },
+ "Chicken": {
+  "base": "chicken",
+  "derived_from": null,
+  "synonyms": [
+   "murg"
+  ]
+ },
+ "Chicken Breasts": {
+  "base": "chicken",
+  "derived_from": null,
+  "synonyms": [
+   "murg"
+  ]
+ },
+ "Chicken Legs": {
+  "base": "chicken",
+  "derived_from": null,
+  "synonyms": [
+   "murg"
+  ]
+ },
+ "Chicken Masala": {
+  "base": "chicken masala",
+  "derived_from": null,
+  "synonyms": [
+   "chicken masala powder"
+  ]
+ },
+ "Chicken Sausage": {
+  "base": "chicken sausage",
+  "derived_from": "chicken",
+  "synonyms": [
+   "chicken sausage"
+  ]
+ },
+ "Chicken Stock": {
+  "base": "chicken stock",
+  "derived_from": "chicken",
+  "synonyms": [
+   "chicken broth"
+  ]
+ },
+ "Chicken Thighs": {
+  "base": "chicken",
+  "derived_from": null,
+  "synonyms": [
+   "murg"
+  ]
+ },
+ "Chickpea Lentils": {
+  "base": "chickpea lentils",
+  "derived_from": null,
+  "synonyms": [
+   "chana dal"
+  ]
+ },
+ "Chickpeas": {
+  "base": "chickpeas",
+  "derived_from": null,
+  "synonyms": [
+   "chana",
+   "garbanzo beans"
+  ]
+ },
+ "Chilled Water": {
+  "base": "water",
+  "derived_from": null,
+  "synonyms": [
+   "cold water"
+  ]
+ },
+ "Chilli Vinegar": {
+  "base": "chilli vinegar",
+  "derived_from": "vinegar",
+  "synonyms": [
+   "chili vinegar"
+  ]
+ },
+ "Chinese 5 Spice Powder": {
+  "base": "chinese 5 spice",
+  "derived_from": null,
+  "synonyms": [
+   "five spice powder"
+  ]
+ },
+ "Chipotle Chillies": {
+  "base": "chipotle chillies",
+  "derived_from": "chilli",
+  "synonyms": [
+   "chipotle peppers"
+  ]
+ },
+ "Chipotle Peppers": {
+  "base": "chipotle chillies",
+  "derived_from": "chilli",
+  "synonyms": [
+   "chipotle peppers"
+  ]
+ },
+ "Chipotle Sauce": {
+  "base": "chipotle sauce",
+  "derived_from": "chipotle chillies",
+  "synonyms": [
+   "chipotle mayo"
+  ]
+ },
+ "Chironji": {
+  "base": "chironji",
+  "derived_from": null,
+  "synonyms": [
+   "chironji seeds"
+  ]
+ },
+ "Chiroti Rava": {
+  "base": "chiroti rava",
+  "derived_from": "wheat",
+  "synonyms": [
+   "chiroti semolina"
+  ]
+ },
+ "Chives": {
+  "base": "chives",
+  "derived_from": null,
+  "synonyms": [
+   "chives"
+  ]
+ },
+ "Chocolate Bar": {
+  "base": "chocolate",
+  "derived_from": "cocoa",
+  "synonyms": [
+   "chocolate"
+  ]
+ },
+ "Chocolate Chips": {
+  "base": "chocolate",
+  "derived_from": "cocoa",
+  "synonyms": [
+   "chocolate"
+  ]
+ },
+ "Chocolate Ganache": {
+  "base": "chocolate ganache",
+  "derived_from": "chocolate",
+  "synonyms": [
+   "ganache"
+  ]
+ },
+ "Chocolate Ice Cream": {
+  "base": "chocolate ice cream",
+  "derived_from": "milk",
+  "synonyms": [
+   "chocolate ice cream"
+  ]
+ },
+ "Chocolate Sauce": {
+  "base": "chocolate sauce",
+  "derived_from": "chocolate",
+  "synonyms": []
+ },
+ "Chocolate Syrup": {
+  "base": "chocolate syrup",
+  "derived_from": "chocolate",
+  "synonyms": []
+ },
+ "Chow Chow": {
+  "base": "chow chow",
+  "derived_from": null,
+  "synonyms": [
+   "chaw chaw"
+  ]
+ },
+ "Chyawanprash": {
+  "base": "chyawanprash",
+  "derived_from": null,
+  "synonyms": [
+   "chyawan prash",
+   "chyawanprash"
+  ]
+ },
+ "Ciabatta Bread": {
+  "base": "ciabatta bread",
+  "derived_from": "flour",
+  "synonyms": [
+   "ciabatta"
+  ]
+ },
+ "Cinnamon": {
+  "base": "cinnamon",
+  "derived_from": null,
+  "synonyms": [
+   "cassia",
+   "dalchini"
+  ]
+ },
+ "Cinnamon Powder": {
+  "base": "cinnamon powder",
+  "derived_from": "cinnamon",
+  "synonyms": [
+   "dalchini powder"
+  ]
+ },
+ "Cinnamon Stick": {
+  "base": "cinnamon stick",
+  "derived_from": "cinnamon",
+  "synonyms": [
+   "dalchini stick"
+  ]
+ },
+ "Clamps": {
+  "base": "clamps",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Classic Alfredo Pasta Sauce": {
+  "base": "alfredo sauce",
+  "derived_from": "cream",
+  "synonyms": [
+   "alfredo"
+  ]
+ },
+ "Classic Mayonnaise": {
+  "base": "mayonnaise",
+  "derived_from": "egg",
+  "synonyms": [
+   "mayo"
+  ]
+ },
+ "Clove Powder": {
+  "base": "clove powder",
+  "derived_from": "clove",
+  "synonyms": [
+   "laung powder"
+  ]
+ },
+ "Cloves": {
+  "base": "clove",
+  "derived_from": null,
+  "synonyms": [
+   "laung"
+  ]
+ },
+ "Cluster Beans": {
+  "base": "cluster bean",
+  "derived_from": null,
+  "synonyms": [
+   "grass pea",
+   "lathyrus sativus"
+  ]
+ },
+ "Coal": {
+  "base": "coal",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Cocoa Powder": {
+  "base": "cocoa powder",
+  "derived_from": "cocoa",
+  "synonyms": [
+   "coco powder"
+  ]
+ },
+ "Coconut Cream": {
+  "base": "coconut cream",
+  "derived_from": "coconut",
+  "synonyms": [
+   "thick coconut milk"
+  ]
+ },
+ "Coconut Milk": {
+  "base": "coconut milk",
+  "derived_from": "coconut",
+  "synonyms": [
+   "nariyal doodh"
+  ]
+ },
+ "Coconut Oil": {
+  "base": "coconut oil",
+  "derived_from": "coconut",
+  "synonyms": [
+   "nariyal tel"
+  ]
+ },
+ "Coconut Powder": {
+  "base": "coconut powder",
+  "derived_from": "coconut",
+  "synonyms": [
+   "desiccated coconut"
+  ]
+ },
+ "Coconut Sugar": {
+  "base": "coconut sugar",
+  "derived_from": "coconut",
+  "synonyms": [
+   "nariyal cheeni"
+  ]
+ },
+ "Coconut Yogurt": {
+  "base": "coconut yogurt",
+  "derived_from": "coconut",
+  "synonyms": []
+ },
+ "Coffee Decoction": {
+  "base": "coffee decoction",
+  "derived_from": "coffee",
+  "synonyms": [
+   "coffee extract"
+  ]
+ },
+ "Collard Greens": {
+  "base": "collard greens",
+  "derived_from": null,
+  "synonyms": [
+   "collards"
+  ]
+ },
+ "Colocasia Leaves": {
+  "base": "colocasia leaves",
+  "derived_from": "colocasia",
+  "synonyms": [
+   "sag",
+   "taro leaves"
+  ]
+ },
+ "Colocasia Root": {
+  "base": "colocasia root",
+  "derived_from": "colocasia",
+  "synonyms": [
+   "arbi",
+   "taro root"
+  ]
+ },
+ "Conchiglie Pasta": {
+  "base": "conchiglie pasta",
+  "derived_from": "flour",
+  "synonyms": [
+   "shell pasta"
+  ]
+ },
+ "Condensed Milk": {
+  "base": "condensed milk",
+  "derived_from": "milk",
+  "synonyms": [
+   "milk powder"
+  ]
+ },
+ "Confectioners Sugar": {
+  "base": "confectioners sugar",
+  "derived_from": "sugar",
+  "synonyms": [
+   "icing sugar",
+   "powdered sugar"
+  ]
+ },
+ "Cooked Rice": {
+  "base": "rice",
+  "derived_from": null,
+  "synonyms": [
+   "chawal"
+  ]
+ },
+ "Cooking Soda": {
+  "base": "cooking soda",
+  "derived_from": null,
+  "synonyms": [
+   "baking soda",
+   "sodium bicarbonate"
+  ]
+ },
+ "Coriander": {
+  "base": "coriander",
+  "derived_from": null,
+  "synonyms": [
+   "dhania"
+  ]
+ },
+ "Coriander Leaves": {
+  "base": "coriander leaves",
+  "derived_from": "coriander",
+  "synonyms": [
+   "cilantro",
+   "dhania patti"
+  ]
+ },
+ "Coriander Powder": {
+  "base": "coriander powder",
+  "derived_from": "coriander",
+  "synonyms": [
+   "dhania powder"
+  ]
+ },
+ "Coriander Seeds": {
+  "base": "coriander seeds",
+  "derived_from": "coriander",
+  "synonyms": [
+   "dhania seeds"
+  ]
+ },
+ "Corn Cob": {
+  "base": "corn cob",
+  "derived_from": "corn",
+  "synonyms": [
+   "maize cob"
+  ]
+ },
+ "Corn Flakes": {
+  "base": "corn flakes",
+  "derived_from": "corn",
+  "synonyms": []
+ },
+ "Corn Flour": {
+  "base": "corn flour",
+  "derived_from": "corn",
+  "synonyms": [
+   "maize flour"
+  ]
+ },
+ "Corn Flour Tortilla": {
+  "base": "tortilla",
+  "derived_from": "corn",
+  "synonyms": [
+   "maize tortilla"
+  ]
+ },
+ "Corn Kernels": {
+  "base": "corn kernels",
+  "derived_from": "corn",
+  "synonyms": [
+   "maize kernels"
+  ]
+ },
+ "Corn Meal": {
+  "base": "corn meal",
+  "derived_from": "corn",
+  "synonyms": [
+   "corn flour",
+   "maida",
+   "polenta"
+  ]
+ },
+ "Cottage Cheese": {
+  "base": "cottage cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "chenna",
+   "makkhan",
+   "paneer"
+  ]
+ },
+ "Couscous": {
+  "base": "couscous",
+  "derived_from": "semolina",
+  "synonyms": [
+   "couscous",
+   "semolina granules"
+  ]
+ },
+ "Cowpea": {
+  "base": "cowpea",
+  "derived_from": null,
+  "synonyms": [
+   "black eyed pea",
+   "chawli",
+   "lobia"
+  ]
+ },
+ "Cranberries": {
+  "base": "cranberry",
+  "derived_from": null,
+  "synonyms": [
+   "cranberry"
+  ]
+ },
+ "Cream": {
+  "base": "cream",
+  "derived_from": "milk",
+  "synonyms": [
+   "malai",
+   "whipping cream"
+  ]
+ },
+ "Cream Cheese": {
+  "base": "cream cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "cream cheese"
+  ]
+ },
+ "Crusty Bread": {
+  "base": "bread",
+  "derived_from": "wheat",
+  "synonyms": [
+   "chapati",
+   "naan",
+   "roti"
+  ]
+ },
+ "Cucumber": {
+  "base": "cucumber",
+  "derived_from": null,
+  "synonyms": [
+   "kheera"
+  ]
+ },
+ "Cumin": {
+  "base": "cumin",
+  "derived_from": null,
+  "synonyms": [
+   "jeera"
+  ]
+ },
+ "Cumin Powder": {
+  "base": "cumin powder",
+  "derived_from": "cumin",
+  "synonyms": [
+   "jeera powder"
+  ]
+ },
+ "Cumin Seeds": {
+  "base": "cumin",
+  "derived_from": null,
+  "synonyms": [
+   "jeera"
+  ]
+ },
+ "Curd": {
+  "base": "yogurt",
+  "derived_from": null,
+  "synonyms": [
+   "curd",
+   "dahi"
+  ]
+ },
+ "Curd Vada": {
+  "base": "curd vada",
+  "derived_from": "yogurt",
+  "synonyms": [
+   "dahi vada",
+   "yogurt fritter"
+  ]
+ },
+ "Curry": {
+  "base": "curry",
+  "derived_from": null,
+  "synonyms": [
+   "gravy",
+   "masala"
+  ]
+ },
+ "Curry Leaves": {
+  "base": "curry leaves",
+  "derived_from": null,
+  "synonyms": [
+   "kadi patta"
+  ]
+ },
+ "Curry Powder": {
+  "base": "curry powder",
+  "derived_from": null,
+  "synonyms": [
+   "curry masala"
+  ]
+ },
+ "Custard Powder": {
+  "base": "custard powder",
+  "derived_from": null,
+  "synonyms": [
+   "custard mix"
+  ]
+ },
+ "Dagad Phool": {
+  "base": "dagad phool",
+  "derived_from": null,
+  "synonyms": [
+   "dagad phool",
+   "rock flower"
+  ]
+ },
+ "Dal Sugar Powder": {
+  "base": "sugar",
+  "derived_from": null,
+  "synonyms": [
+   "cheeni",
+   "sugar"
+  ]
+ },
+ "Dark Chocolate": {
+  "base": "chocolate",
+  "derived_from": "cocoa",
+  "synonyms": [
+   "chocolate"
+  ]
+ },
+ "Date Syrup": {
+  "base": "date syrup",
+  "derived_from": "date",
+  "synonyms": [
+   "date molasses"
+  ]
+ },
+ "Dates": {
+  "base": "date",
+  "derived_from": null,
+  "synonyms": [
+   "khajur"
+  ]
+ },
+ "Decorative Sugar": {
+  "base": "sugar",
+  "derived_from": null,
+  "synonyms": [
+   "cheeni",
+   "sugar"
+  ]
+ },
+ "Del Monte Cheesy Dip": {
+  "base": "cheese dip",
+  "derived_from": "cheese",
+  "synonyms": [
+   "cheese dip"
+  ]
+ },
+ "Del Monte Cheesy Garlic Mayo": {
+  "base": "mayonnaise",
+  "derived_from": "egg",
+  "synonyms": [
+   "mayo"
+  ]
+ },
+ "Del Monte Sandwich Spread": {
+  "base": "spread",
+  "derived_from": null,
+  "synonyms": [
+   "sandwich spread"
+  ]
+ },
+ "Del Monte Spaghetti Pasta": {
+  "base": "pasta",
+  "derived_from": "wheat",
+  "synonyms": [
+   "pasta"
+  ]
+ },
+ "Del Monte Whole Corn Kernels": {
+  "base": "corn",
+  "derived_from": null,
+  "synonyms": [
+   "corn",
+   "maize"
+  ]
+ },
+ "Dessicated Coconut": {
+  "base": "coconut",
+  "derived_from": null,
+  "synonyms": [
+   "coconut",
+   "nariyal"
+  ]
+ },
+ "Dhansak Masala": {
+  "base": "dhansak masala",
+  "derived_from": null,
+  "synonyms": [
+   "dhansak powder"
+  ]
+ },
+ "Digestive Biscuit": {
+  "base": "biscuit",
+  "derived_from": "wheat",
+  "synonyms": [
+   "biscuit",
+   "cookie"
+  ]
+ },
+ "Dijon Mustard": {
+  "base": "mustard",
+  "derived_from": null,
+  "synonyms": [
+   "mustard",
+   "sarson"
+  ]
+ },
+ "Dill Leaves": {
+  "base": "dill",
+  "derived_from": null,
+  "synonyms": [
+   "dill"
+  ]
+ },
+ "Dosa Rice": {
+  "base": "rice",
+  "derived_from": null,
+  "synonyms": [
+   "chawal",
+   "rice"
+  ]
+ },
+ "Double Beans": {
+  "base": "beans",
+  "derived_from": null,
+  "synonyms": [
+   "beans"
+  ]
+ },
+ "Dried Basil Leaves": {
+  "base": "basil",
+  "derived_from": null,
+  "synonyms": [
+   "basil",
+   "tulsi"
+  ]
+ },
+ "Dried Figs": {
+  "base": "fig",
+  "derived_from": null,
+  "synonyms": [
+   "anjeer"
+  ]
+ },
+ "Dried Oregano": {
+  "base": "oregano",
+  "derived_from": null,
+  "synonyms": [
+   "oregano"
+  ]
+ },
+ "Dried Raspberries": {
+  "base": "raspberry",
+  "derived_from": null,
+  "synonyms": [
+   "raspberry"
+  ]
+ },
+ "Dried Rose Petals": {
+  "base": "rose petals",
+  "derived_from": null,
+  "synonyms": [
+   "gulab petals",
+   "rose buds"
+  ]
+ },
+ "Dried Shrimps": {
+  "base": "shrimp",
+  "derived_from": null,
+  "synonyms": [
+   "chirota",
+   "jheenga",
+   "prawn"
+  ]
+ },
+ "Dried Thyme Leaves": {
+  "base": "thyme",
+  "derived_from": null,
+  "synonyms": [
+   "thymus",
+   "thymus vulgaris"
+  ]
+ },
+ "Dried Yellow Peas": {
+  "base": "yellow peas",
+  "derived_from": null,
+  "synonyms": [
+   "chana",
+   "chana dal",
+   "split peas"
+  ]
+ },
+ "Drumstick": {
+  "base": "drumstick",
+  "derived_from": null,
+  "synonyms": [
+   "moringa",
+   "moringa oleifera",
+   "shigru"
+  ]
+ },
+ "Dry Beans": {
+  "base": "beans",
+  "derived_from": null,
+  "synonyms": [
+   "beans",
+   "dal",
+   "legumes"
+  ]
+ },
+ "Dry Coconut": {
+  "base": "coconut",
+  "derived_from": null,
+  "synonyms": [
+   "coconut",
+   "nariyal"
+  ]
+ },
+ "Dry Ginger": {
+  "base": "ginger",
+  "derived_from": null,
+  "synonyms": [
+   "adrak",
+   "ginger"
+  ]
+ },
+ "Dry Ginger Powder": {
+  "base": "ginger powder",
+  "derived_from": "ginger",
+  "synonyms": [
+   "adrak powder",
+   "ginger powder"
+  ]
+ },
+ "Dry Kashmiri Peppers": {
+  "base": "chili pepper",
+  "derived_from": null,
+  "synonyms": [
+   "chili pepper",
+   "kashmiri mirch",
+   "red chili"
+  ]
+ },
+ "Dry Mix Herbs": {
+  "base": "dry mix herbs",
+  "derived_from": null,
+  "synonyms": [
+   "dried herb mix",
+   "herb blend"
+  ]
+ },
+ "Dry Red Chili": {
+  "base": "red chili",
+  "derived_from": null,
+  "synonyms": [
+   "dried red chili",
+   "lajmirch",
+   "mirch"
+  ]
+ },
+ "Edible Camphor": {
+  "base": "camphor",
+  "derived_from": null,
+  "synonyms": [
+   "edible camphor",
+   "karpura"
+  ]
+ },
+ "Edible Silver Foil": {
+  "base": "silver foil",
+  "derived_from": null,
+  "synonyms": [
+   "chandi varak",
+   "edible silver leaf",
+   "varak"
+  ]
+ },
+ "Egg": {
+  "base": "egg",
+  "derived_from": null,
+  "synonyms": [
+   "anda"
+  ]
+ },
+ "Egg Noodles": {
+  "base": "egg noodles",
+  "derived_from": "egg",
+  "synonyms": [
+   "makaroni",
+   "noodles"
+  ]
+ },
+ "Egg White": {
+  "base": "egg white",
+  "derived_from": "egg",
+  "synonyms": [
+   "albumen",
+   "anday"
+  ]
+ },
+ "Egg Yolks": {
+  "base": "egg yolk",
+  "derived_from": "egg",
+  "synonyms": [
+   "anday",
+   "yolk"
+  ]
+ },
+ "Eggless Mayonnaise": {
+  "base": "mayonnaise",
+  "derived_from": null,
+  "synonyms": [
+   "mayo"
+  ]
+ },
+ "Eggplant": {
+  "base": "eggplant",
+  "derived_from": null,
+  "synonyms": [
+   "aubergine",
+   "baingan",
+   "brinjal"
+  ]
+ },
+ "Elephant Yam": {
+  "base": "elephant yam",
+  "derived_from": null,
+  "synonyms": [
+   "elephant foot yam",
+   "jagat",
+   "jagat kumra",
+   "suran"
+  ]
+ },
+ "Emami Rice Bran Oil": {
+  "base": "rice bran oil",
+  "derived_from": "rice",
+  "synonyms": [
+   "rice oil"
+  ]
+ },
+ "English Cucumber": {
+  "base": "cucumber",
+  "derived_from": null,
+  "synonyms": [
+   "gherkin",
+   "kheera"
+  ]
+ },
+ "Enos Fruit Salt": {
+  "base": "fruit salt",
+  "derived_from": null,
+  "synonyms": [
+   "electrolyte salt",
+   "oral rehydration salt"
+  ]
+ },
+ "Evaporated Milk": {
+  "base": "evaporated milk",
+  "derived_from": "milk",
+  "synonyms": [
+   "canned milk"
+  ]
+ },
+ "Extra Virgin Olive Oil": {
+  "base": "olive oil",
+  "derived_from": "olive",
+  "synonyms": [
+   "zaitoon ka tel"
+  ]
+ },
+ "Fennel": {
+  "base": "fennel",
+  "derived_from": null,
+  "synonyms": [
+   "saunf"
+  ]
+ },
+ "Fennel Powder": {
+  "base": "fennel powder",
+  "derived_from": "fennel",
+  "synonyms": [
+   "saunf powder"
+  ]
+ },
+ "Fennel Seeds": {
+  "base": "fennel",
+  "derived_from": null,
+  "synonyms": [
+   "saunf"
+  ]
+ },
+ "Fenugreek": {
+  "base": "fenugreek",
+  "derived_from": null,
+  "synonyms": [
+   "methi",
+   "methi dana"
+  ]
+ },
+ "Fenugreek Powder": {
+  "base": "fenugreek powder",
+  "derived_from": "fenugreek",
+  "synonyms": [
+   "methi dana powder",
+   "methi powder"
+  ]
+ },
+ "Fenugreek Seeds": {
+  "base": "fenugreek",
+  "derived_from": null,
+  "synonyms": [
+   "hig",
+   "methi",
+   "methi dana"
+  ]
+ },
+ "Feta Cheese": {
+  "base": "feta cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "feta"
+  ]
+ },
+ "Fettuccine Pasta": {
+  "base": "pasta",
+  "derived_from": "wheat",
+  "synonyms": [
+   "fettuccine",
+   "macaroni"
+  ]
+ },
+ "Figaro Pure Olive Oil": {
+  "base": "olive oil",
+  "derived_from": "olive",
+  "synonyms": [
+   "zaitoon oil",
+   "zaitun ka tel"
+  ]
+ },
+ "Figs": {
+  "base": "fig",
+  "derived_from": null,
+  "synonyms": [
+   "anjeer"
+  ]
+ },
+ "Filter Coffee Powder": {
+  "base": "coffee powder",
+  "derived_from": "coffee",
+  "synonyms": [
+   "coffee",
+   "instant coffee"
+  ]
+ },
+ "Fish": {
+  "base": "fish",
+  "derived_from": null,
+  "synonyms": [
+   "machhli"
+  ]
+ },
+ "Fish Fillet": {
+  "base": "fish",
+  "derived_from": null,
+  "synonyms": [
+   "fish fillet",
+   "machhli"
+  ]
+ },
+ "Fish Masala": {
+  "base": "fish masala",
+  "derived_from": "fish",
+  "synonyms": [
+   "fish curry",
+   "fish gravy"
+  ]
+ },
+ "Fish Sauce": {
+  "base": "fish sauce",
+  "derived_from": "fish",
+  "synonyms": [
+   "nam pla",
+   "pla ra"
+  ]
+ },
+ "Flattened Rice": {
+  "base": "flattened rice",
+  "derived_from": "rice",
+  "synonyms": [
+   "flattened rice flakes",
+   "poha"
+  ]
+ },
+ "Flax Meal": {
+  "base": "flax meal",
+  "derived_from": "flax seeds",
+  "synonyms": [
+   "ground flaxseed",
+   "linseed meal"
+  ]
+ },
+ "Flax Seed Powder": {
+  "base": "flax seed powder",
+  "derived_from": "flax seeds",
+  "synonyms": [
+   "ground flaxseed",
+   "linseed powder"
+  ]
+ },
+ "Flax Seeds": {
+  "base": "flax seeds",
+  "derived_from": null,
+  "synonyms": [
+   "alsi",
+   "linseed"
+  ]
+ },
+ "Flaxmeal Egg Replacer": {
+  "base": "flaxmeal egg replacer",
+  "derived_from": "flax seeds",
+  "synonyms": [
+   "flax egg"
+  ]
+ },
+ "Flour": {
+  "base": "flour",
+  "derived_from": null,
+  "synonyms": [
+   "atta",
+   "maida"
+  ]
+ },
+ "Foxtail Millet": {
+  "base": "foxtail millet",
+  "derived_from": null,
+  "synonyms": [
+   "kangni",
+   "kodo millet"
+  ]
+ },
+ "French Beans": {
+  "base": "french beans",
+  "derived_from": null,
+  "synonyms": [
+   "green beans",
+   "string beans"
+  ]
+ },
+ "French Bread": {
+  "base": "french bread",
+  "derived_from": "flour",
+  "synonyms": [
+   "baguette"
+  ]
+ },
+ "French Loaf": {
+  "base": "french loaf",
+  "derived_from": "flour",
+  "synonyms": [
+   "french bread"
+  ]
+ },
+ "Fresh Cherries": {
+  "base": "cherries",
+  "derived_from": null,
+  "synonyms": [
+   "cherry"
+  ]
+ },
+ "Fresh Coconut": {
+  "base": "coconut",
+  "derived_from": null,
+  "synonyms": [
+   "nariyal"
+  ]
+ },
+ "Fresh Cream": {
+  "base": "fresh cream",
+  "derived_from": "milk",
+  "synonyms": [
+   "double cream",
+   "whipping cream"
+  ]
+ },
+ "Fresh Figs": {
+  "base": "figs",
+  "derived_from": null,
+  "synonyms": [
+   "anjeer"
+  ]
+ },
+ "Fresh Fruits": {
+  "base": "fresh fruits",
+  "derived_from": null,
+  "synonyms": [
+   "fruits"
+  ]
+ },
+ "Fresh Green Chickpeas": {
+  "base": "chickpeas",
+  "derived_from": null,
+  "synonyms": [
+   "chana",
+   "green chana"
+  ]
+ },
+ "Fresh Green Toor Dal": {
+  "base": "toor dal",
+  "derived_from": null,
+  "synonyms": [
+   "green toor dal",
+   "pigeon peas"
+  ]
+ },
+ "Fresh Herbs": {
+  "base": "fresh herbs",
+  "derived_from": null,
+  "synonyms": [
+   "herbs"
+  ]
+ },
+ "Fresh Orange Juice": {
+  "base": "orange juice",
+  "derived_from": "orange",
+  "synonyms": [
+   "orange juice"
+  ]
+ },
+ "Fresh Oregano": {
+  "base": "oregano",
+  "derived_from": null,
+  "synonyms": [
+   "marjoram"
+  ]
+ },
+ "Fresh Pomegranate Fruit Kernels": {
+  "base": "pomegranate",
+  "derived_from": null,
+  "synonyms": [
+   "anar",
+   "anardana"
+  ]
+ },
+ "Fresh Thyme": {
+  "base": "thyme",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Fresh Turmeric Root": {
+  "base": "turmeric",
+  "derived_from": null,
+  "synonyms": [
+   "haldi"
+  ]
+ },
+ "Fresno Pepper": {
+  "base": "pepper",
+  "derived_from": null,
+  "synonyms": [
+   "black pepper",
+   "kali mirch"
+  ]
+ },
+ "Fried Bread Cubes": {
+  "base": "bread",
+  "derived_from": null,
+  "synonyms": [
+   "croutons"
+  ]
+ },
+ "Fruit": {
+  "base": "fruit",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Galangal": {
+  "base": "galangal",
+  "derived_from": null,
+  "synonyms": [
+   "sonth"
+  ]
+ },
+ "Garam Masala Powder": {
+  "base": "garam masala",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Garlic": {
+  "base": "garlic",
+  "derived_from": null,
+  "synonyms": [
+   "lehsun"
+  ]
+ },
+ "Garlic Butter": {
+  "base": "garlic butter",
+  "derived_from": "garlic",
+  "synonyms": []
+ },
+ "Garlic Paste": {
+  "base": "garlic paste",
+  "derived_from": "garlic",
+  "synonyms": []
+ },
+ "Garlic Powder": {
+  "base": "garlic powder",
+  "derived_from": "garlic",
+  "synonyms": []
+ },
+ "Garlic Salt": {
+  "base": "garlic salt",
+  "derived_from": "garlic",
+  "synonyms": []
+ },
+ "Gawar Phali": {
+  "base": "gum arabic",
+  "derived_from": null,
+  "synonyms": [
+   "gum karaya",
+   "gum tragacanth"
+  ]
+ },
+ "Gelatin": {
+  "base": "gelatin",
+  "derived_from": null,
+  "synonyms": [
+   "jelly"
+  ]
+ },
+ "Ghee": {
+  "base": "ghee",
+  "derived_from": "milk",
+  "synonyms": [
+   "clarified butter"
+  ]
+ },
+ "Gherkins": {
+  "base": "cucumber",
+  "derived_from": null,
+  "synonyms": [
+   "kheera",
+   "pickled cucumber"
+  ]
+ },
+ "Ghost Chilli Peppers": {
+  "base": "chilli",
+  "derived_from": null,
+  "synonyms": [
+   "bhut jolokia",
+   "ghost pepper"
+  ]
+ },
+ "Gilka": {
+  "base": "gum arabic",
+  "derived_from": null,
+  "synonyms": [
+   "gum karaya",
+   "gum tragacanth"
+  ]
+ },
+ "Gingelly Oil": {
+  "base": "gingelly oil",
+  "derived_from": "sesame",
+  "synonyms": [
+   "ginger oil",
+   "sesame oil",
+   "til oil"
+  ]
+ },
+ "Ginger": {
+  "base": "ginger",
+  "derived_from": null,
+  "synonyms": [
+   "adrak"
+  ]
+ },
+ "Ginger Garlic Paste": {
+  "base": "ginger garlic paste",
+  "derived_from": "ginger",
+  "synonyms": [
+   "adrak lehsun paste"
+  ]
+ },
+ "Ginger Paste": {
+  "base": "ginger paste",
+  "derived_from": "ginger",
+  "synonyms": [
+   "adrak paste"
+  ]
+ },
+ "Ginger Teriyaki Sauce": {
+  "base": "ginger teriyaki sauce",
+  "derived_from": "ginger",
+  "synonyms": []
+ },
+ "Glazed Cherries": {
+  "base": "cherry",
+  "derived_from": null,
+  "synonyms": [
+   "cherries"
+  ]
+ },
+ "Goan Recheado Masala": {
+  "base": "recheado masala",
+  "derived_from": null,
+  "synonyms": [
+   "goan masala"
+  ]
+ },
+ "Goat Cheese": {
+  "base": "goat cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "chevre"
+  ]
+ },
+ "Gochujang": {
+  "base": "gochujang",
+  "derived_from": null,
+  "synonyms": [
+   "korean chili paste"
+  ]
+ },
+ "Goda Masala": {
+  "base": "goda masala",
+  "derived_from": null,
+  "synonyms": [
+   "goda powder"
+  ]
+ },
+ "Gondhoraj Lebu Juice": {
+  "base": "gondhoraj lebu juice",
+  "derived_from": "lemon",
+  "synonyms": [
+   "kaffir lime juice"
+  ]
+ },
+ "Goond": {
+  "base": "goond",
+  "derived_from": "milk",
+  "synonyms": [
+   "clotted cream",
+   "malai"
+  ]
+ },
+ "Gouda Cheese": {
+  "base": "gouda cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "gouda"
+  ]
+ },
+ "Gourd": {
+  "base": "gourd",
+  "derived_from": null,
+  "synonyms": [
+   "bottle gourd",
+   "lauki"
+  ]
+ },
+ "Govind Bhog Rice": {
+  "base": "rice",
+  "derived_from": null,
+  "synonyms": [
+   "basmati",
+   "chawal"
+  ]
+ },
+ "Gram Flour": {
+  "base": "gram flour",
+  "derived_from": "chickpea",
+  "synonyms": [
+   "besan",
+   "chickpea flour"
+  ]
+ },
+ "Gram Lentils": {
+  "base": "gram lentils",
+  "derived_from": null,
+  "synonyms": [
+   "chana dal",
+   "chickpeas"
+  ]
+ },
+ "Grapes": {
+  "base": "grape",
+  "derived_from": null,
+  "synonyms": [
+   "angoor"
+  ]
+ },
+ "Green Amaranth Leaves": {
+  "base": "amaranth leaves",
+  "derived_from": null,
+  "synonyms": [
+   "amaranth",
+   "chaulai"
+  ]
+ },
+ "Green Apple": {
+  "base": "apple",
+  "derived_from": null,
+  "synonyms": [
+   "seb"
+  ]
+ },
+ "Green Beans": {
+  "base": "green beans",
+  "derived_from": null,
+  "synonyms": [
+   "chawli",
+   "french beans"
+  ]
+ },
+ "Green Bell Pepper": {
+  "base": "capsicum",
+  "derived_from": null,
+  "synonyms": [
+   "bell pepper",
+   "shimla mirch"
+  ]
+ },
+ "Green Brinjal": {
+  "base": "eggplant",
+  "derived_from": null,
+  "synonyms": [
+   "aubergine",
+   "baingan",
+   "brinjal"
+  ]
+ },
+ "Green Chawli Beans": {
+  "base": "green beans",
+  "derived_from": null,
+  "synonyms": [
+   "chawli",
+   "french beans"
+  ]
+ },
+ "Green Chilli": {
+  "base": "green chilli",
+  "derived_from": null,
+  "synonyms": [
+   "green chili",
+   "hari mirch"
+  ]
+ },
+ "Green Chilli Paste": {
+  "base": "green chilli paste",
+  "derived_from": "green chilli",
+  "synonyms": [
+   "hari mirch paste"
+  ]
+ },
+ "Green Chilli Sauce": {
+  "base": "green chilli sauce",
+  "derived_from": "green chilli",
+  "synonyms": [
+   "green chili sauce"
+  ]
+ },
+ "Green Chutney": {
+  "base": "green chutney",
+  "derived_from": "coriander leaves",
+  "synonyms": [
+   "hari chutney"
+  ]
+ },
+ "Green Coffee Beans": {
+  "base": "coffee beans",
+  "derived_from": null,
+  "synonyms": [
+   "coffee"
+  ]
+ },
+ "Green Coriander": {
+  "base": "coriander leaves",
+  "derived_from": null,
+  "synonyms": [
+   "cilantro",
+   "dhania"
+  ]
+ },
+ "Green Moong Dal": {
+  "base": "moong dal",
+  "derived_from": null,
+  "synonyms": [
+   "green gram",
+   "mung bean"
+  ]
+ },
+ "Green Moong Sprouts": {
+  "base": "moong sprouts",
+  "derived_from": "moong dal",
+  "synonyms": [
+   "mung sprouts"
+  ]
+ },
+ "Green Olives": {
+  "base": "olive",
+  "derived_from": null,
+  "synonyms": [
+   "zaitoon"
+  ]
+ },
+ "Green Peas": {
+  "base": "pea",
+  "derived_from": null,
+  "synonyms": [
+   "matar"
+  ]
+ },
+ "Green Romaine Lettuce": {
+  "base": "lettuce",
+  "derived_from": null,
+  "synonyms": [
+   "romaine"
+  ]
+ },
+ "Green Seedless Grapes": {
+  "base": "grape",
+  "derived_from": null,
+  "synonyms": [
+   "angoor"
+  ]
+ },
+ "Green Tur Dal": {
+  "base": "tur dal",
+  "derived_from": null,
+  "synonyms": [
+   "arhar dal",
+   "pigeon pea"
+  ]
+ },
+ "Green Zucchini": {
+  "base": "zucchini",
+  "derived_from": null,
+  "synonyms": [
+   "courgette"
+  ]
+ },
+ "Groundnut Powder": {
+  "base": "groundnut powder",
+  "derived_from": "peanut",
+  "synonyms": [
+   "peanut powder"
+  ]
+ },
+ "Gruyere Cheese": {
+  "base": "gruyere cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "gruyere"
+  ]
+ },
+ "Guacamole": {
+  "base": "guacamole",
+  "derived_from": "avocado",
+  "synonyms": [
+   "avocado dip"
+  ]
+ },
+ "Guava": {
+  "base": "guava",
+  "derived_from": null,
+  "synonyms": [
+   "amrood"
+  ]
+ },
+ "Guava Juice": {
+  "base": "guava juice",
+  "derived_from": "guava",
+  "synonyms": [
+   "amrood juice"
+  ]
+ },
+ "Gulkand": {
+  "base": "gulkand",
+  "derived_from": "rose",
+  "synonyms": [
+   "gulab jamun",
+   "rose petal jam"
+  ]
+ },
+ "Gunde": {
+  "base": "gunde",
+  "derived_from": null,
+  "synonyms": [
+   "gund",
+   "gund fruit"
+  ]
+ },
+ "Guntur Dried Chillies": {
+  "base": "dried chillies",
+  "derived_from": null,
+  "synonyms": [
+   "dried red chillies",
+   "guntur chillies"
+  ]
+ },
+ "Gwar Pods": {
+  "base": "gwar pods",
+  "derived_from": null,
+  "synonyms": [
+   "gum arabic pods",
+   "sahjan pods"
+  ]
+ },
+ "Hakka Noodles": {
+  "base": "hakka noodles",
+  "derived_from": null,
+  "synonyms": [
+   "chinese noodles"
+  ]
+ },
+ "Hara Chana": {
+  "base": "green chickpeas",
+  "derived_from": null,
+  "synonyms": [
+   "fresh chickpeas",
+   "green chana"
+  ]
+ },
+ "Hard Taco Shells": {
+  "base": "taco shells",
+  "derived_from": null,
+  "synonyms": [
+   "hard shells"
+  ]
+ },
+ "Harissa Paste": {
+  "base": "harissa paste",
+  "derived_from": "chillies",
+  "synonyms": [
+   "harissa"
+  ]
+ },
+ "Hariyali Chicken Tikka": {
+  "base": "chicken tikka",
+  "derived_from": "chicken",
+  "synonyms": [
+   "green chicken tikka"
+  ]
+ },
+ "Hash Browns": {
+  "base": "hash browns",
+  "derived_from": "potato",
+  "synonyms": [
+   "potato hash"
+  ]
+ },
+ "Hazelnut": {
+  "base": "hazelnut",
+  "derived_from": null,
+  "synonyms": [
+   "cory nut",
+   "filbert"
+  ]
+ },
+ "Hazelnut Meal": {
+  "base": "hazelnut meal",
+  "derived_from": "hazelnut",
+  "synonyms": [
+   "hazelnut flour"
+  ]
+ },
+ "Heavy Whipping Cream": {
+  "base": "cream",
+  "derived_from": "milk",
+  "synonyms": [
+   "heavy cream",
+   "whipping cream"
+  ]
+ },
+ "Herring Fish Steaks": {
+  "base": "herring",
+  "derived_from": null,
+  "synonyms": [
+   "herring fish"
+  ]
+ },
+ "Hilsa Fish": {
+  "base": "hilsa",
+  "derived_from": null,
+  "synonyms": [
+   "hilsa fish",
+   "ilish"
+  ]
+ },
+ "Hog Plum": {
+  "base": "hog plum",
+  "derived_from": null,
+  "synonyms": [
+   "jambul",
+   "java plum"
+  ]
+ },
+ "Homemade Basil Pesto": {
+  "base": "pesto",
+  "derived_from": "basil",
+  "synonyms": [
+   "basil pesto"
+  ]
+ },
+ "Homemade Hoisin Sauce": {
+  "base": "hoisin sauce",
+  "derived_from": null,
+  "synonyms": [
+   "hoisin"
+  ]
+ },
+ "Homemade Hummus": {
+  "base": "hummus",
+  "derived_from": "chickpeas",
+  "synonyms": [
+   "chickpea dip"
+  ]
+ },
+ "Homemade Marinara Sauce": {
+  "base": "marinara sauce",
+  "derived_from": "tomato",
+  "synonyms": [
+   "tomato sauce"
+  ]
+ },
+ "Honey": {
+  "base": "honey",
+  "derived_from": null,
+  "synonyms": [
+   "shahad"
+  ]
+ },
+ "Honey Mustard Dressing": {
+  "base": "honey mustard dressing",
+  "derived_from": null,
+  "synonyms": [
+   "honey mustard"
+  ]
+ },
+ "Horse Gram Dal": {
+  "base": "horse gram dal",
+  "derived_from": "horse gram",
+  "synonyms": [
+   "kuttu dal",
+   "matki dal"
+  ]
+ },
+ "Horse Gram Flour": {
+  "base": "horse gram flour",
+  "derived_from": "horse gram",
+  "synonyms": [
+   "kuttu atta",
+   "matki flour"
+  ]
+ },
+ "Hot Water": {
+  "base": "water",
+  "derived_from": null,
+  "synonyms": [
+   "hot water"
+  ]
+ },
+ "Hummus": {
+  "base": "hummus",
+  "derived_from": "chickpeas",
+  "synonyms": [
+   "chickpea dip"
+  ]
+ },
+ "Hung Curd": {
+  "base": "yogurt",
+  "derived_from": null,
+  "synonyms": [
+   "hung curd",
+   "strained yogurt"
+  ]
+ },
+ "Hung Yogurt": {
+  "base": "yogurt",
+  "derived_from": null,
+  "synonyms": [
+   "hung curd",
+   "strained yogurt"
+  ]
+ },
+ "Ice": {
+  "base": "ice",
+  "derived_from": null,
+  "synonyms": [
+   "frozen water"
+  ]
+ },
+ "Ice Cubes": {
+  "base": "ice",
+  "derived_from": null,
+  "synonyms": [
+   "frozen water"
+  ]
+ },
+ "Ice Wine": {
+  "base": "ice wine",
+  "derived_from": "grapes",
+  "synonyms": [
+   "eiswein"
+  ]
+ },
+ "Iceberg Lettuce": {
+  "base": "lettuce",
+  "derived_from": null,
+  "synonyms": [
+   "crisphead lettuce",
+   "iceberg lettuce"
+  ]
+ },
+ "Icing Sugar": {
+  "base": "icing sugar",
+  "derived_from": null,
+  "synonyms": [
+   "confectioners sugar",
+   "powdered sugar"
+  ]
+ },
+ "Idli": {
+  "base": "idli",
+  "derived_from": "rice",
+  "synonyms": [
+   "idli cake"
+  ]
+ },
+ "Idli Dosa Batter": {
+  "base": "idli dosa batter",
+  "derived_from": "rice",
+  "synonyms": [
+   "dosa batter",
+   "idli batter"
+  ]
+ },
+ "Idli Dosa Mixture": {
+  "base": "idli dosa mixture",
+  "derived_from": "rice",
+  "synonyms": [
+   "idli dosa batter"
+  ]
+ },
+ "Idli Rice": {
+  "base": "rice",
+  "derived_from": null,
+  "synonyms": [
+   "idli rice",
+   "parboiled rice"
+  ]
+ },
+ "Ilish Fish": {
+  "base": "hilsa",
+  "derived_from": null,
+  "synonyms": [
+   "hilsa fish",
+   "ilish",
+   "mrigil"
+  ]
+ },
+ "Indian Borage": {
+  "base": "borage",
+  "derived_from": null,
+  "synonyms": [
+   "borage leaves",
+   "star flower"
+  ]
+ },
+ "Instant Coffee Powder": {
+  "base": "instant coffee",
+  "derived_from": "coffee",
+  "synonyms": [
+   "dried coffee",
+   "instant coffee powder"
+  ]
+ },
+ "Instant Oats": {
+  "base": "oats",
+  "derived_from": null,
+  "synonyms": [
+   "instant oatmeal",
+   "oatmeal"
+  ]
+ },
+ "Italian Seasoning": {
+  "base": "italian seasoning",
+  "derived_from": null,
+  "synonyms": [
+   "dried italian herbs",
+   "italian herb mix"
+  ]
+ },
+ "Jackfruit": {
+  "base": "jackfruit",
+  "derived_from": null,
+  "synonyms": [
+   "jack fruit",
+   "kathal"
+  ]
+ },
+ "Jackfruit Seeds": {
+  "base": "jackfruit seeds",
+  "derived_from": "jackfruit",
+  "synonyms": [
+   "jackfruit kernels",
+   "kathal seeds"
+  ]
+ },
+ "Jaggery": {
+  "base": "jaggery",
+  "derived_from": "sugarcane",
+  "synonyms": [
+   "brown sugar",
+   "gur",
+   "unrefined sugar"
+  ]
+ },
+ "Jalapenos": {
+  "base": "jalapeno",
+  "derived_from": null,
+  "synonyms": [
+   "green jalapeno",
+   "jalapeno pepper"
+  ]
+ },
+ "Jam": {
+  "base": "jam",
+  "derived_from": "fruit",
+  "synonyms": [
+   "fruit jam",
+   "preserved fruit"
+  ]
+ },
+ "Jamun": {
+  "base": "jamun",
+  "derived_from": null,
+  "synonyms": [
+   "black plum",
+   "jamun fruit",
+   "java plum"
+  ]
+ },
+ "Japanese Eggplant": {
+  "base": "eggplant",
+  "derived_from": null,
+  "synonyms": [
+   "aubergine",
+   "brinjal",
+   "japanese brinjal"
+  ]
+ },
+ "Jasmine Rice": {
+  "base": "rice",
+  "derived_from": null,
+  "synonyms": [
+   "fragrant rice",
+   "jasmine rice"
+  ]
+ },
+ "Jawla Fish": {
+  "base": "jawla fish",
+  "derived_from": null,
+  "synonyms": [
+   "jawla",
+   "jawla fish"
+  ]
+ },
+ "Jowar Flour": {
+  "base": "sorghum flour",
+  "derived_from": "sorghum",
+  "synonyms": [
+   "jowar atta",
+   "sorghum flour"
+  ]
+ },
+ "Jowar Seeds": {
+  "base": "sorghum",
+  "derived_from": null,
+  "synonyms": [
+   "great millet",
+   "jowar"
+  ]
+ },
+ "Kababchini": {
+  "base": "kababchini",
+  "derived_from": null,
+  "synonyms": [
+   "kabab chini",
+   "kababchini"
+  ]
+ },
+ "Kabuli Chana": {
+  "base": "chickpea",
+  "derived_from": null,
+  "synonyms": [
+   "chickpeas",
+   "garbanzo beans",
+   "kabuli chana"
+  ]
+ },
+ "Kachri": {
+  "base": "melon",
+  "derived_from": null,
+  "synonyms": [
+   "citrullus colocynthis",
+   "kachri",
+   "wild melon"
+  ]
+ },
+ "Kaddu": {
+  "base": "pumpkin",
+  "derived_from": null,
+  "synonyms": [
+   "kaddu",
+   "pumpkin",
+   "winter squash"
+  ]
+ },
+ "Kaffir Lime Leaves": {
+  "base": "kaffir lime leaves",
+  "derived_from": null,
+  "synonyms": [
+   "citrus hystrix leaves",
+   "makrut lime leaves"
+  ]
+ },
+ "Kala Chana": {
+  "base": "chickpea",
+  "derived_from": null,
+  "synonyms": [
+   "chana",
+   "garbanzo bean",
+   "kabuli chana"
+  ]
+ },
+ "Kala Jeera": {
+  "base": "cumin",
+  "derived_from": null,
+  "synonyms": [
+   "black cumin",
+   "jeera",
+   "nigella"
+  ]
+ },
+ "Kale": {
+  "base": "kale",
+  "derived_from": null,
+  "synonyms": [
+   "collard greens",
+   "curly kale"
+  ]
+ },
+ "Kalmatta Olives": {
+  "base": "olive",
+  "derived_from": null,
+  "synonyms": [
+   "black olive",
+   "kalamata olive"
+  ]
+ },
+ "Kalonji": {
+  "base": "nigella seeds",
+  "derived_from": null,
+  "synonyms": [
+   "black cumin",
+   "kalonji",
+   "kalonji seeds"
+  ]
+ },
+ "Kandathipli": {
+  "base": "mustard seeds",
+  "derived_from": null,
+  "synonyms": [
+   "rai",
+   "rai ka beej",
+   "sarson"
+  ]
+ },
+ "Karela": {
+  "base": "bitter gourd",
+  "derived_from": null,
+  "synonyms": [
+   "bitter melon",
+   "goya",
+   "karela"
+  ]
+ },
+ "Kashmiri Dry Red Chilli": {
+  "base": "chilli",
+  "derived_from": null,
+  "synonyms": [
+   "kashmiri mirch",
+   "mirch",
+   "red chilli"
+  ]
+ },
+ "Kashmiri Masala Powder": {
+  "base": "kashmiri masala",
+  "derived_from": null,
+  "synonyms": [
+   "kashmiri masala",
+   "kashmiri masala powder"
+  ]
+ },
+ "Kashmiri Rajma": {
+  "base": "kidney beans",
+  "derived_from": null,
+  "synonyms": [
+   "rajma",
+   "red kidney beans"
+  ]
+ },
+ "Kashmiri Red Chilli Powder": {
+  "base": "chilli powder",
+  "derived_from": "chilli",
+  "synonyms": [
+   "mirch powder",
+   "red chilli powder"
+  ]
+ },
+ "Kasoori Methi": {
+  "base": "dried fenugreek leaves",
+  "derived_from": "fenugreek",
+  "synonyms": [
+   "fenugreek leaves",
+   "kasuri methi"
+  ]
+ },
+ "Kasundi Mustard Sauce": {
+  "base": "mustard sauce",
+  "derived_from": "mustard",
+  "synonyms": [
+   "kasundi",
+   "mustard paste"
+  ]
+ },
+ "Kataifi Dough": {
+  "base": "kataifi dough",
+  "derived_from": "flour",
+  "synonyms": [
+   "kataifi",
+   "shredded phyllo"
+  ]
+ },
+ "Kewra Essence": {
+  "base": "kewra essence",
+  "derived_from": "kewra",
+  "synonyms": [
+   "kewra water",
+   "screwpine essence"
+  ]
+ },
+ "Kewra Water": {
+  "base": "kewra water",
+  "derived_from": "kewra",
+  "synonyms": [
+   "kewra essence",
+   "screwpine water"
+  ]
+ },
+ "Khaman Dhokla": {
+  "base": "dhokla",
+  "derived_from": "chickpea flour",
+  "synonyms": [
+   "khaman",
+   "steamed cake"
+  ]
+ },
+ "Khichdi": {
+  "base": "khichdi",
+  "derived_from": "rice",
+  "synonyms": [
+   "khichri",
+   "rice and lentil porridge"
+  ]
+ },
+ "Khoya": {
+  "base": "khoya",
+  "derived_from": "milk",
+  "synonyms": [
+   "mawa",
+   "reduced milk solids"
+  ]
+ },
+ "Khuskhus": {
+  "base": "musk mallow",
+  "derived_from": null,
+  "synonyms": [
+   "khus khus",
+   "malva",
+   "musk mallow"
+  ]
+ },
+ "Kidney Beans": {
+  "base": "kidney beans",
+  "derived_from": null,
+  "synonyms": [
+   "rajma",
+   "red kidney beans"
+  ]
+ },
+ "Kimchi": {
+  "base": "kimchi",
+  "derived_from": "cabbage",
+  "synonyms": [
+   "korean fermented cabbage"
+  ]
+ },
+ "King Fish": {
+  "base": "kingfish",
+  "derived_from": null,
+  "synonyms": [
+   "bangda",
+   "indian mackerel",
+   "king fish"
+  ]
+ },
+ "Kiwi": {
+  "base": "kiwi",
+  "derived_from": null,
+  "synonyms": [
+   "kiwifruit"
+  ]
+ },
+ "Knol Khol": {
+  "base": "kohlrabi",
+  "derived_from": null,
+  "synonyms": [
+   "chakora",
+   "knol khol",
+   "kohlrabi"
+  ]
+ },
+ "Knol Khol Leaves": {
+  "base": "kohlrabi leaves",
+  "derived_from": "kohlrabi",
+  "synonyms": [
+   "knol khol leaves",
+   "kohlrabi greens"
+  ]
+ },
+ "Kohl Rabi": {
+  "base": "kohlrabi",
+  "derived_from": null,
+  "synonyms": [
+   "chakora",
+   "knol khol",
+   "kohlrabi"
+  ]
+ },
+ "Kokum": {
+  "base": "kokum",
+  "derived_from": null,
+  "synonyms": [
+   "garcinia indica",
+   "kokam"
+  ]
+ },
+ "Kosher Salt": {
+  "base": "salt",
+  "derived_from": null,
+  "synonyms": [
+   "kosher salt",
+   "sea salt"
+  ]
+ },
+ "Kunafa Dough": {
+  "base": "kunafa dough",
+  "derived_from": "flour",
+  "synonyms": [
+   "kunafa dough",
+   "kunafa pastry"
+  ]
+ },
+ "Kunafa Pastry": {
+  "base": "kunafa dough",
+  "derived_from": "flour",
+  "synonyms": [
+   "kunafa dough",
+   "kunafa pastry"
+  ]
+ },
+ "Lady Finger": {
+  "base": "okra",
+  "derived_from": null,
+  "synonyms": [
+   "bhindi",
+   "lady finger",
+   "lady s finger"
+  ]
+ },
+ "Lahsun Ki Chutney": {
+  "base": "garlic chutney",
+  "derived_from": "garlic",
+  "synonyms": [
+   "garlic chutney",
+   "lahsun chutney"
+  ]
+ },
+ "Lamb Chops": {
+  "base": "lamb",
+  "derived_from": null,
+  "synonyms": [
+   "lamb chops",
+   "mutton chops"
+  ]
+ },
+ "Lamb Ribs": {
+  "base": "lamb",
+  "derived_from": null,
+  "synonyms": [
+   "lamb ribs",
+   "mutton ribs"
+  ]
+ },
+ "Lasagna Sheets": {
+  "base": "pasta",
+  "derived_from": "flour",
+  "synonyms": [
+   "lasagna",
+   "lasagne"
+  ]
+ },
+ "Lebanese Cucumber": {
+  "base": "cucumber",
+  "derived_from": null,
+  "synonyms": [
+   "cucumber",
+   "kheera"
+  ]
+ },
+ "Leek": {
+  "base": "leek",
+  "derived_from": null,
+  "synonyms": [
+   "leek",
+   "pudina"
+  ]
+ },
+ "Lemon": {
+  "base": "lemon",
+  "derived_from": null,
+  "synonyms": [
+   "lemon",
+   "nimbu"
+  ]
+ },
+ "Lemon Glaze": {
+  "base": "lemon glaze",
+  "derived_from": "lemon",
+  "synonyms": [
+   "lemon glaze"
+  ]
+ },
+ "Lemon Juice": {
+  "base": "lemon juice",
+  "derived_from": "lemon",
+  "synonyms": [
+   "lemon juice",
+   "nimbu ka ras"
+  ]
+ },
+ "Lemon Pound Cake": {
+  "base": "lemon pound cake",
+  "derived_from": "lemon",
+  "synonyms": [
+   "lemon pound cake"
+  ]
+ },
+ "Lemon Zest": {
+  "base": "lemon zest",
+  "derived_from": "lemon",
+  "synonyms": [
+   "lemon peel",
+   "lemon zest"
+  ]
+ },
+ "Lemongrass": {
+  "base": "lemongrass",
+  "derived_from": null,
+  "synonyms": [
+   "citronella",
+   "lemongrass"
+  ]
+ },
+ "Lentil Sugar": {
+  "base": "sugar",
+  "derived_from": "lentil",
+  "synonyms": [
+   "lentil sugar",
+   "sugar"
+  ]
+ },
+ "Lentil Water": {
+  "base": "lentil water",
+  "derived_from": "lentil",
+  "synonyms": [
+   "dal water",
+   "lentil water"
+  ]
+ },
+ "Lettuce Leaves": {
+  "base": "lettuce",
+  "derived_from": null,
+  "synonyms": [
+   "kheera",
+   "lettuce"
+  ]
+ },
+ "Linguine Pasta": {
+  "base": "pasta",
+  "derived_from": "flour",
+  "synonyms": [
+   "linguine",
+   "pasta"
+  ]
+ },
+ "Long Pepper": {
+  "base": "long pepper",
+  "derived_from": null,
+  "synonyms": [
+   "long pepper",
+   "pippali"
+  ]
+ },
+ "Lotus Seeds": {
+  "base": "lotus seeds",
+  "derived_from": "lotus",
+  "synonyms": [
+   "lotus seeds",
+   "makhana"
+  ]
+ },
+ "Lotus Stem": {
+  "base": "lotus stem",
+  "derived_from": "lotus",
+  "synonyms": [
+   "kamal kakdi",
+   "lotus stem"
+  ]
+ },
+ "Lukewarm Water": {
+  "base": "water",
+  "derived_from": null,
+  "synonyms": [
+   "lukewarm water",
+   "water"
+  ]
+ },
+ "Macaroni Pasta": {
+  "base": "pasta",
+  "derived_from": "flour",
+  "synonyms": [
+   "macaroni",
+   "pasta"
+  ]
+ },
+ "Mace": {
+  "base": "mace",
+  "derived_from": null,
+  "synonyms": [
+   "javitri",
+   "mace"
+  ]
+ },
+ "Mace Powder": {
+  "base": "mace powder",
+  "derived_from": "mace",
+  "synonyms": [
+   "javitri powder",
+   "mace powder"
+  ]
+ },
+ "Mackerel Fish": {
+  "base": "mackerel",
+  "derived_from": null,
+  "synonyms": [
+   "bangda",
+   "mackerel"
+  ]
+ },
+ "Maharashtrian Goda Masala": {
+  "base": "goda masala",
+  "derived_from": null,
+  "synonyms": [
+   "goda masala",
+   "maharashtrian goda masala"
+  ]
+ },
+ "Maida": {
+  "base": "flour",
+  "derived_from": "wheat",
+  "synonyms": [
+   "all purpose flour",
+   "maida",
+   "refined flour"
+  ]
+ },
+ "Maize Dalia": {
+  "base": "cornmeal",
+  "derived_from": "corn",
+  "synonyms": [
+   "cornmeal",
+   "maize dalia",
+   "makkai dalia"
+  ]
+ },
+ "Makki Ka Atta": {
+  "base": "corn flour",
+  "derived_from": "corn",
+  "synonyms": [
+   "corn meal",
+   "maize flour",
+   "makki ka atta"
+  ]
+ },
+ "Malabar Spinach Leaves": {
+  "base": "malabar spinach",
+  "derived_from": null,
+  "synonyms": [
+   "chaulai",
+   "gongura",
+   "jute mallow",
+   "kang kong"
+  ]
+ },
+ "Malt Vinegar": {
+  "base": "malt vinegar",
+  "derived_from": "malt",
+  "synonyms": [
+   "barley vinegar"
+  ]
+ },
+ "Manathakkali Kai Vathal": {
+  "base": "manathakkali kai vathal",
+  "derived_from": "cucumber",
+  "synonyms": [
+   "cucumber pickle",
+   "kai vathal"
+  ]
+ },
+ "Mangalorean Cucumber": {
+  "base": "cucumber",
+  "derived_from": null,
+  "synonyms": [
+   "kheera",
+   "khira"
+  ]
+ },
+ "Mango": {
+  "base": "mango",
+  "derived_from": null,
+  "synonyms": [
+   "aam",
+   "am"
+  ]
+ },
+ "Mango Ginger": {
+  "base": "mango ginger",
+  "derived_from": null,
+  "synonyms": [
+   "adhatoda",
+   "finger root",
+   "kumari"
+  ]
+ },
+ "Mango Pickle": {
+  "base": "mango pickle",
+  "derived_from": "mango",
+  "synonyms": [
+   "aam ka achaar",
+   "mango achaar"
+  ]
+ },
+ "Mango Powder": {
+  "base": "mango powder",
+  "derived_from": "mango",
+  "synonyms": [
+   "aam powder",
+   "mango essence"
+  ]
+ },
+ "Mango Pulp": {
+  "base": "mango pulp",
+  "derived_from": "mango",
+  "synonyms": [
+   "aam pulp",
+   "mango puree"
+  ]
+ },
+ "Maple Syrup": {
+  "base": "maple syrup",
+  "derived_from": "maple",
+  "synonyms": [
+   "maple sugar"
+  ]
+ },
+ "Margarine": {
+  "base": "margarine",
+  "derived_from": null,
+  "synonyms": [
+   "vanaspati",
+   "vegetable ghee"
+  ]
+ },
+ "Marie Biscuit": {
+  "base": "marie biscuit",
+  "derived_from": null,
+  "synonyms": [
+   "marie cracker",
+   "plain biscuit"
+  ]
+ },
+ "Marinara Sauce": {
+  "base": "marinara sauce",
+  "derived_from": "tomato",
+  "synonyms": [
+   "marinara",
+   "tomato sauce"
+  ]
+ },
+ "Mascarpone Cheese": {
+  "base": "mascarpone",
+  "derived_from": "milk",
+  "synonyms": [
+   "italian cream cheese",
+   "mascarpone cheese"
+  ]
+ },
+ "Masoor Dal": {
+  "base": "masoor dal",
+  "derived_from": null,
+  "synonyms": [
+   "masoor",
+   "masoor lentils",
+   "red lentils"
+  ]
+ },
+ "Matcha Powder": {
+  "base": "matcha",
+  "derived_from": "green tea",
+  "synonyms": [
+   "matcha green tea",
+   "powdered green tea"
+  ]
+ },
+ "Mayonnaise": {
+  "base": "mayonnaise",
+  "derived_from": "egg",
+  "synonyms": [
+   "mayo",
+   "mayonnaise sauce"
+  ]
+ },
+ "Medu Vada": {
+  "base": "medu vada",
+  "derived_from": "urad dal",
+  "synonyms": [
+   "dosa vada",
+   "medu vada",
+   "urad vada"
+  ]
+ },
+ "Melon Seeds": {
+  "base": "melon seeds",
+  "derived_from": "melon",
+  "synonyms": [
+   "bitter melon seeds",
+   "karela seeds"
+  ]
+ },
+ "Methi Leaves": {
+  "base": "fenugreek leaves",
+  "derived_from": null,
+  "synonyms": [
+   "fenugreek",
+   "methi"
+  ]
+ },
+ "Methi Powder": {
+  "base": "fenugreek powder",
+  "derived_from": "fenugreek",
+  "synonyms": [
+   "fenugreek powder",
+   "methi powder"
+  ]
+ },
+ "Methi Seeds": {
+  "base": "fenugreek seeds",
+  "derived_from": null,
+  "synonyms": [
+   "fenugreek",
+   "methi dana"
+  ]
+ },
+ "Mexican Seasoning": {
+  "base": "mexican seasoning",
+  "derived_from": null,
+  "synonyms": [
+   "taco seasoning"
+  ]
+ },
+ "Milk": {
+  "base": "milk",
+  "derived_from": null,
+  "synonyms": [
+   "doodh"
+  ]
+ },
+ "Milk Powder": {
+  "base": "milk powder",
+  "derived_from": "milk",
+  "synonyms": [
+   "dried milk",
+   "powdered milk"
+  ]
+ },
+ "Millet Flour": {
+  "base": "millet flour",
+  "derived_from": "millet",
+  "synonyms": [
+   "bajra flour",
+   "jowar flour",
+   "ragi flour"
+  ]
+ },
+ "Mini Pita Breads": {
+  "base": "pita bread",
+  "derived_from": null,
+  "synonyms": [
+   "naan",
+   "pita",
+   "puri"
+  ]
+ },
+ "Mint": {
+  "base": "mint",
+  "derived_from": null,
+  "synonyms": [
+   "peppermint",
+   "pudina"
+  ]
+ },
+ "Mint Leaves": {
+  "base": "mint",
+  "derived_from": null,
+  "synonyms": [
+   "peppermint",
+   "pudina"
+  ]
+ },
+ "Mint Mayo": {
+  "base": "mayonnaise",
+  "derived_from": null,
+  "synonyms": [
+   "mayo",
+   "mayo sauce"
+  ]
+ },
+ "Mint Powder": {
+  "base": "mint powder",
+  "derived_from": "mint",
+  "synonyms": [
+   "dried mint",
+   "mint flakes"
+  ]
+ },
+ "Mishti Doi": {
+  "base": "sweet yogurt",
+  "derived_from": "yogurt",
+  "synonyms": [
+   "sugar yogurt",
+   "sweet curd"
+  ]
+ },
+ "Mixed Berries": {
+  "base": "berries",
+  "derived_from": null,
+  "synonyms": [
+   "assorted berries",
+   "berry mix"
+  ]
+ },
+ "Mixed Dry Fruits": {
+  "base": "dry fruits",
+  "derived_from": null,
+  "synonyms": [
+   "assorted nuts",
+   "dry fruit mix",
+   "nut mix"
+  ]
+ },
+ "Mixed Fruits": {
+  "base": "mixed fruits",
+  "derived_from": null,
+  "synonyms": [
+   "assorted fruits",
+   "fruit mix"
+  ]
+ },
+ "Mixed Herbs": {
+  "base": "mixed herbs",
+  "derived_from": null,
+  "synonyms": [
+   "assorted herbs",
+   "herb mix"
+  ]
+ },
+ "Mixed Millets": {
+  "base": "mixed millets",
+  "derived_from": null,
+  "synonyms": [
+   "assorted millets",
+   "millet mix"
+  ]
+ },
+ "Mixed Nuts": {
+  "base": "mixed nuts",
+  "derived_from": null,
+  "synonyms": [
+   "assorted nuts",
+   "nut mix"
+  ]
+ },
+ "Mixed Sprouts": {
+  "base": "mixed sprouts",
+  "derived_from": null,
+  "synonyms": [
+   "assorted sprouts",
+   "sprout mix"
+  ]
+ },
+ "Mixed Vegetables": {
+  "base": "mixed vegetables",
+  "derived_from": null,
+  "synonyms": [
+   "mixed sabzi",
+   "sabzi"
+  ]
+ },
+ "Mooli": {
+  "base": "radish",
+  "derived_from": null,
+  "synonyms": [
+   "daikon",
+   "mooli",
+   "white radish"
+  ]
+ },
+ "Mooli/ Mullangi": {
+  "base": "radish",
+  "derived_from": null,
+  "synonyms": [
+   "daikon",
+   "mooli",
+   "white radish"
+  ]
+ },
+ "Moth Dal": {
+  "base": "moth dal",
+  "derived_from": null,
+  "synonyms": [
+   "horse gram",
+   "matki",
+   "matki dal"
+  ]
+ },
+ "Moth Sprouts": {
+  "base": "moth sprouts",
+  "derived_from": "moth dal",
+  "synonyms": [
+   "horse gram sprouts",
+   "matki sprouts"
+  ]
+ },
+ "Mozzarella Cheese": {
+  "base": "mozzarella cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "mozzarella"
+  ]
+ },
+ "Muesli": {
+  "base": "muesli",
+  "derived_from": null,
+  "synonyms": [
+   "granola",
+   "oat cereal"
+  ]
+ },
+ "Mughlai Meetha Attar": {
+  "base": "attar",
+  "derived_from": null,
+  "synonyms": [
+   "fragrance oil",
+   "perfume oil"
+  ]
+ },
+ "Multigrain Flour": {
+  "base": "flour",
+  "derived_from": null,
+  "synonyms": [
+   "atta",
+   "maida"
+  ]
+ },
+ "Mushrooms": {
+  "base": "mushroom",
+  "derived_from": null,
+  "synonyms": [
+   "mushroom"
+  ]
+ },
+ "Mustard": {
+  "base": "mustard",
+  "derived_from": null,
+  "synonyms": [
+   "rai",
+   "sarson"
+  ]
+ },
+ "Mustard Oil": {
+  "base": "mustard oil",
+  "derived_from": "mustard",
+  "synonyms": [
+   "rai ka tel",
+   "sarson ka tel"
+  ]
+ },
+ "Mustard Powder": {
+  "base": "mustard powder",
+  "derived_from": "mustard",
+  "synonyms": [
+   "rai ka chutney",
+   "sarson ka chutney"
+  ]
+ },
+ "Mustard Sauce": {
+  "base": "mustard sauce",
+  "derived_from": "mustard",
+  "synonyms": [
+   "mustard condiment"
+  ]
+ },
+ "Mustard Seeds": {
+  "base": "mustard seeds",
+  "derived_from": null,
+  "synonyms": [
+   "rai",
+   "sarson"
+  ]
+ },
+ "Mutton": {
+  "base": "mutton",
+  "derived_from": null,
+  "synonyms": [
+   "bakra",
+   "goat meat",
+   "marg",
+   "sheep meat"
+  ]
+ },
+ "Mutton Kheema": {
+  "base": "mutton kheema",
+  "derived_from": "mutton",
+  "synonyms": [
+   "kheema",
+   "minced mutton",
+   "mutton mince"
+  ]
+ },
+ "Mutton Legs": {
+  "base": "mutton",
+  "derived_from": null,
+  "synonyms": [
+   "goat leg",
+   "mutton shank",
+   "sheep leg"
+  ]
+ },
+ "Naan": {
+  "base": "naan",
+  "derived_from": null,
+  "synonyms": [
+   "flatbread",
+   "naan bread"
+  ]
+ },
+ "Nagkesar": {
+  "base": "nagkesar",
+  "derived_from": null,
+  "synonyms": [
+   "crocus sativus",
+   "kesar",
+   "saffron crocus"
+  ]
+ },
+ "Napa Cabbage": {
+  "base": "napa cabbage",
+  "derived_from": null,
+  "synonyms": [
+   "bok choy",
+   "chinese cabbage",
+   "pak choi"
+  ]
+ },
+ "Neem Flowers": {
+  "base": "neem flowers",
+  "derived_from": null,
+  "synonyms": [
+   "neem blossoms",
+   "nim phool"
+  ]
+ },
+ "Neem Leaves": {
+  "base": "neem leaves",
+  "derived_from": null,
+  "synonyms": [
+   "neem patti",
+   "nim patti"
+  ]
+ },
+ "Nendra Pazham Banana": {
+  "base": "banana",
+  "derived_from": null,
+  "synonyms": [
+   "nendran",
+   "nendran banana",
+   "plantain"
+  ]
+ },
+ "Nigella Seeds": {
+  "base": "nigella seeds",
+  "derived_from": null,
+  "synonyms": [
+   "black cumin",
+   "kalonji",
+   "kalonji seeds"
+  ]
+ },
+ "Nolen Gur": {
+  "base": "jaggery",
+  "derived_from": null,
+  "synonyms": [
+   "gur",
+   "nolen",
+   "palm jaggery"
+  ]
+ },
+ "Nutella Spread": {
+  "base": "chocolate hazelnut spread",
+  "derived_from": null,
+  "synonyms": [
+   "hazelnut spread",
+   "nutella"
+  ]
+ },
+ "Nutmeg": {
+  "base": "nutmeg",
+  "derived_from": null,
+  "synonyms": [
+   "jaiphal"
+  ]
+ },
+ "Nutmeg Powder": {
+  "base": "nutmeg powder",
+  "derived_from": "nutmeg",
+  "synonyms": [
+   "ground nutmeg",
+   "jaiphal powder"
+  ]
+ },
+ "Nutralite Cheesy Garlic Mayo": {
+  "base": "mayonnaise",
+  "derived_from": null,
+  "synonyms": [
+   "cheesy garlic mayo",
+   "mayo"
+  ]
+ },
+ "Nutralite Classic Spread": {
+  "base": "margarine",
+  "derived_from": null,
+  "synonyms": [
+   "butter",
+   "ghee",
+   "vanaspati"
+  ]
+ },
+ "Nutralite Garlic Oregano Spread": {
+  "base": "margarine",
+  "derived_from": null,
+  "synonyms": [
+   "butter",
+   "ghee",
+   "vanaspati"
+  ]
+ },
+ "Oat Bran": {
+  "base": "oats",
+  "derived_from": null,
+  "synonyms": [
+   "oat bran"
+  ]
+ },
+ "Oatmeal": {
+  "base": "oats",
+  "derived_from": null,
+  "synonyms": [
+   "oat flakes",
+   "oats"
+  ]
+ },
+ "Oats": {
+  "base": "oats",
+  "derived_from": null,
+  "synonyms": [
+   "oat flakes",
+   "oatmeal"
+  ]
+ },
+ "Oats Flour": {
+  "base": "oats flour",
+  "derived_from": "oats",
+  "synonyms": [
+   "oat flour",
+   "oatmeal flour"
+  ]
+ },
+ "Oil": {
+  "base": "oil",
+  "derived_from": null,
+  "synonyms": [
+   "cooking oil",
+   "ghee",
+   "tel"
+  ]
+ },
+ "Okra": {
+  "base": "okra",
+  "derived_from": null,
+  "synonyms": [
+   "bhindi",
+   "lady finger",
+   "lady s finger"
+  ]
+ },
+ "Olive Oil": {
+  "base": "olive oil",
+  "derived_from": "olive",
+  "synonyms": [
+   "zaitoon ka tel"
+  ]
+ },
+ "Onion": {
+  "base": "onion",
+  "derived_from": null,
+  "synonyms": [
+   "pyaaz",
+   "pyaz",
+   "shallot"
+  ]
+ },
+ "Onion Powder": {
+  "base": "onion powder",
+  "derived_from": "onion",
+  "synonyms": []
+ },
+ "Orange": {
+  "base": "orange",
+  "derived_from": null,
+  "synonyms": [
+   "sweet orange"
+  ]
+ },
+ "Orange Bell Pepper": {
+  "base": "capsicum",
+  "derived_from": null,
+  "synonyms": [
+   "bell pepper",
+   "shimla mirch"
+  ]
+ },
+ "Orange Marmalade Jam": {
+  "base": "orange marmalade",
+  "derived_from": "orange",
+  "synonyms": [
+   "orange jam"
+  ]
+ },
+ "Orange Peel": {
+  "base": "orange peel",
+  "derived_from": "orange",
+  "synonyms": [
+   "orange rind"
+  ]
+ },
+ "Orange Pulp": {
+  "base": "orange pulp",
+  "derived_from": "orange",
+  "synonyms": [
+   "orange flesh"
+  ]
+ },
+ "Orange Zest": {
+  "base": "orange zest",
+  "derived_from": "orange",
+  "synonyms": [
+   "orange peel"
+  ]
+ },
+ "Oregano": {
+  "base": "oregano",
+  "derived_from": null,
+  "synonyms": [
+   "marjoram"
+  ]
+ },
+ "Oregano Leaves": {
+  "base": "oregano",
+  "derived_from": null,
+  "synonyms": [
+   "marjoram"
+  ]
+ },
+ "Oreo Biscuits": {
+  "base": "biscuit",
+  "derived_from": null,
+  "synonyms": [
+   "cookie"
+  ]
+ },
+ "Oyster Sauce": {
+  "base": "oyster sauce",
+  "derived_from": "oyster",
+  "synonyms": []
+ },
+ "Palm Jaggery": {
+  "base": "jaggery",
+  "derived_from": "palm sap",
+  "synonyms": [
+   "gur",
+   "palm sugar"
+  ]
+ },
+ "Palm Sugar": {
+  "base": "palm sugar",
+  "derived_from": "palm sap",
+  "synonyms": [
+   "gur",
+   "jaggery"
+  ]
+ },
+ "Panch Phoran Masala": {
+  "base": "panch phoran",
+  "derived_from": null,
+  "synonyms": [
+   "five spice mix"
+  ]
+ },
+ "Paneer": {
+  "base": "paneer",
+  "derived_from": "milk",
+  "synonyms": [
+   "cottage cheese"
+  ]
+ },
+ "Pani Puris": {
+  "base": "pani puri",
+  "derived_from": null,
+  "synonyms": [
+   "golgappa",
+   "puchka"
+  ]
+ },
+ "Papad": {
+  "base": "papad",
+  "derived_from": null,
+  "synonyms": [
+   "papadum"
+  ]
+ },
+ "Papaya": {
+  "base": "papaya",
+  "derived_from": null,
+  "synonyms": [
+   "papita"
+  ]
+ },
+ "Papaya Juice": {
+  "base": "papaya juice",
+  "derived_from": "papaya",
+  "synonyms": []
+ },
+ "Papdi Puris": {
+  "base": "papdi puri",
+  "derived_from": null,
+  "synonyms": [
+   "crispy puri"
+  ]
+ },
+ "Paprika": {
+  "base": "paprika",
+  "derived_from": null,
+  "synonyms": [
+   "red pepper powder"
+  ]
+ },
+ "Paprika Powder": {
+  "base": "paprika",
+  "derived_from": null,
+  "synonyms": [
+   "red pepper powder"
+  ]
+ },
+ "Parmesan Cheese": {
+  "base": "parmesan cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "parmigiano"
+  ]
+ },
+ "Parmigiano Reggiano Cheese": {
+  "base": "parmesan cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "parmigiano"
+  ]
+ },
+ "Parsley Leaves": {
+  "base": "parsley",
+  "derived_from": null,
+  "synonyms": [
+   "coriander substitute"
+  ]
+ },
+ "Parsnip": {
+  "base": "parsnip",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Pasta": {
+  "base": "pasta",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Pav Bhaji Masala": {
+  "base": "pav bhaji masala",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Pav Buns": {
+  "base": "pav",
+  "derived_from": null,
+  "synonyms": [
+   "bun"
+  ]
+ },
+ "Peaches": {
+  "base": "peach",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Peanut Butter": {
+  "base": "peanut butter",
+  "derived_from": "peanut",
+  "synonyms": []
+ },
+ "Peanut Oil": {
+  "base": "peanut oil",
+  "derived_from": "peanut",
+  "synonyms": [
+   "groundnut oil"
+  ]
+ },
+ "Peanuts": {
+  "base": "peanut",
+  "derived_from": null,
+  "synonyms": [
+   "groundnut"
+  ]
+ },
+ "Pearl Onions": {
+  "base": "onion",
+  "derived_from": null,
+  "synonyms": [
+   "baby onion"
+  ]
+ },
+ "Pears": {
+  "base": "pear",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Peas": {
+  "base": "pea",
+  "derived_from": null,
+  "synonyms": [
+   "matar"
+  ]
+ },
+ "Pecans": {
+  "base": "pecan",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Peepramul Powder": {
+  "base": "peepal powder",
+  "derived_from": "peepal",
+  "synonyms": [
+   "ficus religiosa powder"
+  ]
+ },
+ "Penne Pasta": {
+  "base": "pasta",
+  "derived_from": null,
+  "synonyms": [
+   "penne"
+  ]
+ },
+ "Penne Rigate Pasta": {
+  "base": "pasta",
+  "derived_from": null,
+  "synonyms": [
+   "penne"
+  ]
+ },
+ "Pepper": {
+  "base": "pepper",
+  "derived_from": null,
+  "synonyms": [
+   "black pepper",
+   "kali mirch",
+   "white pepper"
+  ]
+ },
+ "Peppermint": {
+  "base": "peppermint",
+  "derived_from": null,
+  "synonyms": [
+   "mint",
+   "pudina"
+  ]
+ },
+ "Pheni": {
+  "base": "pheni",
+  "derived_from": null,
+  "synonyms": [
+   "sago",
+   "sago pearls"
+  ]
+ },
+ "Phool Makhana": {
+  "base": "makhana",
+  "derived_from": null,
+  "synonyms": [
+   "fox nuts",
+   "lotus seeds",
+   "makhana"
+  ]
+ },
+ "Phulka": {
+  "base": "phulka",
+  "derived_from": null,
+  "synonyms": [
+   "chapati",
+   "flatbread",
+   "roti"
+  ]
+ },
+ "Phyllo Dough": {
+  "base": "phyllo dough",
+  "derived_from": null,
+  "synonyms": [
+   "filo dough",
+   "phyllo"
+  ]
+ },
+ "Phyllo Sheets": {
+  "base": "phyllo dough",
+  "derived_from": null,
+  "synonyms": [
+   "filo dough",
+   "phyllo"
+  ]
+ },
+ "Pickle": {
+  "base": "pickle",
+  "derived_from": null,
+  "synonyms": [
+   "achar",
+   "achari"
+  ]
+ },
+ "Pickle Masala": {
+  "base": "pickle masala",
+  "derived_from": null,
+  "synonyms": [
+   "achar masala",
+   "pickle spice mix"
+  ]
+ },
+ "Pickle Spice": {
+  "base": "pickle spice",
+  "derived_from": null,
+  "synonyms": [
+   "achar masala",
+   "pickle seasoning"
+  ]
+ },
+ "Pickled Jalapenos": {
+  "base": "jalapeno",
+  "derived_from": null,
+  "synonyms": [
+   "green chili",
+   "jalapeno pepper"
+  ]
+ },
+ "Pickled Onions": {
+  "base": "onion",
+  "derived_from": null,
+  "synonyms": [
+   "pyaz",
+   "shallot"
+  ]
+ },
+ "Pigeonpea": {
+  "base": "pigeonpea",
+  "derived_from": null,
+  "synonyms": [
+   "chana",
+   "chickpea",
+   "gram"
+  ]
+ },
+ "Pine Nuts": {
+  "base": "pine nuts",
+  "derived_from": null,
+  "synonyms": [
+   "chilgoza",
+   "pinenuts"
+  ]
+ },
+ "Pineapple": {
+  "base": "pineapple",
+  "derived_from": null,
+  "synonyms": [
+   "ananas"
+  ]
+ },
+ "Pineapple Juice": {
+  "base": "pineapple juice",
+  "derived_from": "pineapple",
+  "synonyms": [
+   "ananas juice"
+  ]
+ },
+ "Pink Masoor Dal": {
+  "base": "masoor dal",
+  "derived_from": null,
+  "synonyms": [
+   "masoor",
+   "masoori dal",
+   "red lentils"
+  ]
+ },
+ "Pinto Beans": {
+  "base": "pinto beans",
+  "derived_from": null,
+  "synonyms": [
+   "pinto",
+   "speckled beans"
+  ]
+ },
+ "Pistachios": {
+  "base": "pistachio",
+  "derived_from": null,
+  "synonyms": [
+   "akhrot",
+   "pista"
+  ]
+ },
+ "Pita Saga": {
+  "base": "pita",
+  "derived_from": null,
+  "synonyms": [
+   "pita bread",
+   "pita pocket"
+  ]
+ },
+ "Pizza Base": {
+  "base": "pizza dough",
+  "derived_from": null,
+  "synonyms": [
+   "pizza base",
+   "pizza crust"
+  ]
+ },
+ "Pizza Seasoning": {
+  "base": "pizza seasoning",
+  "derived_from": null,
+  "synonyms": [
+   "italian seasoning",
+   "pizza spice"
+  ]
+ },
+ "Plantain Stem": {
+  "base": "plantain stem",
+  "derived_from": null,
+  "synonyms": [
+   "banana stem",
+   "koda"
+  ]
+ },
+ "Plums": {
+  "base": "plum",
+  "derived_from": null,
+  "synonyms": [
+   "alubha",
+   "prunus"
+  ]
+ },
+ "Poha": {
+  "base": "poha",
+  "derived_from": null,
+  "synonyms": [
+   "flattened rice",
+   "flattened rice flakes"
+  ]
+ },
+ "Pohala Fish": {
+  "base": "pohala fish",
+  "derived_from": null,
+  "synonyms": [
+   "pohala",
+   "pohala fish"
+  ]
+ },
+ "Pointed Gourd": {
+  "base": "pointed gourd",
+  "derived_from": null,
+  "synonyms": [
+   "chayote",
+   "choko",
+   "turai"
+  ]
+ },
+ "Polenta": {
+  "base": "polenta",
+  "derived_from": null,
+  "synonyms": [
+   "cornmeal",
+   "maida"
+  ]
+ },
+ "Pomegranate": {
+  "base": "pomegranate",
+  "derived_from": null,
+  "synonyms": [
+   "anar",
+   "anar dana"
+  ]
+ },
+ "Pomegranate Juice": {
+  "base": "pomegranate juice",
+  "derived_from": "pomegranate",
+  "synonyms": [
+   "anar juice",
+   "anar ras"
+  ]
+ },
+ "Pomegranate Molasses": {
+  "base": "pomegranate molasses",
+  "derived_from": "pomegranate",
+  "synonyms": [
+   "nar ekshir",
+   "pomegranate syrup"
+  ]
+ },
+ "Pomegranate Sauce": {
+  "base": "pomegranate sauce",
+  "derived_from": "pomegranate",
+  "synonyms": [
+   "anar sauce",
+   "pomegranate chutney"
+  ]
+ },
+ "Pomfret Fish": {
+  "base": "pomfret",
+  "derived_from": null,
+  "synonyms": [
+   "pangas",
+   "pomfret"
+  ]
+ },
+ "Poppy Seeds": {
+  "base": "poppy seeds",
+  "derived_from": null,
+  "synonyms": [
+   "khus",
+   "khus khus"
+  ]
+ },
+ "Pork Sausage": {
+  "base": "pork sausage",
+  "derived_from": "pork",
+  "synonyms": [
+   "pork sausage",
+   "sausage"
+  ]
+ },
+ "Potato Masala": {
+  "base": "potato masala",
+  "derived_from": null,
+  "synonyms": [
+   "aloo masala",
+   "potato spice mix"
+  ]
+ },
+ "Potatoes": {
+  "base": "potato",
+  "derived_from": null,
+  "synonyms": [
+   "aloo",
+   "spud"
+  ]
+ },
+ "Prawns": {
+  "base": "prawn",
+  "derived_from": null,
+  "synonyms": [
+   "jheenga",
+   "shrimp"
+  ]
+ },
+ "Pretzels": {
+  "base": "pretzel",
+  "derived_from": null,
+  "synonyms": [
+   "bretzel",
+   "pretzel"
+  ]
+ },
+ "Provolone Cheese": {
+  "base": "provolone cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "cheese",
+   "provolone"
+  ]
+ },
+ "Prune Spread": {
+  "base": "prune spread",
+  "derived_from": "prune",
+  "synonyms": [
+   "dried plum spread"
+  ]
+ },
+ "Prunes": {
+  "base": "prune",
+  "derived_from": null,
+  "synonyms": [
+   "dried plum"
+  ]
+ },
+ "Puff Pastry": {
+  "base": "puff pastry",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Puff Pastry Sheet": {
+  "base": "puff pastry",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Puffed Rice": {
+  "base": "puffed rice",
+  "derived_from": "rice",
+  "synonyms": [
+   "flattened rice",
+   "muri",
+   "murmura"
+  ]
+ },
+ "Puliodarai Powder": {
+  "base": "puliodarai powder",
+  "derived_from": "rice",
+  "synonyms": [
+   "parboiled rice powder",
+   "pulio rice powder"
+  ]
+ },
+ "Pumpkin": {
+  "base": "pumpkin",
+  "derived_from": null,
+  "synonyms": [
+   "kabocha",
+   "kaddu",
+   "squash"
+  ]
+ },
+ "Pumpkin Pie Spice": {
+  "base": "pumpkin pie spice",
+  "derived_from": null,
+  "synonyms": [
+   "pumpkin spice",
+   "spice blend"
+  ]
+ },
+ "Pumpkin Puree": {
+  "base": "pumpkin puree",
+  "derived_from": "pumpkin",
+  "synonyms": [
+   "pumpkin mash",
+   "pumpkin paste"
+  ]
+ },
+ "Pumpkin Seeds": {
+  "base": "pumpkin seeds",
+  "derived_from": "pumpkin",
+  "synonyms": [
+   "kaddu ke beej",
+   "pepitas"
+  ]
+ },
+ "Punjabi Style Mango Pickle": {
+  "base": "mango pickle",
+  "derived_from": "mango",
+  "synonyms": [
+   "aam ka achaar",
+   "mango achaar"
+  ]
+ },
+ "Purple Cabbage": {
+  "base": "cabbage",
+  "derived_from": null,
+  "synonyms": [
+   "patta gobhi",
+   "red cabbage"
+  ]
+ },
+ "Quail Eggs": {
+  "base": "quail egg",
+  "derived_from": null,
+  "synonyms": [
+   "caille egg",
+   "koti ke ande"
+  ]
+ },
+ "Quinoa": {
+  "base": "quinoa",
+  "derived_from": null,
+  "synonyms": [
+   "chinoa"
+  ]
+ },
+ "Quinoa Flour": {
+  "base": "quinoa flour",
+  "derived_from": "quinoa",
+  "synonyms": [
+   "quinoa atta"
+  ]
+ },
+ "Rabri": {
+  "base": "rabri",
+  "derived_from": "milk",
+  "synonyms": [
+   "milk reduction",
+   "sweetened condensed milk"
+  ]
+ },
+ "Radhuni": {
+  "base": "radhuni",
+  "derived_from": null,
+  "synonyms": [
+   "coriander",
+   "dhania",
+   "wild coriander"
+  ]
+ },
+ "Radish": {
+  "base": "radish",
+  "derived_from": null,
+  "synonyms": [
+   "daikon",
+   "mooli"
+  ]
+ },
+ "Radish Greens": {
+  "base": "radish greens",
+  "derived_from": null,
+  "synonyms": [
+   "daikon greens",
+   "mooli leaves"
+  ]
+ },
+ "Ragi Dosa Batter": {
+  "base": "ragi dosa batter",
+  "derived_from": "ragi",
+  "synonyms": [
+   "finger millet batter",
+   "ragi batter"
+  ]
+ },
+ "Ragi Flour": {
+  "base": "ragi flour",
+  "derived_from": "ragi",
+  "synonyms": [
+   "finger millet flour",
+   "nachni flour"
+  ]
+ },
+ "Ragi Seeds": {
+  "base": "ragi",
+  "derived_from": null,
+  "synonyms": [
+   "finger millet",
+   "nachni"
+  ]
+ },
+ "Raisins": {
+  "base": "raisins",
+  "derived_from": "grapes",
+  "synonyms": [
+   "kishmish"
+  ]
+ },
+ "Raita Masala": {
+  "base": "raita masala",
+  "derived_from": null,
+  "synonyms": [
+   "raita spice mix"
+  ]
+ },
+ "Rajgira Flour": {
+  "base": "rajgira flour",
+  "derived_from": "rajgira",
+  "synonyms": [
+   "amaranth flour",
+   "amaranth grain flour"
+  ]
+ },
+ "Rajma": {
+  "base": "kidney beans",
+  "derived_from": null,
+  "synonyms": [
+   "rajma",
+   "red kidney beans"
+  ]
+ },
+ "Rasam Powder": {
+  "base": "rasam powder",
+  "derived_from": null,
+  "synonyms": [
+   "rasam masala",
+   "rasam mix"
+  ]
+ },
+ "Rasgulla": {
+  "base": "rasgulla",
+  "derived_from": "milk",
+  "synonyms": [
+   "chhena balls",
+   "rasgolla"
+  ]
+ },
+ "Rasgulla Syrup": {
+  "base": "rasgulla syrup",
+  "derived_from": "sugar",
+  "synonyms": [
+   "chashni",
+   "syrup"
+  ]
+ },
+ "Raspberries": {
+  "base": "raspberry",
+  "derived_from": null,
+  "synonyms": [
+   "red raspberry"
+  ]
+ },
+ "Ratan Jot": {
+  "base": "ratan jot",
+  "derived_from": null,
+  "synonyms": [
+   "ratan joot",
+   "ratan joot leaves",
+   "ratan jot"
+  ]
+ },
+ "Raw Banana": {
+  "base": "banana",
+  "derived_from": null,
+  "synonyms": [
+   "kela",
+   "plantain"
+  ]
+ },
+ "Raw Mango": {
+  "base": "mango",
+  "derived_from": null,
+  "synonyms": [
+   "aam",
+   "kairi",
+   "unripe mango"
+  ]
+ },
+ "Raw Papaya": {
+  "base": "papaya",
+  "derived_from": null,
+  "synonyms": [
+   "green papaya",
+   "papita"
+  ]
+ },
+ "Red Amaranth Leaves": {
+  "base": "amaranth leaves",
+  "derived_from": null,
+  "synonyms": [
+   "amaranth greens",
+   "chaulai",
+   "chawli"
+  ]
+ },
+ "Red Bell Pepper": {
+  "base": "capsicum",
+  "derived_from": null,
+  "synonyms": [
+   "bell pepper",
+   "shimla mirch"
+  ]
+ },
+ "Red Cabbage": {
+  "base": "cabbage",
+  "derived_from": null,
+  "synonyms": [
+   "patta gobhi",
+   "red cabbage"
+  ]
+ },
+ "Red Chilli": {
+  "base": "chilli",
+  "derived_from": null,
+  "synonyms": [
+   "mirch",
+   "red chilli"
+  ]
+ },
+ "Red Chilli Flakes": {
+  "base": "chilli flakes",
+  "derived_from": "chilli",
+  "synonyms": [
+   "crushed red pepper",
+   "red chilli flakes"
+  ]
+ },
+ "Red Chilli Paste": {
+  "base": "chilli paste",
+  "derived_from": "chilli",
+  "synonyms": [
+   "chili paste",
+   "red chilli paste"
+  ]
+ },
+ "Red Chilli Powder": {
+  "base": "chilli powder",
+  "derived_from": "chilli",
+  "synonyms": [
+   "lajawab powder",
+   "mirch powder",
+   "red chilli powder"
+  ]
+ },
+ "Red Chilli Sauce": {
+  "base": "chilli sauce",
+  "derived_from": "chilli",
+  "synonyms": [
+   "chilli paste",
+   "hot sauce",
+   "red chilli sauce"
+  ]
+ },
+ "Red Food Color": {
+  "base": "food coloring",
+  "derived_from": null,
+  "synonyms": [
+   "colouring",
+   "edible color",
+   "food dye"
+  ]
+ },
+ "Red Grapes": {
+  "base": "grapes",
+  "derived_from": null,
+  "synonyms": [
+   "red grapes",
+   "wine grapes"
+  ]
+ },
+ "Red Matta Rice": {
+  "base": "rice",
+  "derived_from": null,
+  "synonyms": [
+   "matta rice",
+   "red rice",
+   "unpolished rice"
+  ]
+ },
+ "Red Poha": {
+  "base": "flattened rice",
+  "derived_from": "rice",
+  "synonyms": [
+   "chiyali",
+   "flattened rice",
+   "poha"
+  ]
+ },
+ "Red Radish": {
+  "base": "radish",
+  "derived_from": null,
+  "synonyms": [
+   "daikon",
+   "mooli",
+   "turnip"
+  ]
+ },
+ "Red Romaine Lettuce": {
+  "base": "lettuce",
+  "derived_from": null,
+  "synonyms": [
+   "cos lettuce",
+   "red romaine",
+   "romaine"
+  ]
+ },
+ "Red Wine": {
+  "base": "wine",
+  "derived_from": "grapes",
+  "synonyms": [
+   "cabernet",
+   "merlot",
+   "red wine"
+  ]
+ },
+ "Red Wine Vinaigrette": {
+  "base": "vinaigrette",
+  "derived_from": "wine",
+  "synonyms": [
+   "red wine dressing",
+   "salad dressing"
+  ]
+ },
+ "Refried Beans": {
+  "base": "beans",
+  "derived_from": null,
+  "synonyms": [
+   "cooked beans",
+   "frijoles refritos",
+   "refried beans"
+  ]
+ },
+ "Reserved Water": {
+  "base": "water",
+  "derived_from": null,
+  "synonyms": [
+   "cooking water",
+   "reserved liquid",
+   "starch water"
+  ]
+ },
+ "Rice": {
+  "base": "rice",
+  "derived_from": null,
+  "synonyms": [
+   "chawal",
+   "staple grain"
+  ]
+ },
+ "Rice Flour": {
+  "base": "rice flour",
+  "derived_from": "rice",
+  "synonyms": [
+   "chawal ka atta",
+   "rice meal",
+   "rice powder"
+  ]
+ },
+ "Rice Noodles": {
+  "base": "noodles",
+  "derived_from": "rice",
+  "synonyms": [
+   "ho fun",
+   "rice vermicelli",
+   "senmai"
+  ]
+ },
+ "Rice Paper Rolls": {
+  "base": "rice paper",
+  "derived_from": "rice",
+  "synonyms": [
+   "b nh tr ng",
+   "rice paper",
+   "spring roll wrappers"
+  ]
+ },
+ "Rice Rava": {
+  "base": "rice rava",
+  "derived_from": "rice",
+  "synonyms": [
+   "rice granules",
+   "rice semolina",
+   "rice sooji"
+  ]
+ },
+ "Rice Vermicelli Noodles": {
+  "base": "noodles",
+  "derived_from": "rice",
+  "synonyms": [
+   "ho fun",
+   "rice vermicelli",
+   "senmai"
+  ]
+ },
+ "Rice Wine Vinegar": {
+  "base": "vinegar",
+  "derived_from": "rice",
+  "synonyms": [
+   "rice vinegar",
+   "shao xing vinegar",
+   "sushi vinegar"
+  ]
+ },
+ "Ricotta Cheese": {
+  "base": "cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "ricotta",
+   "ricotta cheese",
+   "whey cheese"
+  ]
+ },
+ "Ridge Gourd": {
+  "base": "ridge gourd",
+  "derived_from": null,
+  "synonyms": [
+   "chayote",
+   "turai",
+   "turai karela"
+  ]
+ },
+ "Ridge Gourd Skin": {
+  "base": "ridge gourd",
+  "derived_from": null,
+  "synonyms": [
+   "chayote skin",
+   "turai peel",
+   "turai skin"
+  ]
+ },
+ "Rigati Pasta": {
+  "base": "pasta",
+  "derived_from": "wheat",
+  "synonyms": [
+   "rigati",
+   "rigatoni",
+   "tube pasta"
+  ]
+ },
+ "Risotto Rice": {
+  "base": "rice",
+  "derived_from": null,
+  "synonyms": [
+   "arborio rice",
+   "carnaroli rice",
+   "short grain rice"
+  ]
+ },
+ "Roasted Gram Dal": {
+  "base": "gram dal",
+  "derived_from": null,
+  "synonyms": [
+   "bengal gram",
+   "chana dal",
+   "roasted chana dal"
+  ]
+ },
+ "Roasted Gram Flour": {
+  "base": "gram flour",
+  "derived_from": "gram",
+  "synonyms": [
+   "besan",
+   "chana flour",
+   "gram flour"
+  ]
+ },
+ "Roasted Peanuts": {
+  "base": "peanuts",
+  "derived_from": null,
+  "synonyms": [
+   "groundnuts",
+   "monk",
+   "roasted groundnuts"
+  ]
+ },
+ "Roasted Tomato Pasta Sauce": {
+  "base": "pasta sauce",
+  "derived_from": "tomato",
+  "synonyms": [
+   "marinara",
+   "pasta sauce",
+   "tomato sauce"
+  ]
+ },
+ "Rock Salt": {
+  "base": "salt",
+  "derived_from": null,
+  "synonyms": [
+   "halite",
+   "rock salt",
+   "sea salt"
+  ]
+ },
+ "Rocket Leaves": {
+  "base": "rocket",
+  "derived_from": null,
+  "synonyms": [
+   "arugula",
+   "erukku",
+   "rucola"
+  ]
+ },
+ "Rohu Fish": {
+  "base": "fish",
+  "derived_from": null,
+  "synonyms": [
+   "labeo rohita",
+   "rohu",
+   "rohu fish"
+  ]
+ },
+ "Rolled Oats": {
+  "base": "oats",
+  "derived_from": null,
+  "synonyms": [
+   "oatmeal",
+   "oats",
+   "rolled oats"
+  ]
+ },
+ "Rose Essence": {
+  "base": "essence",
+  "derived_from": "rose",
+  "synonyms": [
+   "gulkand essence",
+   "rose extract",
+   "rose flavoring"
+  ]
+ },
+ "Rose Petals": {
+  "base": "rose petals",
+  "derived_from": null,
+  "synonyms": [
+   "edible rose petals",
+   "gulab petals",
+   "rose flowers"
+  ]
+ },
+ "Rose Water": {
+  "base": "rose water",
+  "derived_from": "rose",
+  "synonyms": [
+   "gulab jal",
+   "rose distillate",
+   "rose hydrosol"
+  ]
+ },
+ "Rosemary": {
+  "base": "rosemary",
+  "derived_from": null,
+  "synonyms": [
+   "muskat",
+   "rosemary herb",
+   "rosemary leaves"
+  ]
+ },
+ "Route Pasta": {
+  "base": "pasta",
+  "derived_from": "wheat",
+  "synonyms": [
+   "rotini",
+   "route pasta",
+   "spiral pasta"
+  ]
+ },
+ "Rum": {
+  "base": "rum",
+  "derived_from": "sugarcane",
+  "synonyms": [
+   "dark rum",
+   "rum",
+   "sugar cane spirit"
+  ]
+ },
+ "Rusk": {
+  "base": "rusk",
+  "derived_from": "bread",
+  "synonyms": [
+   "bread rusk",
+   "rusk",
+   "toast crumbs"
+  ]
+ },
+ "Rye": {
+  "base": "rye",
+  "derived_from": null,
+  "synonyms": [
+   "black rye",
+   "rye flour",
+   "rye grain"
+  ]
+ },
+ "Rye Bread": {
+  "base": "rye bread",
+  "derived_from": "rye",
+  "synonyms": []
+ },
+ "Sabudana": {
+  "base": "tapioca pearls",
+  "derived_from": "tapioca",
+  "synonyms": [
+   "sago",
+   "tapioca sago"
+  ]
+ },
+ "Saffron": {
+  "base": "saffron",
+  "derived_from": null,
+  "synonyms": [
+   "crocus",
+   "kesar"
+  ]
+ },
+ "Saffron Strands": {
+  "base": "saffron",
+  "derived_from": null,
+  "synonyms": [
+   "crocus",
+   "kesar"
+  ]
+ },
+ "Sage": {
+  "base": "sage",
+  "derived_from": null,
+  "synonyms": [
+   "salvia"
+  ]
+ },
+ "Salmon Fillet": {
+  "base": "salmon",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Salt": {
+  "base": "salt",
+  "derived_from": null,
+  "synonyms": [
+   "namak"
+  ]
+ },
+ "Salted Butter": {
+  "base": "butter",
+  "derived_from": "milk",
+  "synonyms": [
+   "makkhan"
+  ]
+ },
+ "Sambal Oelek": {
+  "base": "sambal oelek",
+  "derived_from": "chili",
+  "synonyms": [
+   "chili paste"
+  ]
+ },
+ "Sambar Powder": {
+  "base": "sambar powder",
+  "derived_from": null,
+  "synonyms": [
+   "sambar masala"
+  ]
+ },
+ "Samosas": {
+  "base": "samosa",
+  "derived_from": null,
+  "synonyms": [
+   "samosa",
+   "samosa puri"
+  ]
+ },
+ "Saoji Masala": {
+  "base": "saoji masala",
+  "derived_from": null,
+  "synonyms": [
+   "saoji masala",
+   "saoji powder"
+  ]
+ },
+ "Sardine Fish": {
+  "base": "sardine",
+  "derived_from": null,
+  "synonyms": [
+   "mackerel",
+   "sardin",
+   "sardine"
+  ]
+ },
+ "Sauerkraut": {
+  "base": "sauerkraut",
+  "derived_from": "cabbage",
+  "synonyms": [
+   "fermented cabbage",
+   "sauerkraut"
+  ]
+ },
+ "Schezwan Sauce": {
+  "base": "schezwan sauce",
+  "derived_from": "chili",
+  "synonyms": [
+   "schezwan sauce",
+   "sichuan sauce",
+   "szechuan sauce"
+  ]
+ },
+ "Sea Salt": {
+  "base": "salt",
+  "derived_from": null,
+  "synonyms": [
+   "namak",
+   "sea salt"
+  ]
+ },
+ "Seer Fish": {
+  "base": "seer fish",
+  "derived_from": null,
+  "synonyms": [
+   "gavadi",
+   "kavadi",
+   "kavadi fish"
+  ]
+ },
+ "Seeraga Samba Rice": {
+  "base": "rice",
+  "derived_from": null,
+  "synonyms": [
+   "samba rice",
+   "seeraga samba",
+   "seeraga samba rice"
+  ]
+ },
+ "Semiya": {
+  "base": "vermicelli",
+  "derived_from": "wheat",
+  "synonyms": [
+   "sev",
+   "sooji sev",
+   "vermicelli"
+  ]
+ },
+ "Semolina": {
+  "base": "semolina",
+  "derived_from": "wheat",
+  "synonyms": [
+   "rabi",
+   "rava",
+   "sooji"
+  ]
+ },
+ "Serrano Pepper": {
+  "base": "serrano pepper",
+  "derived_from": null,
+  "synonyms": [
+   "serrano chili",
+   "serrano chilli"
+  ]
+ },
+ "Sesame": {
+  "base": "sesame",
+  "derived_from": null,
+  "synonyms": [
+   "gingelly",
+   "til"
+  ]
+ },
+ "Sesame Oil": {
+  "base": "sesame oil",
+  "derived_from": "sesame",
+  "synonyms": [
+   "gingelly oil",
+   "til oil"
+  ]
+ },
+ "Sesame Powder": {
+  "base": "sesame powder",
+  "derived_from": "sesame",
+  "synonyms": [
+   "gingelly powder",
+   "til powder"
+  ]
+ },
+ "Sesame Seeds": {
+  "base": "sesame",
+  "derived_from": null,
+  "synonyms": [
+   "gingelly seeds",
+   "til"
+  ]
+ },
+ "Sev": {
+  "base": "sev",
+  "derived_from": "gram flour",
+  "synonyms": [
+   "chakli",
+   "papad",
+   "papadum"
+  ]
+ },
+ "Seven Up": {
+  "base": "seven up",
+  "derived_from": null,
+  "synonyms": [
+   "citrus soda",
+   "lemon lime soda"
+  ]
+ },
+ "Shallots": {
+  "base": "shallot",
+  "derived_from": null,
+  "synonyms": [
+   "eschalot",
+   "red onion",
+   "small onion"
+  ]
+ },
+ "Sherry": {
+  "base": "sherry",
+  "derived_from": "grape",
+  "synonyms": [
+   "dry sherry",
+   "fortified wine"
+  ]
+ },
+ "Shiitake Mushrooms": {
+  "base": "shiitake mushroom",
+  "derived_from": null,
+  "synonyms": [
+   "lentinula edodes",
+   "mushroom"
+  ]
+ },
+ "Shredded Coconut": {
+  "base": "coconut",
+  "derived_from": null,
+  "synonyms": [
+   "nariyal",
+   "tender coconut"
+  ]
+ },
+ "Shrikhand": {
+  "base": "shrikhand",
+  "derived_from": "yogurt",
+  "synonyms": [
+   "sharbat",
+   "sweet yogurt"
+  ]
+ },
+ "Shrimps": {
+  "base": "shrimp",
+  "derived_from": null,
+  "synonyms": [
+   "chirota",
+   "jheenga",
+   "prawn"
+  ]
+ },
+ "Sichuan Peppercorns": {
+  "base": "sichuan peppercorn",
+  "derived_from": null,
+  "synonyms": [
+   "huajiao",
+   "sichuan pepper"
+  ]
+ },
+ "Silk Squash": {
+  "base": "squash",
+  "derived_from": null,
+  "synonyms": [
+   "courgette",
+   "kaddu",
+   "zucchini"
+  ]
+ },
+ "Singhade": {
+  "base": "lotus stem",
+  "derived_from": null,
+  "synonyms": [
+   "kum",
+   "kumla",
+   "lotus root"
+  ]
+ },
+ "Singoda Flour": {
+  "base": "singoda flour",
+  "derived_from": "singoda",
+  "synonyms": [
+   "amaranth flour",
+   "ramdana flour"
+  ]
+ },
+ "Slivered Almonds": {
+  "base": "almond",
+  "derived_from": null,
+  "synonyms": [
+   "badam"
+  ]
+ },
+ "Snake Gourd": {
+  "base": "snake gourd",
+  "derived_from": null,
+  "synonyms": [
+   "chakri",
+   "chokri",
+   "turai"
+  ]
+ },
+ "Soft Taco Shells": {
+  "base": "taco shell",
+  "derived_from": "flour",
+  "synonyms": [
+   "tortilla"
+  ]
+ },
+ "Sooji": {
+  "base": "semolina",
+  "derived_from": "wheat",
+  "synonyms": [
+   "rava",
+   "sooji rava",
+   "suji"
+  ]
+ },
+ "Sorrel Leaves": {
+  "base": "sorrel",
+  "derived_from": null,
+  "synonyms": [
+   "gandh phool",
+   "wild sorrel"
+  ]
+ },
+ "Sour Cream": {
+  "base": "sour cream",
+  "derived_from": "milk",
+  "synonyms": [
+   "cream",
+   "dahi"
+  ]
+ },
+ "Soy Chunks": {
+  "base": "soy chunks",
+  "derived_from": "soybean",
+  "synonyms": [
+   "protein chunks",
+   "soya chunks",
+   "soya granules"
+  ]
+ },
+ "Soy Granules": {
+  "base": "soy granules",
+  "derived_from": "soybean",
+  "synonyms": [
+   "protein granules",
+   "soy chunks",
+   "soya granules"
+  ]
+ },
+ "Soy Milk": {
+  "base": "soy milk",
+  "derived_from": "soybean",
+  "synonyms": [
+   "soya milk"
+  ]
+ },
+ "Soy Sauce": {
+  "base": "soy sauce",
+  "derived_from": "soybean",
+  "synonyms": [
+   "shoyu"
+  ]
+ },
+ "Soybeans": {
+  "base": "soybean",
+  "derived_from": null,
+  "synonyms": [
+   "soya bean"
+  ]
+ },
+ "Spaghetti Pasta": {
+  "base": "pasta",
+  "derived_from": null,
+  "synonyms": [
+   "macaroni",
+   "spaghetti"
+  ]
+ },
+ "Sparkling Wine": {
+  "base": "sparkling wine",
+  "derived_from": "grape",
+  "synonyms": [
+   "champagne",
+   "prosecco"
+  ]
+ },
+ "Spinach": {
+  "base": "spinach",
+  "derived_from": null,
+  "synonyms": [
+   "palak",
+   "spinach leaves"
+  ]
+ },
+ "Spinach Leaves": {
+  "base": "spinach",
+  "derived_from": null,
+  "synonyms": [
+   "palak",
+   "spinach"
+  ]
+ },
+ "Spirali Pasta": {
+  "base": "pasta",
+  "derived_from": "wheat",
+  "synonyms": [
+   "macaroni",
+   "noodles",
+   "spaghetti"
+  ]
+ },
+ "Spirulina": {
+  "base": "spirulina",
+  "derived_from": null,
+  "synonyms": [
+   "blue green algae",
+   "chlorella"
+  ]
+ },
+ "Split Methi Seeds": {
+  "base": "fenugreek seeds",
+  "derived_from": null,
+  "synonyms": [
+   "fenugreek",
+   "methi",
+   "methi dana"
+  ]
+ },
+ "Sponge Cake": {
+  "base": "sponge cake",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Sprig Extract Of Natural Bourbon Vanilla": {
+  "base": "vanilla extract",
+  "derived_from": "vanilla",
+  "synonyms": [
+   "vanilla essence"
+  ]
+ },
+ "Spring Onion": {
+  "base": "spring onion",
+  "derived_from": null,
+  "synonyms": [
+   "green onion",
+   "mirchi",
+   "scallion"
+  ]
+ },
+ "Spring Onion Greens": {
+  "base": "spring onion greens",
+  "derived_from": null,
+  "synonyms": [
+   "green onion tops",
+   "scallion greens"
+  ]
+ },
+ "Sprite": {
+  "base": "sprite",
+  "derived_from": null,
+  "synonyms": [
+   "lemon lime soda"
+  ]
+ },
+ "Sprouted Moong": {
+  "base": "moong",
+  "derived_from": null,
+  "synonyms": [
+   "green gram",
+   "moong dal",
+   "mung bean"
+  ]
+ },
+ "Sprouted Ragi": {
+  "base": "ragi",
+  "derived_from": null,
+  "synonyms": [
+   "finger millet",
+   "nachni"
+  ]
+ },
+ "Sriracha Sauce": {
+  "base": "sriracha sauce",
+  "derived_from": "chili",
+  "synonyms": [
+   "chili sauce",
+   "sriracha"
+  ]
+ },
+ "Star Anise": {
+  "base": "star anise",
+  "derived_from": null,
+  "synonyms": [
+   "badian",
+   "badiyan"
+  ]
+ },
+ "Star Fruit": {
+  "base": "star fruit",
+  "derived_from": null,
+  "synonyms": [
+   "carambola",
+   "kagzi"
+  ]
+ },
+ "Stone Flowers": {
+  "base": "stone flowers",
+  "derived_from": null,
+  "synonyms": [
+   "rock flowers",
+   "stone orchids"
+  ]
+ },
+ "Strawberries": {
+  "base": "strawberry",
+  "derived_from": null,
+  "synonyms": [
+   "straw berry"
+  ]
+ },
+ "Strawberry Cake": {
+  "base": "strawberry cake",
+  "derived_from": "strawberry",
+  "synonyms": [
+   "strawberry sponge cake"
+  ]
+ },
+ "Strawberry Compote": {
+  "base": "strawberry compote",
+  "derived_from": "strawberry",
+  "synonyms": [
+   "strawberry sauce",
+   "strawberry stew"
+  ]
+ },
+ "Strawberry Essense": {
+  "base": "strawberry essence",
+  "derived_from": "strawberry",
+  "synonyms": [
+   "strawberry extract",
+   "strawberry flavoring"
+  ]
+ },
+ "Submarine Bread": {
+  "base": "submarine bread",
+  "derived_from": "flour",
+  "synonyms": [
+   "hoagie roll",
+   "sub roll"
+  ]
+ },
+ "Sugar": {
+  "base": "sugar",
+  "derived_from": null,
+  "synonyms": [
+   "chini",
+   "shakkar"
+  ]
+ },
+ "Sugar Syrup": {
+  "base": "sugar syrup",
+  "derived_from": "sugar",
+  "synonyms": [
+   "simple syrup",
+   "syrup"
+  ]
+ },
+ "Sultanas": {
+  "base": "sultanas",
+  "derived_from": "grapes",
+  "synonyms": [
+   "kishmish",
+   "raisins"
+  ]
+ },
+ "Sumac": {
+  "base": "sumac",
+  "derived_from": null,
+  "synonyms": [
+   "sumac powder",
+   "sumac spice"
+  ]
+ },
+ "Summer Salad": {
+  "base": "salad",
+  "derived_from": null,
+  "synonyms": [
+   "mixed salad",
+   "salad bowl"
+  ]
+ },
+ "Sun Dried Tomato Pesto": {
+  "base": "pesto",
+  "derived_from": "tomato",
+  "synonyms": [
+   "sun dried tomato pesto",
+   "tomato pesto"
+  ]
+ },
+ "Sun Dried Tomatoes": {
+  "base": "tomato",
+  "derived_from": null,
+  "synonyms": [
+   "dried tomato",
+   "sun dried tomato"
+  ]
+ },
+ "Sundkai": {
+  "base": "sundkai",
+  "derived_from": null,
+  "synonyms": [
+   "mango pickle fruit",
+   "wild mango"
+  ]
+ },
+ "Sunflower Oil": {
+  "base": "sunflower oil",
+  "derived_from": "sunflower",
+  "synonyms": [
+   "sunflower seed oil"
+  ]
+ },
+ "Sunflower Seeds": {
+  "base": "sunflower seeds",
+  "derived_from": null,
+  "synonyms": [
+   "makhana",
+   "sunflower kernels"
+  ]
+ },
+ "Suran": {
+  "base": "suran",
+  "derived_from": null,
+  "synonyms": [
+   "fermented rice drink",
+   "sura"
+  ]
+ },
+ "Sweet Chutney": {
+  "base": "sweet chutney",
+  "derived_from": null,
+  "synonyms": [
+   "meetha chutney",
+   "sweet sauce"
+  ]
+ },
+ "Sweet Corn": {
+  "base": "sweet corn",
+  "derived_from": null,
+  "synonyms": [
+   "corn",
+   "maize",
+   "makai"
+  ]
+ },
+ "Sweet Piquanté Pepper": {
+  "base": "sweet piquant pepper",
+  "derived_from": null,
+  "synonyms": [
+   "capsicum",
+   "sweet pepper"
+  ]
+ },
+ "Sweet Potatoes": {
+  "base": "sweet potato",
+  "derived_from": null,
+  "synonyms": [
+   "batata",
+   "shakarkandi"
+  ]
+ },
+ "Sweetened Coconut Flakes": {
+  "base": "sweetened coconut flakes",
+  "derived_from": "coconut",
+  "synonyms": [
+   "coconut chips",
+   "coconut flakes"
+  ]
+ },
+ "Swiss Cheese": {
+  "base": "swiss cheese",
+  "derived_from": "milk",
+  "synonyms": [
+   "emmental",
+   "gruyere"
+  ]
+ },
+ "Tabasco Original": {
+  "base": "tabasco sauce",
+  "derived_from": "chilli",
+  "synonyms": [
+   "hot sauce",
+   "tabasco"
+  ]
+ },
+ "Tabasco Original Hot Sauce": {
+  "base": "tabasco sauce",
+  "derived_from": "chilli",
+  "synonyms": [
+   "hot sauce",
+   "tabasco"
+  ]
+ },
+ "Taco Seasoning": {
+  "base": "taco seasoning",
+  "derived_from": null,
+  "synonyms": [
+   "taco powder",
+   "taco spice mix"
+  ]
+ },
+ "Tagliatelle Pasta": {
+  "base": "tagliatelle",
+  "derived_from": "wheat",
+  "synonyms": [
+   "noodles",
+   "pasta"
+  ]
+ },
+ "Tahini": {
+  "base": "tahini",
+  "derived_from": "sesame",
+  "synonyms": [
+   "sesame paste",
+   "til paste"
+  ]
+ },
+ "Tamarind": {
+  "base": "tamarind",
+  "derived_from": null,
+  "synonyms": [
+   "imli",
+   "tamarind pulp"
+  ]
+ },
+ "Tamarind Paste": {
+  "base": "tamarind paste",
+  "derived_from": "tamarind",
+  "synonyms": [
+   "imli paste",
+   "tamarind concentrate"
+  ]
+ },
+ "Tamarind Water": {
+  "base": "tamarind water",
+  "derived_from": "tamarind",
+  "synonyms": [
+   "imli pani",
+   "tamarind juice"
+  ]
+ },
+ "Tandoori Masala": {
+  "base": "tandoori masala",
+  "derived_from": null,
+  "synonyms": [
+   "tandoori powder",
+   "tandoori spice mix"
+  ]
+ },
+ "Tandoori Mayo": {
+  "base": "tandoori mayo",
+  "derived_from": "mayonnaise",
+  "synonyms": [
+   "spicy mayo",
+   "tandoori mayonnaise"
+  ]
+ },
+ "Tapioca Root": {
+  "base": "tapioca",
+  "derived_from": null,
+  "synonyms": [
+   "cassava",
+   "sago"
+  ]
+ },
+ "Tawa Paratha": {
+  "base": "paratha",
+  "derived_from": "wheat",
+  "synonyms": [
+   "flatbread",
+   "roti"
+  ]
+ },
+ "Tea": {
+  "base": "tea",
+  "derived_from": null,
+  "synonyms": [
+   "chai",
+   "tea leaves"
+  ]
+ },
+ "Tea Leaves": {
+  "base": "tea leaves",
+  "derived_from": null,
+  "synonyms": [
+   "chai patti",
+   "tea"
+  ]
+ },
+ "Tender Coconut Meat": {
+  "base": "tender coconut meat",
+  "derived_from": "coconut",
+  "synonyms": [
+   "coconut flesh",
+   "tender coconut"
+  ]
+ },
+ "Tender Coconut Water": {
+  "base": "tender coconut water",
+  "derived_from": "coconut",
+  "synonyms": [
+   "coconut water",
+   "nariyal paani"
+  ]
+ },
+ "Tequila": {
+  "base": "tequila",
+  "derived_from": "agave",
+  "synonyms": [
+   "agave spirit",
+   "tequila liquor"
+  ]
+ },
+ "Thai Basil Leaves": {
+  "base": "thai basil",
+  "derived_from": null,
+  "synonyms": [
+   "holy basil",
+   "krapao"
+  ]
+ },
+ "Thai Green Curry Paste": {
+  "base": "thai green curry paste",
+  "derived_from": null,
+  "synonyms": [
+   "green curry paste",
+   "kaeng khiao paste"
+  ]
+ },
+ "Thai Red Chilli": {
+  "base": "thai red chilli",
+  "derived_from": null,
+  "synonyms": [
+   "bird s eye chilli",
+   "prik kee noo"
+  ]
+ },
+ "Thai Red Curry Paste": {
+  "base": "thai red curry paste",
+  "derived_from": null,
+  "synonyms": [
+   "kaeng phet paste",
+   "red curry paste"
+  ]
+ },
+ "Thai Sweet Chilli Sauce": {
+  "base": "thai sweet chilli sauce",
+  "derived_from": "chilli",
+  "synonyms": [
+   "nam jim jaew",
+   "sweet chilli sauce"
+  ]
+ },
+ "Thandai Masala": {
+  "base": "thandai masala",
+  "derived_from": null,
+  "synonyms": [
+   "thandai powder",
+   "thandai spice mix"
+  ]
+ },
+ "Thandai Powder": {
+  "base": "thandai powder",
+  "derived_from": null,
+  "synonyms": [
+   "thandai masala",
+   "thandai spice mix"
+  ]
+ },
+ "Thyme": {
+  "base": "thyme",
+  "derived_from": null,
+  "synonyms": [
+   "thyme leaves",
+   "tulsi"
+  ]
+ },
+ "Thyme Leaves": {
+  "base": "thyme leaves",
+  "derived_from": null,
+  "synonyms": [
+   "thyme",
+   "tulsi"
+  ]
+ },
+ "Tikka Masala": {
+  "base": "tikka masala",
+  "derived_from": null,
+  "synonyms": [
+   "tikka masala powder",
+   "tikka masala sauce"
+  ]
+ },
+ "Tinda": {
+  "base": "tinda",
+  "derived_from": null,
+  "synonyms": [
+   "apple gourd",
+   "chokra"
+  ]
+ },
+ "Tindora": {
+  "base": "tinda",
+  "derived_from": null,
+  "synonyms": [
+   "apple gourd",
+   "chokra"
+  ]
+ },
+ "Tofu": {
+  "base": "tofu",
+  "derived_from": "soybean",
+  "synonyms": [
+   "bean curd",
+   "soybean curd"
+  ]
+ },
+ "Tomatillo": {
+  "base": "tomatillo",
+  "derived_from": null,
+  "synonyms": [
+   "green tomato",
+   "tomate verde"
+  ]
+ },
+ "Tomato Ketchup": {
+  "base": "tomato ketchup",
+  "derived_from": "tomato",
+  "synonyms": [
+   "ketchup",
+   "tomato sauce"
+  ]
+ },
+ "Tomato Pasta Sauce": {
+  "base": "tomato pasta sauce",
+  "derived_from": "tomato",
+  "synonyms": [
+   "marinara",
+   "pasta sauce"
+  ]
+ },
+ "Tomato Puree": {
+  "base": "tomato puree",
+  "derived_from": "tomato",
+  "synonyms": [
+   "tomato paste",
+   "tomato pulp"
+  ]
+ },
+ "Tomato Salsa": {
+  "base": "tomato salsa",
+  "derived_from": "tomato",
+  "synonyms": [
+   "salsa",
+   "tomato salsa"
+  ]
+ },
+ "Tomato Sauce": {
+  "base": "tomato sauce",
+  "derived_from": "tomato",
+  "synonyms": [
+   "tomato chutney",
+   "tomato gravy"
+  ]
+ },
+ "Tomatoes": {
+  "base": "tomato",
+  "derived_from": null,
+  "synonyms": [
+   "tamatar",
+   "tomato"
+  ]
+ },
+ "Toothpicks": {
+  "base": "toothpick",
+  "derived_from": null,
+  "synonyms": [
+   "dantunai",
+   "skewer"
+  ]
+ },
+ "Tortillas": {
+  "base": "tortilla",
+  "derived_from": "wheat",
+  "synonyms": [
+   "chapati",
+   "roti"
+  ]
+ },
+ "Triple Sec": {
+  "base": "triple sec",
+  "derived_from": "orange",
+  "synonyms": [
+   "cointreau",
+   "orange liqueur"
+  ]
+ },
+ "Trumpet": {
+  "base": "trumpet",
+  "derived_from": null,
+  "synonyms": [
+   "trumpet flower",
+   "trumpet vine"
+  ]
+ },
+ "Tulsi": {
+  "base": "tulsi",
+  "derived_from": null,
+  "synonyms": [
+   "basil",
+   "holy basil",
+   "tulsi leaves"
+  ]
+ },
+ "Turkey Berries": {
+  "base": "turkey berry",
+  "derived_from": null,
+  "synonyms": [
+   "turkey berry",
+   "turkey berry fruit"
+  ]
+ },
+ "Turmeric": {
+  "base": "turmeric",
+  "derived_from": null,
+  "synonyms": [
+   "haldi",
+   "turmeric root"
+  ]
+ },
+ "Turmeric Powder": {
+  "base": "turmeric powder",
+  "derived_from": "turmeric",
+  "synonyms": [
+   "ground turmeric",
+   "haldi powder"
+  ]
+ },
+ "Turnips": {
+  "base": "turnip",
+  "derived_from": null,
+  "synonyms": [
+   "shalgam",
+   "white turnip"
+  ]
+ },
+ "Tutti Frutti": {
+  "base": "tutti frutti",
+  "derived_from": null,
+  "synonyms": [
+   "assorted fruits",
+   "fruit mix"
+  ]
+ },
+ "Tutti Frutti Ice Cream": {
+  "base": "tutti frutti ice cream",
+  "derived_from": "milk",
+  "synonyms": [
+   "assorted fruit ice cream",
+   "fruit ice cream"
+  ]
+ },
+ "Tzatziki": {
+  "base": "tzatziki",
+  "derived_from": "yogurt",
+  "synonyms": [
+   "greek yogurt dip",
+   "yogurt cucumber dip"
+  ]
+ },
+ "Udon Noodles": {
+  "base": "udon noodles",
+  "derived_from": "wheat",
+  "synonyms": [
+   "japanese wheat noodles",
+   "udon"
+  ]
+ },
+ "Urad Dal": {
+  "base": "urad dal",
+  "derived_from": null,
+  "synonyms": [
+   "black gram",
+   "urad",
+   "white lentil"
+  ]
+ },
+ "Urad Dal Flour": {
+  "base": "urad dal flour",
+  "derived_from": "urad dal",
+  "synonyms": [
+   "besan",
+   "chickpea flour",
+   "gram flour"
+  ]
+ },
+ "Urad Dal Papad": {
+  "base": "urad dal papad",
+  "derived_from": "urad dal",
+  "synonyms": [
+   "papad",
+   "papadum",
+   "pappadam"
+  ]
+ },
+ "Vangi Bath Powder": {
+  "base": "vangi bath powder",
+  "derived_from": "eggplant",
+  "synonyms": [
+   "brinjal bath powder",
+   "eggplant bath powder"
+  ]
+ },
+ "Vanilla Custard": {
+  "base": "vanilla custard",
+  "derived_from": "milk",
+  "synonyms": [
+   "custard",
+   "vanilla pudding"
+  ]
+ },
+ "Vanilla Custard Powder": {
+  "base": "vanilla custard powder",
+  "derived_from": "milk",
+  "synonyms": [
+   "custard powder",
+   "vanilla pudding mix"
+  ]
+ },
+ "Vanilla Extract": {
+  "base": "vanilla extract",
+  "derived_from": "vanilla",
+  "synonyms": [
+   "vanilla essence",
+   "vanilla flavoring"
+  ]
+ },
+ "Vanilla Ice Cream": {
+  "base": "vanilla ice cream",
+  "derived_from": "milk",
+  "synonyms": [
+   "vanilla frozen dessert",
+   "vanilla gelato"
+  ]
+ },
+ "Veeba Carrot Cucumber Sandwich Spread": {
+  "base": "carrot cucumber sandwich spread",
+  "derived_from": "carrot",
+  "synonyms": [
+   "carrot cucumber dip",
+   "sandwich spread"
+  ]
+ },
+ "Veeba Harissa Sauce": {
+  "base": "harissa sauce",
+  "derived_from": "chili",
+  "synonyms": [
+   "chili paste",
+   "harissa"
+  ]
+ },
+ "Veeba Pizza & Pasta Sauce": {
+  "base": "pizza pasta sauce",
+  "derived_from": "tomato",
+  "synonyms": [
+   "pasta sauce",
+   "pizza sauce"
+  ]
+ },
+ "Vegetable Stock": {
+  "base": "vegetable stock",
+  "derived_from": "vegetables",
+  "synonyms": [
+   "veg broth",
+   "vegetable broth"
+  ]
+ },
+ "Vellai Poosanikai": {
+  "base": "vellai poosanikai",
+  "derived_from": null,
+  "synonyms": [
+   "white drumstick",
+   "white moringa"
+  ]
+ },
+ "Vinegar": {
+  "base": "vinegar",
+  "derived_from": null,
+  "synonyms": [
+   "acetic acid solution",
+   "sirk"
+  ]
+ },
+ "Vivatta Maida": {
+  "base": "maida",
+  "derived_from": "wheat",
+  "synonyms": [
+   "all purpose flour",
+   "refined flour",
+   "white flour"
+  ]
+ },
+ "Walnuts": {
+  "base": "walnut",
+  "derived_from": null,
+  "synonyms": [
+   "akhrot",
+   "walnut kernel"
+  ]
+ },
+ "Water": {
+  "base": "water",
+  "derived_from": null,
+  "synonyms": [
+   "h2o",
+   "pani"
+  ]
+ },
+ "Water Chestnut": {
+  "base": "water chestnut",
+  "derived_from": null,
+  "synonyms": [
+   "chiku",
+   "kumbal",
+   "water chestnut fruit"
+  ]
+ },
+ "Water Chestnut Flour": {
+  "base": "water chestnut flour",
+  "derived_from": "water chestnut",
+  "synonyms": [
+   "chiku flour",
+   "kumbal flour"
+  ]
+ },
+ "Watermelon": {
+  "base": "watermelon",
+  "derived_from": null,
+  "synonyms": [
+   "kharbooja",
+   "water melon"
+  ]
+ },
+ "Watermelon Juice": {
+  "base": "watermelon juice",
+  "derived_from": "watermelon",
+  "synonyms": [
+   "kharbooja juice",
+   "watermelon extract"
+  ]
+ },
+ "Wheat": {
+  "base": "wheat",
+  "derived_from": null,
+  "synonyms": [
+   "gehu",
+   "shakti",
+   "wheat grain"
+  ]
+ },
+ "Wheat Bran": {
+  "base": "wheat bran",
+  "derived_from": "wheat",
+  "synonyms": [
+   "bran"
+  ]
+ },
+ "Wheat Flakes": {
+  "base": "wheat flakes",
+  "derived_from": "wheat",
+  "synonyms": [
+   "wheat cereal",
+   "wheat flakes cereal"
+  ]
+ },
+ "Wheat Germ": {
+  "base": "wheat germ",
+  "derived_from": "wheat",
+  "synonyms": [
+   "germ"
+  ]
+ },
+ "Wheat Grass Powder": {
+  "base": "wheat grass powder",
+  "derived_from": "wheat grass",
+  "synonyms": [
+   "wheatgrass powder"
+  ]
+ },
+ "Wheat Noodles": {
+  "base": "wheat noodles",
+  "derived_from": "wheat",
+  "synonyms": [
+   "makki noodles",
+   "noodles"
+  ]
+ },
+ "White Broad Beans": {
+  "base": "broad beans",
+  "derived_from": null,
+  "synonyms": [
+   "bhelua",
+   "fava beans",
+   "horse beans"
+  ]
+ },
+ "White Chickpeas": {
+  "base": "chickpeas",
+  "derived_from": null,
+  "synonyms": [
+   "chana",
+   "garbanzo",
+   "kabuli chana"
+  ]
+ },
+ "White Chocolate": {
+  "base": "white chocolate",
+  "derived_from": "milk",
+  "synonyms": [
+   "white choco"
+  ]
+ },
+ "White Garbanzo": {
+  "base": "chickpeas",
+  "derived_from": null,
+  "synonyms": [
+   "chana",
+   "garbanzo",
+   "kabuli chana"
+  ]
+ },
+ "White Pepper Powder": {
+  "base": "white pepper",
+  "derived_from": null,
+  "synonyms": [
+   "white pepper",
+   "white pepper powder"
+  ]
+ },
+ "White Urad Dal": {
+  "base": "white urad dal",
+  "derived_from": null,
+  "synonyms": [
+   "white lentils",
+   "white moong dal",
+   "white split black gram"
+  ]
+ },
+ "White Vinegar": {
+  "base": "white vinegar",
+  "derived_from": null,
+  "synonyms": [
+   "distilled vinegar",
+   "white wine vinegar"
+  ]
+ },
+ "White Wine": {
+  "base": "white wine",
+  "derived_from": null,
+  "synonyms": [
+   "white grape wine"
+  ]
+ },
+ "Whole Black Peppercorns": {
+  "base": "black pepper",
+  "derived_from": null,
+  "synonyms": [
+   "black peppercorns",
+   "kali mirch"
+  ]
+ },
+ "Whole Cashews": {
+  "base": "cashew",
+  "derived_from": null,
+  "synonyms": [
+   "cashew nuts",
+   "kaju"
+  ]
+ },
+ "Whole Eggs": {
+  "base": "egg",
+  "derived_from": null,
+  "synonyms": [
+   "anda"
+  ]
+ },
+ "Whole Pepper": {
+  "base": "peppercorn",
+  "derived_from": null,
+  "synonyms": [
+   "black pepper",
+   "kali mirch"
+  ]
+ },
+ "Whole Wheat Bread Crumbs": {
+  "base": "bread crumbs",
+  "derived_from": "bread",
+  "synonyms": [
+   "bread crumb",
+   "breadcrumbs"
+  ]
+ },
+ "Whole Wheat Brown Bread": {
+  "base": "bread",
+  "derived_from": "wheat",
+  "synonyms": [
+   "chapati",
+   "roti"
+  ]
+ },
+ "Whole Wheat Flour": {
+  "base": "flour",
+  "derived_from": "wheat",
+  "synonyms": [
+   "atta",
+   "chakki atta",
+   "wheat flour"
+  ]
+ },
+ "Whole Wheat Flour Tortilla": {
+  "base": "tortilla",
+  "derived_from": "wheat flour",
+  "synonyms": [
+   "chapati",
+   "roti"
+  ]
+ },
+ "Whole Wheat Pizza Dough": {
+  "base": "pizza dough",
+  "derived_from": "wheat flour",
+  "synonyms": [
+   "pizza base",
+   "pizza crust"
+  ]
+ },
+ "Whole Wheat Tawa Paratha": {
+  "base": "paratha",
+  "derived_from": "wheat flour",
+  "synonyms": [
+   "parathas",
+   "stuffed paratha"
+  ]
+ },
+ "Wood": {
+  "base": "wood",
+  "derived_from": null,
+  "synonyms": [
+   "lumber",
+   "timber"
+  ]
+ },
+ "Wood Apple": {
+  "base": "wood apple",
+  "derived_from": null,
+  "synonyms": [
+   "aegle marmelos",
+   "bel",
+   "bel fruit"
+  ]
+ },
+ "Worcestershire Sauce": {
+  "base": "worcestershire sauce",
+  "derived_from": null,
+  "synonyms": []
+ },
+ "Yellow Bell Pepper": {
+  "base": "capsicum",
+  "derived_from": null,
+  "synonyms": [
+   "bell pepper",
+   "shimla mirch"
+  ]
+ },
+ "Yellow Corn Meal Flour": {
+  "base": "corn flour",
+  "derived_from": "corn",
+  "synonyms": [
+   "corn meal",
+   "maida"
+  ]
+ },
+ "Yellow Moong Dal": {
+  "base": "moong dal",
+  "derived_from": null,
+  "synonyms": [
+   "green gram",
+   "mung bean"
+  ]
+ },
+ "Yellow Mustard Seeds": {
+  "base": "mustard seeds",
+  "derived_from": null,
+  "synonyms": [
+   "rai",
+   "sarson"
+  ]
+ },
+ "Yogurt": {
+  "base": "yogurt",
+  "derived_from": null,
+  "synonyms": [
+   "curd",
+   "dahi"
+  ]
+ },
+ "Za'atar": {
+  "base": "za atar",
+  "derived_from": null,
+  "synonyms": [
+   "zaatar",
+   "zaatar spice"
+  ]
+ },
+ "Zucchini": {
+  "base": "zucchini",
+  "derived_from": null,
+  "synonyms": [
+   "courgette",
+   "summer squash"
+  ]
+ }
+}

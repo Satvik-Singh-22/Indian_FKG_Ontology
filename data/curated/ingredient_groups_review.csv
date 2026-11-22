@@ -1,0 +1,954 @@
+label,base,derived_from,synonyms,same_base_labels
+Aam Papad,aam papad,mango,mango papad; mango pickle,Aam Papad
+Aamras,aamras,mango,mango pulp; mango puree,Aamras
+Achari Masala,achari masala,,achar masala; pickle spice mix,Achari Masala
+Ada,ada,rice,rice noodles; rice vermicelli; sev,Ada
+Adobo Sauce,adobo sauce,,adobo,Adobo Sauce
+Aerated Water,aerated water,,carbonated water; soda water; sparkling water,Aerated Water
+Ajwain,ajwain,,caraway seeds; carom seeds,Ajwain
+Alfalfa Powder,alfalfa powder,alfalfa,lucerne powder,Alfalfa Powder
+Classic Alfredo Pasta Sauce,alfredo sauce,cream,alfredo,Classic Alfredo Pasta Sauce
+All Spice Powder,allspice,,all spice; pimento,All Spice Powder
+Almond,almond,,badam,Almond; Badam; Slivered Almonds
+Badam,almond,,almond; badam,Almond; Badam; Slivered Almonds
+Slivered Almonds,almond,,badam,Almond; Badam; Slivered Almonds
+Almond Butter,almond butter,almond,badam butter,Almond Butter
+Almond Essence,almond essence,almond,almond extract; badam essence,Almond Essence
+Almond Meal,almond meal,almond,almond flour; badam flour,Almond Meal
+Almond Milk,almond milk,almond,badam milk,Almond Milk
+Almond Oil,almond oil,almond,badam oil,Almond Oil
+Aloo Bhujia,aloo bhujia,potato,bhujia; potato sev,Aloo Bhujia
+Aloo Tikki,aloo tikki,potato,potato cutlet; potato patty,Aloo Tikki
+Amaranth Flour,amaranth flour,amaranth,rajgira flour,Amaranth Flour
+Amaranth Leaves,amaranth leaves,,amaranth greens; rajgira leaves,Amaranth Leaves; Green Amaranth Leaves; Red Amaranth Leaves
+Green Amaranth Leaves,amaranth leaves,,amaranth; chaulai,Amaranth Leaves; Green Amaranth Leaves; Red Amaranth Leaves
+Red Amaranth Leaves,amaranth leaves,,amaranth greens; chaulai; chawli,Amaranth Leaves; Green Amaranth Leaves; Red Amaranth Leaves
+Amaranth Seeds,amaranth seeds,,rajgira seeds,Amaranth Seeds
+Amchoor Powder,amchoor,mango,amchur; dried mango powder,Amchoor Powder; Amchur
+Amchur,amchoor,mango,amchoor powder; dried mango powder,Amchoor Powder; Amchur
+Amla,amla,,gooseberry; indian gooseberry,Amla
+Anardana Powder,anardana,pomegranate,anardana; dried pomegranate powder,Anardana Powder
+Aniseed,aniseed,,saunf; star anise,Aniseed
+Apples,apple,,seb,Apples; Green Apple
+Green Apple,apple,,seb,Apples; Green Apple
+Apple Cider Vinegar,apple cider vinegar,apple,acv,Apple Cider Vinegar
+Apple Puree,apple puree,apple,apple sauce,Apple Puree
+Apricots,apricot,,albu,Apricots
+Arhar Dal,arhar dal,,chana dal; gram dal; toor dal,Arhar Dal
+Arisithipli,arisaigal,,arisaigal; arisaigal powder,Arisithipli
+Arrowroot Flour,arrowroot flour,arrowroot,arrowroot starch,Arrowroot Flour
+Artichokes,artichoke,,globe artichoke,Artichokes
+Arugula Leaves,arugula,,rocket; rucola,Arugula Leaves
+Asafoetida,asafoetida,,hing; hing powder,Asafoetida
+Ash Gourd,ash gourd,,bottle gourd; lauki,Ash Gourd
+Ash Gourd Chips,ash gourd chips,ash gourd,bottle gourd chips; lauki chips,Ash Gourd Chips
+Mughlai Meetha Attar,attar,,fragrance oil; perfume oil,Mughlai Meetha Attar
+Avocado,avocado,,alligator pear,Avocado
+Baby Corn,baby corn,corn,mini corn; young corn,Baby Corn
+Bacon,bacon,pork,smoked pork belly,Bacon; Bacon Strips
+Bacon Strips,bacon,pork,smoked pork belly,Bacon; Bacon Strips
+Badi,badi,gram flour,bundi; chana dal fritter,Badi
+Bagel,bagel,wheat flour,bagel bread,Bagel
+Baguette,baguette,wheat flour,french bread,Baguette
+Bajra Flour,bajra flour,pearl millet,bajra atta; pearl millet flour,Bajra Flour
+Baked Beans,baked beans,beans,haricot beans,Baked Beans
+Baking Powder,baking powder,,raising agent,Baking Powder
+Baking Soda,baking soda,,bicarb soda; sodium bicarbonate,Baking Soda
+Balsamic Vinegar,balsamic vinegar,grape must,balsamic,Balsamic Vinegar
+Bamboo Shoots,bamboo shoots,bamboo,bamboo sprouts; vankaya,Bamboo Shoots
+Banana,banana,,kela; plantain,Banana; Nendra Pazham Banana; Raw Banana
+Nendra Pazham Banana,banana,,nendran; nendran banana; plantain,Banana; Nendra Pazham Banana; Raw Banana
+Raw Banana,banana,,kela; plantain,Banana; Nendra Pazham Banana; Raw Banana
+Banana Flower,banana flower,banana,banana blossom; kela phool,Banana Flower
+Banana Leaves,banana leaves,banana,kela patta,Banana Leaves
+Banana Stem,banana stem,banana,banana heart; kela kankad,Banana Stem
+Barbeque Masala,barbeque masala,,bbq spice mix,Barbeque Masala
+Barbeque Sauce,barbeque sauce,,bbq sauce,Barbeque Sauce
+Barley,barley,,jau,Barley
+Barley Flour,barley flour,barley,jau ka atta,Barley Flour
+Barnyard Millet,barnyard millet,,kodo millet; shorgum,Barnyard Millet
+Basa Fish,basa fish,,pangasius; swai,Basa Fish
+Basella,basella,,climbing spinach; gandh boondi,Basella
+Basil,basil,,sweet basil; tulsi,Basil; Basil Leaves; Dried Basil Leaves
+Basil Leaves,basil,,sweet basil; tulsi,Basil; Basil Leaves; Dried Basil Leaves
+Dried Basil Leaves,basil,,basil; tulsi,Basil; Basil Leaves; Dried Basil Leaves
+Basil Pesto,basil pesto,basil,pesto sauce,Basil Pesto
+Bathua Leaves,bathua leaves,,bathua; winter spinach,Bathua Leaves
+Bay Leaves,bay leaves,,tejpatta,Bay Leaves
+Bean Paste,bean paste,beans,doubanjiang; fermented bean paste,Bean Paste
+Bean Sprouts,bean sprouts,beans,moong sprouts; mung bean sprouts,Bean Sprouts
+Double Beans,beans,,beans,Double Beans; Dry Beans; Refried Beans
+Dry Beans,beans,,beans; dal; legumes,Double Beans; Dry Beans; Refried Beans
+Refried Beans,beans,,cooked beans; frijoles refritos; refried beans,Double Beans; Dry Beans; Refried Beans
+Beer,beer,barley,ale; lager,Beer
+Beetroot,beetroot,,beet; chukandar,Beetroot
+Beetroot Puree,beetroot puree,beetroot,beet paste,Beetroot Puree
+Mixed Berries,berries,,assorted berries; berry mix,Mixed Berries
+Ber,berry,,fruit,Ber
+Betel Leaves,betel leaves,,paan leaves; sop,Betel Leaves
+Bhaja Masala,bhaja masala,,bhaji masala; frying masala,Bhaja Masala
+Bc Belle Bhat Powder,bhat powder,rice,bhat ka powder; rice powder,Bc Belle Bhat Powder
+Bhetki Fish,bhetki fish,,pangasius; pomfret,Bhetki Fish
+Biryani Masala,biryani masala,,biryani spice mix,Biryani Masala
+Digestive Biscuit,biscuit,wheat,biscuit; cookie,Digestive Biscuit; Oreo Biscuits
+Oreo Biscuits,biscuit,,cookie,Digestive Biscuit; Oreo Biscuits
+Bisi Bele Bhat Spice Powder,bisi bele bhat spice powder,,bisi bele bath masala,Bisi Bele Bhat Spice Powder
+Bitter Gourd,bitter gourd,,bitter melon; karela,Bitter Gourd; Karela
+Karela,bitter gourd,,bitter melon; goya; karela,Bitter Gourd; Karela
+Black Beans,black beans,,black turtle beans,Black Beans; Canned Black Beans
+Canned Black Beans,black beans,,black beans; rajma,Black Beans; Canned Black Beans
+Black Cardamom,black cardamom,,badi elaichi; black cardamom seeds,Black Cardamom
+Black Chili Powder,black chili powder,chili,black pepper powder,Black Chili Powder
+Black Currant Ice Cream,black currant ice cream,black currant,blackcurrant ice cream,Black Currant Ice Cream
+Black Gram,black gram,,black urad; urad dal,Black Gram
+Black Grapes,black grapes,,grapes,Black Grapes
+Black Mustard Seeds,black mustard seeds,,black mustard; kala sarson,Black Mustard Seeds
+Black Olives,black olives,,olives,Black Olives
+Black Pepper,black pepper,,kali mirch; pepper,Black Pepper; Whole Black Peppercorns
+Whole Black Peppercorns,black pepper,,black peppercorns; kali mirch,Black Pepper; Whole Black Peppercorns
+Black Pepper Powder,black pepper powder,black pepper,pepper powder,Black Pepper Powder
+Black Raisins,black raisins,grapes,kishmish; raisins,Black Raisins
+Black Rice,black rice,,black rice; forbidden rice,Black Rice
+Black Salt,black salt,,kala namak,Black Salt
+Black Tea,black tea,tea leaves,chai; tea,Black Tea
+Black Urad Dal,black urad dal,,black gram; urad dal,Black Urad Dal
+Blackberries,blackberries,,blackberry,Blackberries
+Blueberries,blueberries,,blueberry,Blueberries
+Bocconcini Cheese,bocconcini cheese,milk,bocconcini; mozzarella balls,Bocconcini Cheese
+Bok Choy,bok choy,,bok choy; pak choi,Bok Choy
+Boondi,boondi,gram flour,boondi; chickpea flour fritters,Boondi
+Indian Borage,borage,,borage leaves; star flower,Indian Borage
+Botis,botis,flour,boti; botis,Botis
+Bottle Gourd,bottle gourd,,doodhi; lauki,Bottle Gourd
+Bourbon Biscuits,bourbon biscuits,flour,biscuits; cookies,Bourbon Biscuits
+Bread,bread,flour,bread; roti,Bread; Burger Buns; Crusty Bread; Fried Bread Cubes; Whole Wheat Brown Bread
+Burger Buns,bread,wheat,bun; burger bun,Bread; Burger Buns; Crusty Bread; Fried Bread Cubes; Whole Wheat Brown Bread
+Crusty Bread,bread,wheat,chapati; naan; roti,Bread; Burger Buns; Crusty Bread; Fried Bread Cubes; Whole Wheat Brown Bread
+Fried Bread Cubes,bread,,croutons,Bread; Burger Buns; Crusty Bread; Fried Bread Cubes; Whole Wheat Brown Bread
+Whole Wheat Brown Bread,bread,wheat,chapati; roti,Bread; Burger Buns; Crusty Bread; Fried Bread Cubes; Whole Wheat Brown Bread
+Bread Crumbs,bread crumbs,bread,bread crumbs; breadcrumbs,Bread Crumbs; Whole Wheat Bread Crumbs
+Whole Wheat Bread Crumbs,bread crumbs,bread,bread crumb; breadcrumbs,Bread Crumbs; Whole Wheat Bread Crumbs
+Broad Beans,broad beans,,fava beans; horse beans,Broad Beans; White Broad Beans
+White Broad Beans,broad beans,,bhelua; fava beans; horse beans,Broad Beans; White Broad Beans
+Broccoli,broccoli,,broccoli,Broccoli
+Brussel Sprouts,brussels sprouts,,brussels sprouts,Brussel Sprouts
+Buckwheat Flour,buckwheat flour,buckwheat,kuttu atta,Buckwheat Flour
+Butter,butter,milk,ghee; makkhan,Butter; Salted Butter
+Salted Butter,butter,milk,makkhan,Butter; Salted Butter
+Buttermilk,buttermilk,milk,chaas; takra,Buttermilk
+Cabbage,cabbage,,cabbage; patta gobhi,Cabbage; Cabbage Leaves; Purple Cabbage; Red Cabbage
+Cabbage Leaves,cabbage,,cabbage leaves; patta gobhi,Cabbage; Cabbage Leaves; Purple Cabbage; Red Cabbage
+Purple Cabbage,cabbage,,patta gobhi; red cabbage,Cabbage; Cabbage Leaves; Purple Cabbage; Red Cabbage
+Red Cabbage,cabbage,,patta gobhi; red cabbage,Cabbage; Cabbage Leaves; Purple Cabbage; Red Cabbage
+Carrot Cake,cake,wheat,cake; carrot cake,Carrot Cake
+Edible Camphor,camphor,,edible camphor; karpura,Edible Camphor
+Capers,capers,,capers,Capers
+Bell Pepper,capsicum,,bell pepper; capsicum; shimla mirch,Bell Pepper; Capsicum; Green Bell Pepper; Orange Bell Pepper; Red Bell Pepper; Yellow Bell Pepper
+Capsicum,capsicum,,bell pepper; shimla mirch,Bell Pepper; Capsicum; Green Bell Pepper; Orange Bell Pepper; Red Bell Pepper; Yellow Bell Pepper
+Green Bell Pepper,capsicum,,bell pepper; shimla mirch,Bell Pepper; Capsicum; Green Bell Pepper; Orange Bell Pepper; Red Bell Pepper; Yellow Bell Pepper
+Orange Bell Pepper,capsicum,,bell pepper; shimla mirch,Bell Pepper; Capsicum; Green Bell Pepper; Orange Bell Pepper; Red Bell Pepper; Yellow Bell Pepper
+Red Bell Pepper,capsicum,,bell pepper; shimla mirch,Bell Pepper; Capsicum; Green Bell Pepper; Orange Bell Pepper; Red Bell Pepper; Yellow Bell Pepper
+Yellow Bell Pepper,capsicum,,bell pepper; shimla mirch,Bell Pepper; Capsicum; Green Bell Pepper; Orange Bell Pepper; Red Bell Pepper; Yellow Bell Pepper
+Caramel Sauce,caramel sauce,sugar,caramel; caramel syrup,Caramel Sauce
+Brown Cardamom,cardamom,,brown cardamom; elaichi,Brown Cardamom; Cardamom; Cardamom Pods; Cardamom Powder
+Cardamom,cardamom,,elaichi; green cardamom,Brown Cardamom; Cardamom; Cardamom Pods; Cardamom Powder
+Cardamom Pods,cardamom,,elaichi; green cardamom,Brown Cardamom; Cardamom; Cardamom Pods; Cardamom Powder
+Cardamom Powder,cardamom,,cardamom powder; elaichi,Brown Cardamom; Cardamom; Cardamom Pods; Cardamom Powder
+Carom Seeds,carom seeds,,ajwain; ajwain seeds,Carom Seeds
+Carrots,carrot,,carrot; gajar,Carrots
+Veeba Carrot Cucumber Sandwich Spread,carrot cucumber sandwich spread,carrot,carrot cucumber dip; sandwich spread,Veeba Carrot Cucumber Sandwich Spread
+Cashew,cashew,,cashew nut; kaju,Cashew; Whole Cashews
+Whole Cashews,cashew,,cashew nuts; kaju,Cashew; Whole Cashews
+Cauliflower,cauliflower,,gobi; phool gobi,Cauliflower
+Cayenne Pepper,cayenne pepper,,cayenne; red pepper powder,Cayenne Pepper
+Celery,celery,,selery,Celery
+Chaat Masala Powder,chaat masala,,chaat masala powder,Chaat Masala Powder
+Chakundar,chakundar,,chakunda; chakunda leaves,Chakundar
+Champagne,champagne,,sparkling wine,Champagne
+Chana Dal,chana dal,,chana dal; chickpea split,Chana Dal
+Chana Masala Powder,chana masala,,chana masala powder,Chana Masala Powder
+Charcoal,charcoal,,coal,Charcoal
+Chayote,chayote,,chayote squash; chayote vegetable,Chayote
+Cheddar Cheese,cheddar cheese,milk,cheddar,Cheddar Cheese
+Britannia Cheese Block,cheese,milk,chiz; paneer,Britannia Cheese Block; Cheese; Cheese Cubes; Ricotta Cheese
+Cheese,cheese,milk,mozzarella; paneer,Britannia Cheese Block; Cheese; Cheese Cubes; Ricotta Cheese
+Cheese Cubes,cheese,milk,mozzarella; paneer,Britannia Cheese Block; Cheese; Cheese Cubes; Ricotta Cheese
+Ricotta Cheese,cheese,milk,ricotta; ricotta cheese; whey cheese,Britannia Cheese Block; Cheese; Cheese Cubes; Ricotta Cheese
+Del Monte Cheesy Dip,cheese dip,cheese,cheese dip,Del Monte Cheesy Dip
+Britannia Cheese Spread,cheese spread,milk,cheese dip,Britannia Cheese Spread; Cheese Spread
+Cheese Spread,cheese spread,cheese,cream cheese spread,Britannia Cheese Spread; Cheese Spread
+Cheesy Garlic Mayo,cheesy garlic mayo,mayonnaise,garlic cheese mayo,Cheesy Garlic Mayo
+Chenna,chenna,milk,cottage cheese; paneer,Chenna
+Canned Cherries,cherries,,cherries; cherry,Canned Cherries; Fresh Cherries
+Fresh Cherries,cherries,,cherry,Canned Cherries; Fresh Cherries
+Cherries,cherry,,cherries,Cherries; Glazed Cherries
+Glazed Cherries,cherry,,cherries,Cherries; Glazed Cherries
+Chia Seeds,chia seeds,,chia,Chia Seeds
+Boneless Chicken,chicken,,chicken meat; murg,Boneless Chicken; Chicken; Chicken Breasts; Chicken Legs; Chicken Thighs
+Chicken,chicken,,murg,Boneless Chicken; Chicken; Chicken Breasts; Chicken Legs; Chicken Thighs
+Chicken Breasts,chicken,,murg,Boneless Chicken; Chicken; Chicken Breasts; Chicken Legs; Chicken Thighs
+Chicken Legs,chicken,,murg,Boneless Chicken; Chicken; Chicken Breasts; Chicken Legs; Chicken Thighs
+Chicken Thighs,chicken,,murg,Boneless Chicken; Chicken; Chicken Breasts; Chicken Legs; Chicken Thighs
+Chicken Masala,chicken masala,,chicken masala powder,Chicken Masala
+Chicken Sausage,chicken sausage,chicken,chicken sausage,Chicken Sausage
+Chicken Stock,chicken stock,chicken,chicken broth,Chicken Stock
+Hariyali Chicken Tikka,chicken tikka,chicken,green chicken tikka,Hariyali Chicken Tikka
+Kabuli Chana,chickpea,,chickpeas; garbanzo beans; kabuli chana,Kabuli Chana; Kala Chana
+Kala Chana,chickpea,,chana; garbanzo bean; kabuli chana,Kabuli Chana; Kala Chana
+Chickpea Lentils,chickpea lentils,,chana dal,Chickpea Lentils
+Brown Chickpeas,chickpeas,,chana; kabuli chana,Brown Chickpeas; Chickpeas; Fresh Green Chickpeas; White Chickpeas; White Garbanzo
+Chickpeas,chickpeas,,chana; garbanzo beans,Brown Chickpeas; Chickpeas; Fresh Green Chickpeas; White Chickpeas; White Garbanzo
+Fresh Green Chickpeas,chickpeas,,chana; green chana,Brown Chickpeas; Chickpeas; Fresh Green Chickpeas; White Chickpeas; White Garbanzo
+White Chickpeas,chickpeas,,chana; garbanzo; kabuli chana,Brown Chickpeas; Chickpeas; Fresh Green Chickpeas; White Chickpeas; White Garbanzo
+White Garbanzo,chickpeas,,chana; garbanzo; kabuli chana,Brown Chickpeas; Chickpeas; Fresh Green Chickpeas; White Chickpeas; White Garbanzo
+Dry Kashmiri Peppers,chili pepper,,chili pepper; kashmiri mirch; red chili,Dry Kashmiri Peppers
+Ghost Chilli Peppers,chilli,,bhut jolokia; ghost pepper,Ghost Chilli Peppers; Kashmiri Dry Red Chilli; Red Chilli
+Kashmiri Dry Red Chilli,chilli,,kashmiri mirch; mirch; red chilli,Ghost Chilli Peppers; Kashmiri Dry Red Chilli; Red Chilli
+Red Chilli,chilli,,mirch; red chilli,Ghost Chilli Peppers; Kashmiri Dry Red Chilli; Red Chilli
+Red Chilli Flakes,chilli flakes,chilli,crushed red pepper; red chilli flakes,Red Chilli Flakes
+Red Chilli Paste,chilli paste,chilli,chili paste; red chilli paste,Red Chilli Paste
+Kashmiri Red Chilli Powder,chilli powder,chilli,mirch powder; red chilli powder,Kashmiri Red Chilli Powder; Red Chilli Powder
+Red Chilli Powder,chilli powder,chilli,lajawab powder; mirch powder; red chilli powder,Kashmiri Red Chilli Powder; Red Chilli Powder
+Red Chilli Sauce,chilli sauce,chilli,chilli paste; hot sauce; red chilli sauce,Red Chilli Sauce
+Chilli Vinegar,chilli vinegar,vinegar,chili vinegar,Chilli Vinegar
+Chinese 5 Spice Powder,chinese 5 spice,,five spice powder,Chinese 5 Spice Powder
+Chipotle Chillies,chipotle chillies,chilli,chipotle peppers,Chipotle Chillies; Chipotle Peppers
+Chipotle Peppers,chipotle chillies,chilli,chipotle peppers,Chipotle Chillies; Chipotle Peppers
+Chipotle Sauce,chipotle sauce,chipotle chillies,chipotle mayo,Chipotle Sauce
+Chironji,chironji,,chironji seeds,Chironji
+Chiroti Rava,chiroti rava,wheat,chiroti semolina,Chiroti Rava
+Chives,chives,,chives,Chives
+Butterscotch Chips,chocolate,cocoa,butterscotch; chocolate chips,Butterscotch Chips; Chocolate Bar; Chocolate Chips; Dark Chocolate
+Chocolate Bar,chocolate,cocoa,chocolate,Butterscotch Chips; Chocolate Bar; Chocolate Chips; Dark Chocolate
+Chocolate Chips,chocolate,cocoa,chocolate,Butterscotch Chips; Chocolate Bar; Chocolate Chips; Dark Chocolate
+Dark Chocolate,chocolate,cocoa,chocolate,Butterscotch Chips; Chocolate Bar; Chocolate Chips; Dark Chocolate
+Chocolate Ganache,chocolate ganache,chocolate,ganache,Chocolate Ganache
+Nutella Spread,chocolate hazelnut spread,,hazelnut spread; nutella,Nutella Spread
+Chocolate Ice Cream,chocolate ice cream,milk,chocolate ice cream,Chocolate Ice Cream
+Chocolate Sauce,chocolate sauce,chocolate,,Chocolate Sauce
+Chocolate Syrup,chocolate syrup,chocolate,,Chocolate Syrup
+Chow Chow,chow chow,,chaw chaw,Chow Chow
+Chyawanprash,chyawanprash,,chyawan prash; chyawanprash,Chyawanprash
+Ciabatta Bread,ciabatta bread,flour,ciabatta,Ciabatta Bread
+Cinnamon,cinnamon,,cassia; dalchini,Cinnamon
+Cinnamon Powder,cinnamon powder,cinnamon,dalchini powder,Cinnamon Powder
+Cinnamon Stick,cinnamon stick,cinnamon,dalchini stick,Cinnamon Stick
+Clamps,clamps,,,Clamps
+Cloves,clove,,laung,Cloves
+Clove Powder,clove powder,clove,laung powder,Clove Powder
+Cluster Beans,cluster bean,,grass pea; lathyrus sativus,Cluster Beans
+Coal,coal,,,Coal
+Cocoa Powder,cocoa powder,cocoa,coco powder,Cocoa Powder
+Dessicated Coconut,coconut,,coconut; nariyal,Dessicated Coconut; Dry Coconut; Fresh Coconut; Shredded Coconut
+Dry Coconut,coconut,,coconut; nariyal,Dessicated Coconut; Dry Coconut; Fresh Coconut; Shredded Coconut
+Fresh Coconut,coconut,,nariyal,Dessicated Coconut; Dry Coconut; Fresh Coconut; Shredded Coconut
+Shredded Coconut,coconut,,nariyal; tender coconut,Dessicated Coconut; Dry Coconut; Fresh Coconut; Shredded Coconut
+Coconut Cream,coconut cream,coconut,thick coconut milk,Coconut Cream
+Coconut Milk,coconut milk,coconut,nariyal doodh,Coconut Milk
+Coconut Oil,coconut oil,coconut,nariyal tel,Coconut Oil
+Coconut Powder,coconut powder,coconut,desiccated coconut,Coconut Powder
+Coconut Sugar,coconut sugar,coconut,nariyal cheeni,Coconut Sugar
+Coconut Yogurt,coconut yogurt,coconut,,Coconut Yogurt
+Green Coffee Beans,coffee beans,,coffee,Green Coffee Beans
+Coffee Decoction,coffee decoction,coffee,coffee extract,Coffee Decoction
+Filter Coffee Powder,coffee powder,coffee,coffee; instant coffee,Filter Coffee Powder
+Collard Greens,collard greens,,collards,Collard Greens
+Colocasia Leaves,colocasia leaves,colocasia,sag; taro leaves,Colocasia Leaves
+Colocasia Root,colocasia root,colocasia,arbi; taro root,Colocasia Root
+Conchiglie Pasta,conchiglie pasta,flour,shell pasta,Conchiglie Pasta
+Condensed Milk,condensed milk,milk,milk powder,Condensed Milk
+Confectioners Sugar,confectioners sugar,sugar,icing sugar; powdered sugar,Confectioners Sugar
+Cooking Soda,cooking soda,,baking soda; sodium bicarbonate,Cooking Soda
+Coriander,coriander,,dhania,Coriander
+Coriander Leaves,coriander leaves,coriander,cilantro; dhania patti,Coriander Leaves; Green Coriander
+Green Coriander,coriander leaves,,cilantro; dhania,Coriander Leaves; Green Coriander
+Coriander Powder,coriander powder,coriander,dhania powder,Coriander Powder
+Coriander Seeds,coriander seeds,coriander,dhania seeds,Coriander Seeds
+Del Monte Whole Corn Kernels,corn,,corn; maize,Del Monte Whole Corn Kernels
+Corn Cob,corn cob,corn,maize cob,Corn Cob
+Corn Flakes,corn flakes,corn,,Corn Flakes
+Corn Flour,corn flour,corn,maize flour,Corn Flour; Makki Ka Atta; Yellow Corn Meal Flour
+Makki Ka Atta,corn flour,corn,corn meal; maize flour; makki ka atta,Corn Flour; Makki Ka Atta; Yellow Corn Meal Flour
+Yellow Corn Meal Flour,corn flour,corn,corn meal; maida,Corn Flour; Makki Ka Atta; Yellow Corn Meal Flour
+Corn Kernels,corn kernels,corn,maize kernels,Corn Kernels
+Corn Meal,corn meal,corn,corn flour; maida; polenta,Corn Meal
+Maize Dalia,cornmeal,corn,cornmeal; maize dalia; makkai dalia,Maize Dalia
+Cottage Cheese,cottage cheese,milk,chenna; makkhan; paneer,Cottage Cheese
+Couscous,couscous,semolina,couscous; semolina granules,Couscous
+Cowpea,cowpea,,black eyed pea; chawli; lobia,Cowpea
+Cranberries,cranberry,,cranberry,Cranberries
+Cream,cream,milk,malai; whipping cream,Cream; Heavy Whipping Cream
+Heavy Whipping Cream,cream,milk,heavy cream; whipping cream,Cream; Heavy Whipping Cream
+Britannia Cream Cheese,cream cheese,milk,cream cheese,Britannia Cream Cheese; Cream Cheese
+Cream Cheese,cream cheese,milk,cream cheese,Britannia Cream Cheese; Cream Cheese
+Cucumber,cucumber,,kheera,Cucumber; English Cucumber; Gherkins; Lebanese Cucumber; Mangalorean Cucumber
+English Cucumber,cucumber,,gherkin; kheera,Cucumber; English Cucumber; Gherkins; Lebanese Cucumber; Mangalorean Cucumber
+Gherkins,cucumber,,kheera; pickled cucumber,Cucumber; English Cucumber; Gherkins; Lebanese Cucumber; Mangalorean Cucumber
+Lebanese Cucumber,cucumber,,cucumber; kheera,Cucumber; English Cucumber; Gherkins; Lebanese Cucumber; Mangalorean Cucumber
+Mangalorean Cucumber,cucumber,,kheera; khira,Cucumber; English Cucumber; Gherkins; Lebanese Cucumber; Mangalorean Cucumber
+Cumin,cumin,,jeera,Cumin; Cumin Seeds; Kala Jeera
+Cumin Seeds,cumin,,jeera,Cumin; Cumin Seeds; Kala Jeera
+Kala Jeera,cumin,,black cumin; jeera; nigella,Cumin; Cumin Seeds; Kala Jeera
+Cumin Powder,cumin powder,cumin,jeera powder,Cumin Powder
+Curd Vada,curd vada,yogurt,dahi vada; yogurt fritter,Curd Vada
+Curry,curry,,gravy; masala,Curry
+Curry Leaves,curry leaves,,kadi patta,Curry Leaves
+Curry Powder,curry powder,,curry masala,Curry Powder
+Custard Powder,custard powder,,custard mix,Custard Powder
+Dagad Phool,dagad phool,,dagad phool; rock flower,Dagad Phool
+Dates,date,,khajur,Dates
+Date Syrup,date syrup,date,date molasses,Date Syrup
+Dhansak Masala,dhansak masala,,dhansak powder,Dhansak Masala
+Khaman Dhokla,dhokla,chickpea flour,khaman; steamed cake,Khaman Dhokla
+Dill Leaves,dill,,dill,Dill Leaves
+Guntur Dried Chillies,dried chillies,,dried red chillies; guntur chillies,Guntur Dried Chillies
+Kasoori Methi,dried fenugreek leaves,fenugreek,fenugreek leaves; kasuri methi,Kasoori Methi
+Drumstick,drumstick,,moringa; moringa oleifera; shigru,Drumstick
+Mixed Dry Fruits,dry fruits,,assorted nuts; dry fruit mix; nut mix,Mixed Dry Fruits
+Dry Mix Herbs,dry mix herbs,,dried herb mix; herb blend,Dry Mix Herbs
+Boiled Egg,egg,,anda; boiled egg,Boiled Egg; Egg; Whole Eggs
+Egg,egg,,anda,Boiled Egg; Egg; Whole Eggs
+Whole Eggs,egg,,anda,Boiled Egg; Egg; Whole Eggs
+Egg Noodles,egg noodles,egg,makaroni; noodles,Egg Noodles
+Egg White,egg white,egg,albumen; anday,Egg White
+Egg Yolks,egg yolk,egg,anday; yolk,Egg Yolks
+Brinjal,eggplant,,aubergine; baingan; brinjal,Brinjal; Eggplant; Green Brinjal; Japanese Eggplant
+Eggplant,eggplant,,aubergine; baingan; brinjal,Brinjal; Eggplant; Green Brinjal; Japanese Eggplant
+Green Brinjal,eggplant,,aubergine; baingan; brinjal,Brinjal; Eggplant; Green Brinjal; Japanese Eggplant
+Japanese Eggplant,eggplant,,aubergine; brinjal; japanese brinjal,Brinjal; Eggplant; Green Brinjal; Japanese Eggplant
+Elephant Yam,elephant yam,,elephant foot yam; jagat; jagat kumra; suran,Elephant Yam
+Rose Essence,essence,rose,gulkand essence; rose extract; rose flavoring,Rose Essence
+Evaporated Milk,evaporated milk,milk,canned milk,Evaporated Milk
+Fennel,fennel,,saunf,Fennel; Fennel Seeds
+Fennel Seeds,fennel,,saunf,Fennel; Fennel Seeds
+Fennel Powder,fennel powder,fennel,saunf powder,Fennel Powder
+Fenugreek,fenugreek,,methi; methi dana,Fenugreek; Fenugreek Seeds
+Fenugreek Seeds,fenugreek,,hig; methi; methi dana,Fenugreek; Fenugreek Seeds
+Methi Leaves,fenugreek leaves,,fenugreek; methi,Methi Leaves
+Fenugreek Powder,fenugreek powder,fenugreek,methi dana powder; methi powder,Fenugreek Powder; Methi Powder
+Methi Powder,fenugreek powder,fenugreek,fenugreek powder; methi powder,Fenugreek Powder; Methi Powder
+Methi Seeds,fenugreek seeds,,fenugreek; methi dana,Methi Seeds; Split Methi Seeds
+Split Methi Seeds,fenugreek seeds,,fenugreek; methi; methi dana,Methi Seeds; Split Methi Seeds
+Feta Cheese,feta cheese,milk,feta,Feta Cheese
+Dried Figs,fig,,anjeer,Dried Figs; Figs
+Figs,fig,,anjeer,Dried Figs; Figs
+Fresh Figs,figs,,anjeer,Fresh Figs
+Fish,fish,,machhli,Fish; Fish Fillet; Rohu Fish
+Fish Fillet,fish,,fish fillet; machhli,Fish; Fish Fillet; Rohu Fish
+Rohu Fish,fish,,labeo rohita; rohu; rohu fish,Fish; Fish Fillet; Rohu Fish
+Fish Masala,fish masala,fish,fish curry; fish gravy,Fish Masala
+Fish Sauce,fish sauce,fish,nam pla; pla ra,Fish Sauce
+Flattened Rice,flattened rice,rice,flattened rice flakes; poha,Flattened Rice; Red Poha
+Red Poha,flattened rice,rice,chiyali; flattened rice; poha,Flattened Rice; Red Poha
+Flax Meal,flax meal,flax seeds,ground flaxseed; linseed meal,Flax Meal
+Flax Seed Powder,flax seed powder,flax seeds,ground flaxseed; linseed powder,Flax Seed Powder
+Flax Seeds,flax seeds,,alsi; linseed,Flax Seeds
+Flaxmeal Egg Replacer,flaxmeal egg replacer,flax seeds,flax egg,Flaxmeal Egg Replacer
+All Purpose Flour,flour,wheat,maida; plain flour; wheat flour,All Purpose Flour; Flour; Maida; Multigrain Flour; Whole Wheat Flour
+Flour,flour,,atta; maida,All Purpose Flour; Flour; Maida; Multigrain Flour; Whole Wheat Flour
+Maida,flour,wheat,all purpose flour; maida; refined flour,All Purpose Flour; Flour; Maida; Multigrain Flour; Whole Wheat Flour
+Multigrain Flour,flour,,atta; maida,All Purpose Flour; Flour; Maida; Multigrain Flour; Whole Wheat Flour
+Whole Wheat Flour,flour,wheat,atta; chakki atta; wheat flour,All Purpose Flour; Flour; Maida; Multigrain Flour; Whole Wheat Flour
+Red Food Color,food coloring,,colouring; edible color; food dye,Red Food Color
+Foxtail Millet,foxtail millet,,kangni; kodo millet,Foxtail Millet
+French Beans,french beans,,green beans; string beans,French Beans
+French Bread,french bread,flour,baguette,French Bread
+French Loaf,french loaf,flour,french bread,French Loaf
+Fresh Cream,fresh cream,milk,double cream; whipping cream,Fresh Cream
+Fresh Fruits,fresh fruits,,fruits,Fresh Fruits
+Fresh Herbs,fresh herbs,,herbs,Fresh Herbs
+Fruit,fruit,,,Fruit
+Enos Fruit Salt,fruit salt,,electrolyte salt; oral rehydration salt,Enos Fruit Salt
+Galangal,galangal,,sonth,Galangal
+Garam Masala Powder,garam masala,,,Garam Masala Powder
+Garlic,garlic,,lehsun,Garlic
+Garlic Butter,garlic butter,garlic,,Garlic Butter
+Lahsun Ki Chutney,garlic chutney,garlic,garlic chutney; lahsun chutney,Lahsun Ki Chutney
+Garlic Paste,garlic paste,garlic,,Garlic Paste
+Garlic Powder,garlic powder,garlic,,Garlic Powder
+Garlic Salt,garlic salt,garlic,,Garlic Salt
+Gelatin,gelatin,,jelly,Gelatin
+Ghee,ghee,milk,clarified butter,Ghee
+Gingelly Oil,gingelly oil,sesame,ginger oil; sesame oil; til oil,Gingelly Oil
+Dry Ginger,ginger,,adrak; ginger,Dry Ginger; Ginger
+Ginger,ginger,,adrak,Dry Ginger; Ginger
+Ginger Garlic Paste,ginger garlic paste,ginger,adrak lehsun paste,Ginger Garlic Paste
+Ginger Paste,ginger paste,ginger,adrak paste,Ginger Paste
+Dry Ginger Powder,ginger powder,ginger,adrak powder; ginger powder,Dry Ginger Powder
+Ginger Teriyaki Sauce,ginger teriyaki sauce,ginger,,Ginger Teriyaki Sauce
+Goat Cheese,goat cheese,milk,chevre,Goat Cheese
+Gochujang,gochujang,,korean chili paste,Gochujang
+Goda Masala,goda masala,,goda powder,Goda Masala; Maharashtrian Goda Masala
+Maharashtrian Goda Masala,goda masala,,goda masala; maharashtrian goda masala,Goda Masala; Maharashtrian Goda Masala
+Gondhoraj Lebu Juice,gondhoraj lebu juice,lemon,kaffir lime juice,Gondhoraj Lebu Juice
+Goond,goond,milk,clotted cream; malai,Goond
+Gouda Cheese,gouda cheese,milk,gouda,Gouda Cheese
+Gourd,gourd,,bottle gourd; lauki,Gourd
+Roasted Gram Dal,gram dal,,bengal gram; chana dal; roasted chana dal,Roasted Gram Dal
+Gram Flour,gram flour,chickpea,besan; chickpea flour,Gram Flour; Roasted Gram Flour
+Roasted Gram Flour,gram flour,gram,besan; chana flour; gram flour,Gram Flour; Roasted Gram Flour
+Gram Lentils,gram lentils,,chana dal; chickpeas,Gram Lentils
+Grapes,grape,,angoor,Grapes; Green Seedless Grapes
+Green Seedless Grapes,grape,,angoor,Grapes; Green Seedless Grapes
+Red Grapes,grapes,,red grapes; wine grapes,Red Grapes
+Green Beans,green beans,,chawli; french beans,Green Beans; Green Chawli Beans
+Green Chawli Beans,green beans,,chawli; french beans,Green Beans; Green Chawli Beans
+Hara Chana,green chickpeas,,fresh chickpeas; green chana,Hara Chana
+Badi Hari Mirch,green chili,,green chilli; hari mirch,Badi Hari Mirch
+Green Chilli,green chilli,,green chili; hari mirch,Green Chilli
+Green Chilli Paste,green chilli paste,green chilli,hari mirch paste,Green Chilli Paste
+Green Chilli Sauce,green chilli sauce,green chilli,green chili sauce,Green Chilli Sauce
+Green Chutney,green chutney,coriander leaves,hari chutney,Green Chutney
+Groundnut Powder,groundnut powder,peanut,peanut powder,Groundnut Powder
+Gruyere Cheese,gruyere cheese,milk,gruyere,Gruyere Cheese
+Guacamole,guacamole,avocado,avocado dip,Guacamole
+Guava,guava,,amrood,Guava
+Guava Juice,guava juice,guava,amrood juice,Guava Juice
+Gulkand,gulkand,rose,gulab jamun; rose petal jam,Gulkand
+Gawar Phali,gum arabic,,gum karaya; gum tragacanth,Gawar Phali; Gilka
+Gilka,gum arabic,,gum karaya; gum tragacanth,Gawar Phali; Gilka
+Gunde,gunde,,gund; gund fruit,Gunde
+Gwar Pods,gwar pods,,gum arabic pods; sahjan pods,Gwar Pods
+Hakka Noodles,hakka noodles,,chinese noodles,Hakka Noodles
+Harissa Paste,harissa paste,chillies,harissa,Harissa Paste
+Veeba Harissa Sauce,harissa sauce,chili,chili paste; harissa,Veeba Harissa Sauce
+Hash Browns,hash browns,potato,potato hash,Hash Browns
+Hazelnut,hazelnut,,cory nut; filbert,Hazelnut
+Hazelnut Meal,hazelnut meal,hazelnut,hazelnut flour,Hazelnut Meal
+Herring Fish Steaks,herring,,herring fish,Herring Fish Steaks
+Hilsa Fish,hilsa,,hilsa fish; ilish,Hilsa Fish; Ilish Fish
+Ilish Fish,hilsa,,hilsa fish; ilish; mrigil,Hilsa Fish; Ilish Fish
+Hog Plum,hog plum,,jambul; java plum,Hog Plum
+Homemade Hoisin Sauce,hoisin sauce,,hoisin,Homemade Hoisin Sauce
+Honey,honey,,shahad,Honey
+Honey Mustard Dressing,honey mustard dressing,,honey mustard,Honey Mustard Dressing
+Avarekalu,horse gram,,chavli; matki; moth bean,Avarekalu
+Horse Gram Dal,horse gram dal,horse gram,kuttu dal; matki dal,Horse Gram Dal
+Horse Gram Flour,horse gram flour,horse gram,kuttu atta; matki flour,Horse Gram Flour
+Homemade Hummus,hummus,chickpeas,chickpea dip,Homemade Hummus; Hummus
+Hummus,hummus,chickpeas,chickpea dip,Homemade Hummus; Hummus
+Ice,ice,,frozen water,Ice; Ice Cubes
+Ice Cubes,ice,,frozen water,Ice; Ice Cubes
+Ice Wine,ice wine,grapes,eiswein,Ice Wine
+Icing Sugar,icing sugar,,confectioners sugar; powdered sugar,Icing Sugar
+Idli,idli,rice,idli cake,Idli
+Idli Dosa Batter,idli dosa batter,rice,dosa batter; idli batter,Idli Dosa Batter
+Idli Dosa Mixture,idli dosa mixture,rice,idli dosa batter,Idli Dosa Mixture
+Instant Coffee Powder,instant coffee,coffee,dried coffee; instant coffee powder,Instant Coffee Powder
+Italian Seasoning,italian seasoning,,dried italian herbs; italian herb mix,Italian Seasoning
+Jackfruit,jackfruit,,jack fruit; kathal,Jackfruit
+Jackfruit Seeds,jackfruit seeds,jackfruit,jackfruit kernels; kathal seeds,Jackfruit Seeds
+Jaggery,jaggery,sugarcane,brown sugar; gur; unrefined sugar,Jaggery; Nolen Gur; Palm Jaggery
+Nolen Gur,jaggery,,gur; nolen; palm jaggery,Jaggery; Nolen Gur; Palm Jaggery
+Palm Jaggery,jaggery,palm sap,gur; palm sugar,Jaggery; Nolen Gur; Palm Jaggery
+Jalapenos,jalapeno,,green jalapeno; jalapeno pepper,Jalapenos; Pickled Jalapenos
+Pickled Jalapenos,jalapeno,,green chili; jalapeno pepper,Jalapenos; Pickled Jalapenos
+Jam,jam,fruit,fruit jam; preserved fruit,Jam
+Jamun,jamun,,black plum; jamun fruit; java plum,Jamun
+Jawla Fish,jawla fish,,jawla; jawla fish,Jawla Fish
+Kababchini,kababchini,,kabab chini; kababchini,Kababchini
+Kaffir Lime Leaves,kaffir lime leaves,,citrus hystrix leaves; makrut lime leaves,Kaffir Lime Leaves
+Kale,kale,,collard greens; curly kale,Kale
+Kashmiri Masala Powder,kashmiri masala,,kashmiri masala; kashmiri masala powder,Kashmiri Masala Powder
+Kataifi Dough,kataifi dough,flour,kataifi; shredded phyllo,Kataifi Dough
+Kewra Essence,kewra essence,kewra,kewra water; screwpine essence,Kewra Essence
+Kewra Water,kewra water,kewra,kewra essence; screwpine water,Kewra Water
+Khichdi,khichdi,rice,khichri; rice and lentil porridge,Khichdi
+Khoya,khoya,milk,mawa; reduced milk solids,Khoya
+Kashmiri Rajma,kidney beans,,rajma; red kidney beans,Kashmiri Rajma; Kidney Beans; Rajma
+Kidney Beans,kidney beans,,rajma; red kidney beans,Kashmiri Rajma; Kidney Beans; Rajma
+Rajma,kidney beans,,rajma; red kidney beans,Kashmiri Rajma; Kidney Beans; Rajma
+Kimchi,kimchi,cabbage,korean fermented cabbage,Kimchi
+King Fish,kingfish,,bangda; indian mackerel; king fish,King Fish
+Kiwi,kiwi,,kiwifruit,Kiwi
+Knol Khol,kohlrabi,,chakora; knol khol; kohlrabi,Knol Khol; Kohl Rabi
+Kohl Rabi,kohlrabi,,chakora; knol khol; kohlrabi,Knol Khol; Kohl Rabi
+Knol Khol Leaves,kohlrabi leaves,kohlrabi,knol khol leaves; kohlrabi greens,Knol Khol Leaves
+Kokum,kokum,,garcinia indica; kokam,Kokum
+Kunafa Dough,kunafa dough,flour,kunafa dough; kunafa pastry,Kunafa Dough; Kunafa Pastry
+Kunafa Pastry,kunafa dough,flour,kunafa dough; kunafa pastry,Kunafa Dough; Kunafa Pastry
+Lamb Chops,lamb,,lamb chops; mutton chops,Lamb Chops; Lamb Ribs
+Lamb Ribs,lamb,,lamb ribs; mutton ribs,Lamb Chops; Lamb Ribs
+Leek,leek,,leek; pudina,Leek
+Lemon,lemon,,lemon; nimbu,Lemon
+Lemon Glaze,lemon glaze,lemon,lemon glaze,Lemon Glaze
+Lemon Juice,lemon juice,lemon,lemon juice; nimbu ka ras,Lemon Juice
+Lemon Pound Cake,lemon pound cake,lemon,lemon pound cake,Lemon Pound Cake
+Lemon Zest,lemon zest,lemon,lemon peel; lemon zest,Lemon Zest
+Lemongrass,lemongrass,,citronella; lemongrass,Lemongrass
+Lentil Water,lentil water,lentil,dal water; lentil water,Lentil Water
+Green Romaine Lettuce,lettuce,,romaine,Green Romaine Lettuce; Iceberg Lettuce; Lettuce Leaves; Red Romaine Lettuce
+Iceberg Lettuce,lettuce,,crisphead lettuce; iceberg lettuce,Green Romaine Lettuce; Iceberg Lettuce; Lettuce Leaves; Red Romaine Lettuce
+Lettuce Leaves,lettuce,,kheera; lettuce,Green Romaine Lettuce; Iceberg Lettuce; Lettuce Leaves; Red Romaine Lettuce
+Red Romaine Lettuce,lettuce,,cos lettuce; red romaine; romaine,Green Romaine Lettuce; Iceberg Lettuce; Lettuce Leaves; Red Romaine Lettuce
+Long Pepper,long pepper,,long pepper; pippali,Long Pepper
+Lotus Seeds,lotus seeds,lotus,lotus seeds; makhana,Lotus Seeds
+Lotus Stem,lotus stem,lotus,kamal kakdi; lotus stem,Lotus Stem; Singhade
+Singhade,lotus stem,,kum; kumla; lotus root,Lotus Stem; Singhade
+Mace,mace,,javitri; mace,Mace
+Mace Powder,mace powder,mace,javitri powder; mace powder,Mace Powder
+Mackerel Fish,mackerel,,bangda; mackerel,Mackerel Fish
+Vivatta Maida,maida,wheat,all purpose flour; refined flour; white flour,Vivatta Maida
+Phool Makhana,makhana,,fox nuts; lotus seeds; makhana,Phool Makhana
+Malabar Spinach Leaves,malabar spinach,,chaulai; gongura; jute mallow; kang kong,Malabar Spinach Leaves
+Malt Vinegar,malt vinegar,malt,barley vinegar,Malt Vinegar
+Manathakkali Kai Vathal,manathakkali kai vathal,cucumber,cucumber pickle; kai vathal,Manathakkali Kai Vathal
+Mango,mango,,aam; am,Mango; Raw Mango
+Raw Mango,mango,,aam; kairi; unripe mango,Mango; Raw Mango
+Mango Ginger,mango ginger,,adhatoda; finger root; kumari,Mango Ginger
+Mango Pickle,mango pickle,mango,aam ka achaar; mango achaar,Mango Pickle; Punjabi Style Mango Pickle
+Punjabi Style Mango Pickle,mango pickle,mango,aam ka achaar; mango achaar,Mango Pickle; Punjabi Style Mango Pickle
+Mango Powder,mango powder,mango,aam powder; mango essence,Mango Powder
+Mango Pulp,mango pulp,mango,aam pulp; mango puree,Mango Pulp
+Maple Syrup,maple syrup,maple,maple sugar,Maple Syrup
+Margarine,margarine,,vanaspati; vegetable ghee,Margarine; Nutralite Classic Spread; Nutralite Garlic Oregano Spread
+Nutralite Classic Spread,margarine,,butter; ghee; vanaspati,Margarine; Nutralite Classic Spread; Nutralite Garlic Oregano Spread
+Nutralite Garlic Oregano Spread,margarine,,butter; ghee; vanaspati,Margarine; Nutralite Classic Spread; Nutralite Garlic Oregano Spread
+Marie Biscuit,marie biscuit,,marie cracker; plain biscuit,Marie Biscuit
+Homemade Marinara Sauce,marinara sauce,tomato,tomato sauce,Homemade Marinara Sauce; Marinara Sauce
+Marinara Sauce,marinara sauce,tomato,marinara; tomato sauce,Homemade Marinara Sauce; Marinara Sauce
+Mascarpone Cheese,mascarpone,milk,italian cream cheese; mascarpone cheese,Mascarpone Cheese
+Masoor Dal,masoor dal,,masoor; masoor lentils; red lentils,Masoor Dal; Pink Masoor Dal
+Pink Masoor Dal,masoor dal,,masoor; masoori dal; red lentils,Masoor Dal; Pink Masoor Dal
+Matcha Powder,matcha,green tea,matcha green tea; powdered green tea,Matcha Powder
+Classic Mayonnaise,mayonnaise,egg,mayo,Classic Mayonnaise; Del Monte Cheesy Garlic Mayo; Eggless Mayonnaise; Mayonnaise; Mint Mayo; Nutralite Cheesy Garlic Mayo
+Del Monte Cheesy Garlic Mayo,mayonnaise,egg,mayo,Classic Mayonnaise; Del Monte Cheesy Garlic Mayo; Eggless Mayonnaise; Mayonnaise; Mint Mayo; Nutralite Cheesy Garlic Mayo
+Eggless Mayonnaise,mayonnaise,,mayo,Classic Mayonnaise; Del Monte Cheesy Garlic Mayo; Eggless Mayonnaise; Mayonnaise; Mint Mayo; Nutralite Cheesy Garlic Mayo
+Mayonnaise,mayonnaise,egg,mayo; mayonnaise sauce,Classic Mayonnaise; Del Monte Cheesy Garlic Mayo; Eggless Mayonnaise; Mayonnaise; Mint Mayo; Nutralite Cheesy Garlic Mayo
+Mint Mayo,mayonnaise,,mayo; mayo sauce,Classic Mayonnaise; Del Monte Cheesy Garlic Mayo; Eggless Mayonnaise; Mayonnaise; Mint Mayo; Nutralite Cheesy Garlic Mayo
+Nutralite Cheesy Garlic Mayo,mayonnaise,,cheesy garlic mayo; mayo,Classic Mayonnaise; Del Monte Cheesy Garlic Mayo; Eggless Mayonnaise; Mayonnaise; Mint Mayo; Nutralite Cheesy Garlic Mayo
+Medu Vada,medu vada,urad dal,dosa vada; medu vada; urad vada,Medu Vada
+Kachri,melon,,citrullus colocynthis; kachri; wild melon,Kachri
+Melon Seeds,melon seeds,melon,bitter melon seeds; karela seeds,Melon Seeds
+Mexican Seasoning,mexican seasoning,,taco seasoning,Mexican Seasoning
+Milk,milk,,doodh,Milk
+Milk Powder,milk powder,milk,dried milk; powdered milk,Milk Powder
+Millet Flour,millet flour,millet,bajra flour; jowar flour; ragi flour,Millet Flour
+Mint,mint,,peppermint; pudina,Mint; Mint Leaves
+Mint Leaves,mint,,peppermint; pudina,Mint; Mint Leaves
+Mint Powder,mint powder,mint,dried mint; mint flakes,Mint Powder
+Mixed Fruits,mixed fruits,,assorted fruits; fruit mix,Mixed Fruits
+Mixed Herbs,mixed herbs,,assorted herbs; herb mix,Mixed Herbs
+Mixed Millets,mixed millets,,assorted millets; millet mix,Mixed Millets
+Mixed Nuts,mixed nuts,,assorted nuts; nut mix,Mixed Nuts
+Mixed Sprouts,mixed sprouts,,assorted sprouts; sprout mix,Mixed Sprouts
+Mixed Vegetables,mixed vegetables,,mixed sabzi; sabzi,Mixed Vegetables
+Sprouted Moong,moong,,green gram; moong dal; mung bean,Sprouted Moong
+Green Moong Dal,moong dal,,green gram; mung bean,Green Moong Dal; Yellow Moong Dal
+Yellow Moong Dal,moong dal,,green gram; mung bean,Green Moong Dal; Yellow Moong Dal
+Green Moong Sprouts,moong sprouts,moong dal,mung sprouts,Green Moong Sprouts
+Moth Dal,moth dal,,horse gram; matki; matki dal,Moth Dal
+Moth Sprouts,moth sprouts,moth dal,horse gram sprouts; matki sprouts,Moth Sprouts
+Mozzarella Cheese,mozzarella cheese,milk,mozzarella,Mozzarella Cheese
+Muesli,muesli,,granola; oat cereal,Muesli
+Button Mushrooms,mushroom,,mushroom; white mushroom,Button Mushrooms; Mushrooms
+Mushrooms,mushroom,,mushroom,Button Mushrooms; Mushrooms
+Khuskhus,musk mallow,,khus khus; malva; musk mallow,Khuskhus
+Dijon Mustard,mustard,,mustard; sarson,Dijon Mustard; Mustard
+Mustard,mustard,,rai; sarson,Dijon Mustard; Mustard
+Mustard Oil,mustard oil,mustard,rai ka tel; sarson ka tel,Mustard Oil
+Mustard Powder,mustard powder,mustard,rai ka chutney; sarson ka chutney,Mustard Powder
+Kasundi Mustard Sauce,mustard sauce,mustard,kasundi; mustard paste,Kasundi Mustard Sauce; Mustard Sauce
+Mustard Sauce,mustard sauce,mustard,mustard condiment,Kasundi Mustard Sauce; Mustard Sauce
+Kandathipli,mustard seeds,,rai; rai ka beej; sarson,Kandathipli; Mustard Seeds; Yellow Mustard Seeds
+Mustard Seeds,mustard seeds,,rai; sarson,Kandathipli; Mustard Seeds; Yellow Mustard Seeds
+Yellow Mustard Seeds,mustard seeds,,rai; sarson,Kandathipli; Mustard Seeds; Yellow Mustard Seeds
+Mutton,mutton,,bakra; goat meat; marg; sheep meat,Mutton; Mutton Legs
+Mutton Legs,mutton,,goat leg; mutton shank; sheep leg,Mutton; Mutton Legs
+Mutton Kheema,mutton kheema,mutton,kheema; minced mutton; mutton mince,Mutton Kheema
+Naan,naan,,flatbread; naan bread,Naan
+Nagkesar,nagkesar,,crocus sativus; kesar; saffron crocus,Nagkesar
+Napa Cabbage,napa cabbage,,bok choy; chinese cabbage; pak choi,Napa Cabbage
+Neem Flowers,neem flowers,,neem blossoms; nim phool,Neem Flowers
+Neem Leaves,neem leaves,,neem patti; nim patti,Neem Leaves
+Kalonji,nigella seeds,,black cumin; kalonji; kalonji seeds,Kalonji; Nigella Seeds
+Nigella Seeds,nigella seeds,,black cumin; kalonji; kalonji seeds,Kalonji; Nigella Seeds
+Rice Noodles,noodles,rice,ho fun; rice vermicelli; senmai,Rice Noodles; Rice Vermicelli Noodles
+Rice Vermicelli Noodles,noodles,rice,ho fun; rice vermicelli; senmai,Rice Noodles; Rice Vermicelli Noodles
+Nutmeg,nutmeg,,jaiphal,Nutmeg
+Nutmeg Powder,nutmeg powder,nutmeg,ground nutmeg; jaiphal powder,Nutmeg Powder
+Instant Oats,oats,,instant oatmeal; oatmeal,Instant Oats; Oat Bran; Oatmeal; Oats; Rolled Oats
+Oat Bran,oats,,oat bran,Instant Oats; Oat Bran; Oatmeal; Oats; Rolled Oats
+Oatmeal,oats,,oat flakes; oats,Instant Oats; Oat Bran; Oatmeal; Oats; Rolled Oats
+Oats,oats,,oat flakes; oatmeal,Instant Oats; Oat Bran; Oatmeal; Oats; Rolled Oats
+Rolled Oats,oats,,oatmeal; oats; rolled oats,Instant Oats; Oat Bran; Oatmeal; Oats; Rolled Oats
+Oats Flour,oats flour,oats,oat flour; oatmeal flour,Oats Flour
+Canola Oil,oil,canola,canola oil; rapeseed oil,Canola Oil; Oil
+Oil,oil,,cooking oil; ghee; tel,Canola Oil; Oil
+Bhindi,okra,,bhindi; lady finger,Bhindi; Lady Finger; Okra
+Lady Finger,okra,,bhindi; lady finger; lady s finger,Bhindi; Lady Finger; Okra
+Okra,okra,,bhindi; lady finger; lady s finger,Bhindi; Lady Finger; Okra
+Green Olives,olive,,zaitoon,Green Olives; Kalmatta Olives
+Kalmatta Olives,olive,,black olive; kalamata olive,Green Olives; Kalmatta Olives
+Extra Virgin Olive Oil,olive oil,olive,zaitoon ka tel,Extra Virgin Olive Oil; Figaro Pure Olive Oil; Olive Oil
+Figaro Pure Olive Oil,olive oil,olive,zaitoon oil; zaitun ka tel,Extra Virgin Olive Oil; Figaro Pure Olive Oil; Olive Oil
+Olive Oil,olive oil,olive,zaitoon ka tel,Extra Virgin Olive Oil; Figaro Pure Olive Oil; Olive Oil
+Caramelized Onions,onion,,onion; pyaz,Caramelized Onions; Onion; Pearl Onions; Pickled Onions
+Onion,onion,,pyaaz; pyaz; shallot,Caramelized Onions; Onion; Pearl Onions; Pickled Onions
+Pearl Onions,onion,,baby onion,Caramelized Onions; Onion; Pearl Onions; Pickled Onions
+Pickled Onions,onion,,pyaz; shallot,Caramelized Onions; Onion; Pearl Onions; Pickled Onions
+Onion Powder,onion powder,onion,,Onion Powder
+Orange,orange,,sweet orange,Orange
+Fresh Orange Juice,orange juice,orange,orange juice,Fresh Orange Juice
+Orange Marmalade Jam,orange marmalade,orange,orange jam,Orange Marmalade Jam
+Candied Orange Peel,orange peel,orange,candied peel; orange zest,Candied Orange Peel; Orange Peel
+Orange Peel,orange peel,orange,orange rind,Candied Orange Peel; Orange Peel
+Orange Pulp,orange pulp,orange,orange flesh,Orange Pulp
+Orange Zest,orange zest,orange,orange peel,Orange Zest
+Dried Oregano,oregano,,oregano,Dried Oregano; Fresh Oregano; Oregano; Oregano Leaves
+Fresh Oregano,oregano,,marjoram,Dried Oregano; Fresh Oregano; Oregano; Oregano Leaves
+Oregano,oregano,,marjoram,Dried Oregano; Fresh Oregano; Oregano; Oregano Leaves
+Oregano Leaves,oregano,,marjoram,Dried Oregano; Fresh Oregano; Oregano; Oregano Leaves
+Oyster Sauce,oyster sauce,oyster,,Oyster Sauce
+Palm Sugar,palm sugar,palm sap,gur; jaggery,Palm Sugar
+Panch Phoran Masala,panch phoran,,five spice mix,Panch Phoran Masala
+Paneer,paneer,milk,cottage cheese,Paneer
+Pani Puris,pani puri,,golgappa; puchka,Pani Puris
+Papad,papad,,papadum,Papad
+Papaya,papaya,,papita,Papaya; Raw Papaya
+Raw Papaya,papaya,,green papaya; papita,Papaya; Raw Papaya
+Papaya Juice,papaya juice,papaya,,Papaya Juice
+Papdi Puris,papdi puri,,crispy puri,Papdi Puris
+Paprika,paprika,,red pepper powder,Paprika; Paprika Powder
+Paprika Powder,paprika,,red pepper powder,Paprika; Paprika Powder
+Tawa Paratha,paratha,wheat,flatbread; roti,Tawa Paratha; Whole Wheat Tawa Paratha
+Whole Wheat Tawa Paratha,paratha,wheat flour,parathas; stuffed paratha,Tawa Paratha; Whole Wheat Tawa Paratha
+Parmesan Cheese,parmesan cheese,milk,parmigiano,Parmesan Cheese; Parmigiano Reggiano Cheese
+Parmigiano Reggiano Cheese,parmesan cheese,milk,parmigiano,Parmesan Cheese; Parmigiano Reggiano Cheese
+Parsley Leaves,parsley,,coriander substitute,Parsley Leaves
+Parsnip,parsnip,,,Parsnip
+Del Monte Spaghetti Pasta,pasta,wheat,pasta,Del Monte Spaghetti Pasta; Fettuccine Pasta; Lasagna Sheets; Linguine Pasta; Macaroni Pasta; Pasta; Penne Pasta; Penne Rigate Pasta; Rigati Pasta; Route Pasta; Spaghetti Pasta; Spirali Pasta
+Fettuccine Pasta,pasta,wheat,fettuccine; macaroni,Del Monte Spaghetti Pasta; Fettuccine Pasta; Lasagna Sheets; Linguine Pasta; Macaroni Pasta; Pasta; Penne Pasta; Penne Rigate Pasta; Rigati Pasta; Route Pasta; Spaghetti Pasta; Spirali Pasta
+Lasagna Sheets,pasta,flour,lasagna; lasagne,Del Monte Spaghetti Pasta; Fettuccine Pasta; Lasagna Sheets; Linguine Pasta; Macaroni Pasta; Pasta; Penne Pasta; Penne Rigate Pasta; Rigati Pasta; Route Pasta; Spaghetti Pasta; Spirali Pasta
+Linguine Pasta,pasta,flour,linguine; pasta,Del Monte Spaghetti Pasta; Fettuccine Pasta; Lasagna Sheets; Linguine Pasta; Macaroni Pasta; Pasta; Penne Pasta; Penne Rigate Pasta; Rigati Pasta; Route Pasta; Spaghetti Pasta; Spirali Pasta
+Macaroni Pasta,pasta,flour,macaroni; pasta,Del Monte Spaghetti Pasta; Fettuccine Pasta; Lasagna Sheets; Linguine Pasta; Macaroni Pasta; Pasta; Penne Pasta; Penne Rigate Pasta; Rigati Pasta; Route Pasta; Spaghetti Pasta; Spirali Pasta
+Pasta,pasta,,,Del Monte Spaghetti Pasta; Fettuccine Pasta; Lasagna Sheets; Linguine Pasta; Macaroni Pasta; Pasta; Penne Pasta; Penne Rigate Pasta; Rigati Pasta; Route Pasta; Spaghetti Pasta; Spirali Pasta
+Penne Pasta,pasta,,penne,Del Monte Spaghetti Pasta; Fettuccine Pasta; Lasagna Sheets; Linguine Pasta; Macaroni Pasta; Pasta; Penne Pasta; Penne Rigate Pasta; Rigati Pasta; Route Pasta; Spaghetti Pasta; Spirali Pasta
+Penne Rigate Pasta,pasta,,penne,Del Monte Spaghetti Pasta; Fettuccine Pasta; Lasagna Sheets; Linguine Pasta; Macaroni Pasta; Pasta; Penne Pasta; Penne Rigate Pasta; Rigati Pasta; Route Pasta; Spaghetti Pasta; Spirali Pasta
+Rigati Pasta,pasta,wheat,rigati; rigatoni; tube pasta,Del Monte Spaghetti Pasta; Fettuccine Pasta; Lasagna Sheets; Linguine Pasta; Macaroni Pasta; Pasta; Penne Pasta; Penne Rigate Pasta; Rigati Pasta; Route Pasta; Spaghetti Pasta; Spirali Pasta
+Route Pasta,pasta,wheat,rotini; route pasta; spiral pasta,Del Monte Spaghetti Pasta; Fettuccine Pasta; Lasagna Sheets; Linguine Pasta; Macaroni Pasta; Pasta; Penne Pasta; Penne Rigate Pasta; Rigati Pasta; Route Pasta; Spaghetti Pasta; Spirali Pasta
+Spaghetti Pasta,pasta,,macaroni; spaghetti,Del Monte Spaghetti Pasta; Fettuccine Pasta; Lasagna Sheets; Linguine Pasta; Macaroni Pasta; Pasta; Penne Pasta; Penne Rigate Pasta; Rigati Pasta; Route Pasta; Spaghetti Pasta; Spirali Pasta
+Spirali Pasta,pasta,wheat,macaroni; noodles; spaghetti,Del Monte Spaghetti Pasta; Fettuccine Pasta; Lasagna Sheets; Linguine Pasta; Macaroni Pasta; Pasta; Penne Pasta; Penne Rigate Pasta; Rigati Pasta; Route Pasta; Spaghetti Pasta; Spirali Pasta
+Roasted Tomato Pasta Sauce,pasta sauce,tomato,marinara; pasta sauce; tomato sauce,Roasted Tomato Pasta Sauce
+Pav Buns,pav,,bun,Pav Buns
+Pav Bhaji Masala,pav bhaji masala,,,Pav Bhaji Masala
+Green Peas,pea,,matar,Green Peas; Peas
+Peas,pea,,matar,Green Peas; Peas
+Peaches,peach,,,Peaches
+Peanuts,peanut,,groundnut,Peanuts
+Peanut Butter,peanut butter,peanut,,Peanut Butter
+Peanut Oil,peanut oil,peanut,groundnut oil,Peanut Oil
+Roasted Peanuts,peanuts,,groundnuts; monk; roasted groundnuts,Roasted Peanuts
+Pears,pear,,,Pears
+Bajra,pearl millet,,bajra; finger millet,Bajra
+Pecans,pecan,,,Pecans
+Peepramul Powder,peepal powder,peepal,ficus religiosa powder,Peepramul Powder
+Fresno Pepper,pepper,,black pepper; kali mirch,Fresno Pepper; Pepper
+Pepper,pepper,,black pepper; kali mirch; white pepper,Fresno Pepper; Pepper
+Whole Pepper,peppercorn,,black pepper; kali mirch,Whole Pepper
+Peppermint,peppermint,,mint; pudina,Peppermint
+Homemade Basil Pesto,pesto,basil,basil pesto,Homemade Basil Pesto; Sun Dried Tomato Pesto
+Sun Dried Tomato Pesto,pesto,tomato,sun dried tomato pesto; tomato pesto,Homemade Basil Pesto; Sun Dried Tomato Pesto
+Pheni,pheni,,sago; sago pearls,Pheni
+Phulka,phulka,,chapati; flatbread; roti,Phulka
+Phyllo Dough,phyllo dough,,filo dough; phyllo,Phyllo Dough; Phyllo Sheets
+Phyllo Sheets,phyllo dough,,filo dough; phyllo,Phyllo Dough; Phyllo Sheets
+Pickle,pickle,,achar; achari,Pickle
+Pickle Masala,pickle masala,,achar masala; pickle spice mix,Pickle Masala
+Pickle Spice,pickle spice,,achar masala; pickle seasoning,Pickle Spice
+All Purpose Pie Crust,pie crust,flour,puff pastry; shortcrust pastry,All Purpose Pie Crust
+Pigeonpea,pigeonpea,,chana; chickpea; gram,Pigeonpea
+Pine Nuts,pine nuts,,chilgoza; pinenuts,Pine Nuts
+Pineapple,pineapple,,ananas,Pineapple
+Pineapple Juice,pineapple juice,pineapple,ananas juice,Pineapple Juice
+Pinto Beans,pinto beans,,pinto; speckled beans,Pinto Beans
+Pistachios,pistachio,,akhrot; pista,Pistachios
+Pita Saga,pita,,pita bread; pita pocket,Pita Saga
+Mini Pita Breads,pita bread,,naan; pita; puri,Mini Pita Breads
+Pizza Base,pizza dough,,pizza base; pizza crust,Pizza Base; Whole Wheat Pizza Dough
+Whole Wheat Pizza Dough,pizza dough,wheat flour,pizza base; pizza crust,Pizza Base; Whole Wheat Pizza Dough
+Veeba Pizza & Pasta Sauce,pizza pasta sauce,tomato,pasta sauce; pizza sauce,Veeba Pizza & Pasta Sauce
+Pizza Seasoning,pizza seasoning,,italian seasoning; pizza spice,Pizza Seasoning
+Plantain Stem,plantain stem,,banana stem; koda,Plantain Stem
+Plums,plum,,alubha; prunus,Plums
+Poha,poha,,flattened rice; flattened rice flakes,Poha
+Pohala Fish,pohala fish,,pohala; pohala fish,Pohala Fish
+Pointed Gourd,pointed gourd,,chayote; choko; turai,Pointed Gourd
+Polenta,polenta,,cornmeal; maida,Polenta
+Fresh Pomegranate Fruit Kernels,pomegranate,,anar; anardana,Fresh Pomegranate Fruit Kernels; Pomegranate
+Pomegranate,pomegranate,,anar; anar dana,Fresh Pomegranate Fruit Kernels; Pomegranate
+Pomegranate Juice,pomegranate juice,pomegranate,anar juice; anar ras,Pomegranate Juice
+Pomegranate Molasses,pomegranate molasses,pomegranate,nar ekshir; pomegranate syrup,Pomegranate Molasses
+Pomegranate Sauce,pomegranate sauce,pomegranate,anar sauce; pomegranate chutney,Pomegranate Sauce
+Pomfret Fish,pomfret,,pangas; pomfret,Pomfret Fish
+Poppy Seeds,poppy seeds,,khus; khus khus,Poppy Seeds
+Pork Sausage,pork sausage,pork,pork sausage; sausage,Pork Sausage
+Baby Potatoes,potato,,new potatoes; small potatoes,Baby Potatoes; Potatoes
+Potatoes,potato,,aloo; spud,Baby Potatoes; Potatoes
+Potato Masala,potato masala,,aloo masala; potato spice mix,Potato Masala
+Prawns,prawn,,jheenga; shrimp,Prawns
+Pretzels,pretzel,,bretzel; pretzel,Pretzels
+Provolone Cheese,provolone cheese,milk,cheese; provolone,Provolone Cheese
+Prunes,prune,,dried plum,Prunes
+Prune Spread,prune spread,prune,dried plum spread,Prune Spread
+Puff Pastry,puff pastry,,,Puff Pastry; Puff Pastry Sheet
+Puff Pastry Sheet,puff pastry,,,Puff Pastry; Puff Pastry Sheet
+Puffed Rice,puffed rice,rice,flattened rice; muri; murmura,Puffed Rice
+Puliodarai Powder,puliodarai powder,rice,parboiled rice powder; pulio rice powder,Puliodarai Powder
+Kaddu,pumpkin,,kaddu; pumpkin; winter squash,Kaddu; Pumpkin
+Pumpkin,pumpkin,,kabocha; kaddu; squash,Kaddu; Pumpkin
+Pumpkin Pie Spice,pumpkin pie spice,,pumpkin spice; spice blend,Pumpkin Pie Spice
+Pumpkin Puree,pumpkin puree,pumpkin,pumpkin mash; pumpkin paste,Pumpkin Puree
+Pumpkin Seeds,pumpkin seeds,pumpkin,kaddu ke beej; pepitas,Pumpkin Seeds
+Quail Eggs,quail egg,,caille egg; koti ke ande,Quail Eggs
+Quinoa,quinoa,,chinoa,Quinoa
+Quinoa Flour,quinoa flour,quinoa,quinoa atta,Quinoa Flour
+Rabri,rabri,milk,milk reduction; sweetened condensed milk,Rabri
+Radhuni,radhuni,,coriander; dhania; wild coriander,Radhuni
+Mooli,radish,,daikon; mooli; white radish,Mooli; Mooli/ Mullangi; Radish; Red Radish
+Mooli/ Mullangi,radish,,daikon; mooli; white radish,Mooli; Mooli/ Mullangi; Radish; Red Radish
+Radish,radish,,daikon; mooli,Mooli; Mooli/ Mullangi; Radish; Red Radish
+Red Radish,radish,,daikon; mooli; turnip,Mooli; Mooli/ Mullangi; Radish; Red Radish
+Radish Greens,radish greens,,daikon greens; mooli leaves,Radish Greens
+Ragi Seeds,ragi,,finger millet; nachni,Ragi Seeds; Sprouted Ragi
+Sprouted Ragi,ragi,,finger millet; nachni,Ragi Seeds; Sprouted Ragi
+Ragi Dosa Batter,ragi dosa batter,ragi,finger millet batter; ragi batter,Ragi Dosa Batter
+Ragi Flour,ragi flour,ragi,finger millet flour; nachni flour,Ragi Flour
+Raisins,raisins,grapes,kishmish,Raisins
+Raita Masala,raita masala,,raita spice mix,Raita Masala
+Rajgira Flour,rajgira flour,rajgira,amaranth flour; amaranth grain flour,Rajgira Flour
+Rasam Powder,rasam powder,,rasam masala; rasam mix,Rasam Powder
+Rasgulla,rasgulla,milk,chhena balls; rasgolla,Rasgulla
+Rasgulla Syrup,rasgulla syrup,sugar,chashni; syrup,Rasgulla Syrup
+Dried Raspberries,raspberry,,raspberry,Dried Raspberries; Raspberries
+Raspberries,raspberry,,red raspberry,Dried Raspberries; Raspberries
+Ratan Jot,ratan jot,,ratan joot; ratan joot leaves; ratan jot,Ratan Jot
+Goan Recheado Masala,recheado masala,,goan masala,Goan Recheado Masala
+Dry Red Chili,red chili,,dried red chili; lajmirch; mirch,Dry Red Chili
+Arborio Rice,rice,,arborio; risotto rice,Arborio Rice; Basmati Rice; Broken Raw Rice; Brown Rice; Cooked Rice; Dosa Rice; Govind Bhog Rice; Idli Rice; Jasmine Rice; Red Matta Rice; Rice; Risotto Rice; Seeraga Samba Rice
+Basmati Rice,rice,,basmati; long grain rice,Arborio Rice; Basmati Rice; Broken Raw Rice; Brown Rice; Cooked Rice; Dosa Rice; Govind Bhog Rice; Idli Rice; Jasmine Rice; Red Matta Rice; Rice; Risotto Rice; Seeraga Samba Rice
+Broken Raw Rice,rice,,broken rice; chawal,Arborio Rice; Basmati Rice; Broken Raw Rice; Brown Rice; Cooked Rice; Dosa Rice; Govind Bhog Rice; Idli Rice; Jasmine Rice; Red Matta Rice; Rice; Risotto Rice; Seeraga Samba Rice
+Brown Rice,rice,,brown rice; chawal,Arborio Rice; Basmati Rice; Broken Raw Rice; Brown Rice; Cooked Rice; Dosa Rice; Govind Bhog Rice; Idli Rice; Jasmine Rice; Red Matta Rice; Rice; Risotto Rice; Seeraga Samba Rice
+Cooked Rice,rice,,chawal,Arborio Rice; Basmati Rice; Broken Raw Rice; Brown Rice; Cooked Rice; Dosa Rice; Govind Bhog Rice; Idli Rice; Jasmine Rice; Red Matta Rice; Rice; Risotto Rice; Seeraga Samba Rice
+Dosa Rice,rice,,chawal; rice,Arborio Rice; Basmati Rice; Broken Raw Rice; Brown Rice; Cooked Rice; Dosa Rice; Govind Bhog Rice; Idli Rice; Jasmine Rice; Red Matta Rice; Rice; Risotto Rice; Seeraga Samba Rice
+Govind Bhog Rice,rice,,basmati; chawal,Arborio Rice; Basmati Rice; Broken Raw Rice; Brown Rice; Cooked Rice; Dosa Rice; Govind Bhog Rice; Idli Rice; Jasmine Rice; Red Matta Rice; Rice; Risotto Rice; Seeraga Samba Rice
+Idli Rice,rice,,idli rice; parboiled rice,Arborio Rice; Basmati Rice; Broken Raw Rice; Brown Rice; Cooked Rice; Dosa Rice; Govind Bhog Rice; Idli Rice; Jasmine Rice; Red Matta Rice; Rice; Risotto Rice; Seeraga Samba Rice
+Jasmine Rice,rice,,fragrant rice; jasmine rice,Arborio Rice; Basmati Rice; Broken Raw Rice; Brown Rice; Cooked Rice; Dosa Rice; Govind Bhog Rice; Idli Rice; Jasmine Rice; Red Matta Rice; Rice; Risotto Rice; Seeraga Samba Rice
+Red Matta Rice,rice,,matta rice; red rice; unpolished rice,Arborio Rice; Basmati Rice; Broken Raw Rice; Brown Rice; Cooked Rice; Dosa Rice; Govind Bhog Rice; Idli Rice; Jasmine Rice; Red Matta Rice; Rice; Risotto Rice; Seeraga Samba Rice
+Rice,rice,,chawal; staple grain,Arborio Rice; Basmati Rice; Broken Raw Rice; Brown Rice; Cooked Rice; Dosa Rice; Govind Bhog Rice; Idli Rice; Jasmine Rice; Red Matta Rice; Rice; Risotto Rice; Seeraga Samba Rice
+Risotto Rice,rice,,arborio rice; carnaroli rice; short grain rice,Arborio Rice; Basmati Rice; Broken Raw Rice; Brown Rice; Cooked Rice; Dosa Rice; Govind Bhog Rice; Idli Rice; Jasmine Rice; Red Matta Rice; Rice; Risotto Rice; Seeraga Samba Rice
+Seeraga Samba Rice,rice,,samba rice; seeraga samba; seeraga samba rice,Arborio Rice; Basmati Rice; Broken Raw Rice; Brown Rice; Cooked Rice; Dosa Rice; Govind Bhog Rice; Idli Rice; Jasmine Rice; Red Matta Rice; Rice; Risotto Rice; Seeraga Samba Rice
+Emami Rice Bran Oil,rice bran oil,rice,rice oil,Emami Rice Bran Oil
+Rice Flour,rice flour,rice,chawal ka atta; rice meal; rice powder,Rice Flour
+Rice Paper Rolls,rice paper,rice,b nh tr ng; rice paper; spring roll wrappers,Rice Paper Rolls
+Rice Rava,rice rava,rice,rice granules; rice semolina; rice sooji,Rice Rava
+Ridge Gourd,ridge gourd,,chayote; turai; turai karela,Ridge Gourd; Ridge Gourd Skin
+Ridge Gourd Skin,ridge gourd,,chayote skin; turai peel; turai skin,Ridge Gourd; Ridge Gourd Skin
+Rocket Leaves,rocket,,arugula; erukku; rucola,Rocket Leaves
+Dried Rose Petals,rose petals,,gulab petals; rose buds,Dried Rose Petals; Rose Petals
+Rose Petals,rose petals,,edible rose petals; gulab petals; rose flowers,Dried Rose Petals; Rose Petals
+Rose Water,rose water,rose,gulab jal; rose distillate; rose hydrosol,Rose Water
+Rosemary,rosemary,,muskat; rosemary herb; rosemary leaves,Rosemary
+Rum,rum,sugarcane,dark rum; rum; sugar cane spirit,Rum
+Rusk,rusk,bread,bread rusk; rusk; toast crumbs,Rusk
+Rye,rye,,black rye; rye flour; rye grain,Rye
+Rye Bread,rye bread,rye,,Rye Bread
+Saffron,saffron,,crocus; kesar,Saffron; Saffron Strands
+Saffron Strands,saffron,,crocus; kesar,Saffron; Saffron Strands
+Sage,sage,,salvia,Sage
+Summer Salad,salad,,mixed salad; salad bowl,Summer Salad
+Salmon Fillet,salmon,,,Salmon Fillet
+Kosher Salt,salt,,kosher salt; sea salt,Kosher Salt; Rock Salt; Salt; Sea Salt
+Rock Salt,salt,,halite; rock salt; sea salt,Kosher Salt; Rock Salt; Salt; Sea Salt
+Salt,salt,,namak,Kosher Salt; Rock Salt; Salt; Sea Salt
+Sea Salt,salt,,namak; sea salt,Kosher Salt; Rock Salt; Salt; Sea Salt
+Sambal Oelek,sambal oelek,chili,chili paste,Sambal Oelek
+Sambar Powder,sambar powder,,sambar masala,Sambar Powder
+Samosas,samosa,,samosa; samosa puri,Samosas
+Saoji Masala,saoji masala,,saoji masala; saoji powder,Saoji Masala
+Sardine Fish,sardine,,mackerel; sardin; sardine,Sardine Fish
+Sauerkraut,sauerkraut,cabbage,fermented cabbage; sauerkraut,Sauerkraut
+Schezwan Sauce,schezwan sauce,chili,schezwan sauce; sichuan sauce; szechuan sauce,Schezwan Sauce
+Seer Fish,seer fish,,gavadi; kavadi; kavadi fish,Seer Fish
+Semolina,semolina,wheat,rabi; rava; sooji,Semolina; Sooji
+Sooji,semolina,wheat,rava; sooji rava; suji,Semolina; Sooji
+Serrano Pepper,serrano pepper,,serrano chili; serrano chilli,Serrano Pepper
+Sesame,sesame,,gingelly; til,Sesame; Sesame Seeds
+Sesame Seeds,sesame,,gingelly seeds; til,Sesame; Sesame Seeds
+Sesame Oil,sesame oil,sesame,gingelly oil; til oil,Sesame Oil
+Sesame Powder,sesame powder,sesame,gingelly powder; til powder,Sesame Powder
+Sev,sev,gram flour,chakli; papad; papadum,Sev
+Seven Up,seven up,,citrus soda; lemon lime soda,Seven Up
+Shallots,shallot,,eschalot; red onion; small onion,Shallots
+Sherry,sherry,grape,dry sherry; fortified wine,Sherry
+Shiitake Mushrooms,shiitake mushroom,,lentinula edodes; mushroom,Shiitake Mushrooms
+Shrikhand,shrikhand,yogurt,sharbat; sweet yogurt,Shrikhand
+Dried Shrimps,shrimp,,chirota; jheenga; prawn,Dried Shrimps; Shrimps
+Shrimps,shrimp,,chirota; jheenga; prawn,Dried Shrimps; Shrimps
+Sichuan Peppercorns,sichuan peppercorn,,huajiao; sichuan pepper,Sichuan Peppercorns
+Edible Silver Foil,silver foil,,chandi varak; edible silver leaf; varak,Edible Silver Foil
+Singoda Flour,singoda flour,singoda,amaranth flour; ramdana flour,Singoda Flour
+Snake Gourd,snake gourd,,chakri; chokri; turai,Snake Gourd
+Jowar Seeds,sorghum,,great millet; jowar,Jowar Seeds
+Jowar Flour,sorghum flour,sorghum,jowar atta; sorghum flour,Jowar Flour
+Sorrel Leaves,sorrel,,gandh phool; wild sorrel,Sorrel Leaves
+Sour Cream,sour cream,milk,cream; dahi,Sour Cream
+Soy Chunks,soy chunks,soybean,protein chunks; soya chunks; soya granules,Soy Chunks
+Soy Granules,soy granules,soybean,protein granules; soy chunks; soya granules,Soy Granules
+Soy Milk,soy milk,soybean,soya milk,Soy Milk
+Soy Sauce,soy sauce,soybean,shoyu,Soy Sauce
+Soybeans,soybean,,soya bean,Soybeans
+Sparkling Wine,sparkling wine,grape,champagne; prosecco,Sparkling Wine
+Cajun Spice Mix,spice mix,,cajun seasoning; masala,Cajun Spice Mix
+Baby Spinach,spinach,,baby palak; palak,Baby Spinach; Spinach; Spinach Leaves
+Spinach,spinach,,palak; spinach leaves,Baby Spinach; Spinach; Spinach Leaves
+Spinach Leaves,spinach,,palak; spinach,Baby Spinach; Spinach; Spinach Leaves
+Spirulina,spirulina,,blue green algae; chlorella,Spirulina
+Sponge Cake,sponge cake,,,Sponge Cake
+Del Monte Sandwich Spread,spread,,sandwich spread,Del Monte Sandwich Spread
+Spring Onion,spring onion,,green onion; mirchi; scallion,Spring Onion
+Spring Onion Greens,spring onion greens,,green onion tops; scallion greens,Spring Onion Greens
+Sprite,sprite,,lemon lime soda,Sprite
+Silk Squash,squash,,courgette; kaddu; zucchini,Silk Squash
+Sriracha Sauce,sriracha sauce,chili,chili sauce; sriracha,Sriracha Sauce
+Star Anise,star anise,,badian; badiyan,Star Anise
+Star Fruit,star fruit,,carambola; kagzi,Star Fruit
+Stone Flowers,stone flowers,,rock flowers; stone orchids,Stone Flowers
+Strawberries,strawberry,,straw berry,Strawberries
+Strawberry Cake,strawberry cake,strawberry,strawberry sponge cake,Strawberry Cake
+Strawberry Compote,strawberry compote,strawberry,strawberry sauce; strawberry stew,Strawberry Compote
+Strawberry Essense,strawberry essence,strawberry,strawberry extract; strawberry flavoring,Strawberry Essense
+Submarine Bread,submarine bread,flour,hoagie roll; sub roll,Submarine Bread
+Brown Sugar,sugar,,brown sugar; shakkar,Brown Sugar; Cane Sugar; Caster Sugar; Dal Sugar Powder; Decorative Sugar; Lentil Sugar; Sugar
+Cane Sugar,sugar,,cane sugar; shakkar,Brown Sugar; Cane Sugar; Caster Sugar; Dal Sugar Powder; Decorative Sugar; Lentil Sugar; Sugar
+Caster Sugar,sugar,,caster sugar; shakkar,Brown Sugar; Cane Sugar; Caster Sugar; Dal Sugar Powder; Decorative Sugar; Lentil Sugar; Sugar
+Dal Sugar Powder,sugar,,cheeni; sugar,Brown Sugar; Cane Sugar; Caster Sugar; Dal Sugar Powder; Decorative Sugar; Lentil Sugar; Sugar
+Decorative Sugar,sugar,,cheeni; sugar,Brown Sugar; Cane Sugar; Caster Sugar; Dal Sugar Powder; Decorative Sugar; Lentil Sugar; Sugar
+Lentil Sugar,sugar,lentil,lentil sugar; sugar,Brown Sugar; Cane Sugar; Caster Sugar; Dal Sugar Powder; Decorative Sugar; Lentil Sugar; Sugar
+Sugar,sugar,,chini; shakkar,Brown Sugar; Cane Sugar; Caster Sugar; Dal Sugar Powder; Decorative Sugar; Lentil Sugar; Sugar
+Sugar Syrup,sugar syrup,sugar,simple syrup; syrup,Sugar Syrup
+Sultanas,sultanas,grapes,kishmish; raisins,Sultanas
+Sumac,sumac,,sumac powder; sumac spice,Sumac
+Sundkai,sundkai,,mango pickle fruit; wild mango,Sundkai
+Sunflower Oil,sunflower oil,sunflower,sunflower seed oil,Sunflower Oil
+Sunflower Seeds,sunflower seeds,,makhana; sunflower kernels,Sunflower Seeds
+Suran,suran,,fermented rice drink; sura,Suran
+Sweet Chutney,sweet chutney,,meetha chutney; sweet sauce,Sweet Chutney
+Sweet Corn,sweet corn,,corn; maize; makai,Sweet Corn
+Sweet Piquanté Pepper,sweet piquant pepper,,capsicum; sweet pepper,Sweet Piquanté Pepper
+Sweet Potatoes,sweet potato,,batata; shakarkandi,Sweet Potatoes
+Mishti Doi,sweet yogurt,yogurt,sugar yogurt; sweet curd,Mishti Doi
+Sweetened Coconut Flakes,sweetened coconut flakes,coconut,coconut chips; coconut flakes,Sweetened Coconut Flakes
+Swiss Cheese,swiss cheese,milk,emmental; gruyere,Swiss Cheese
+Tabasco Original,tabasco sauce,chilli,hot sauce; tabasco,Tabasco Original; Tabasco Original Hot Sauce
+Tabasco Original Hot Sauce,tabasco sauce,chilli,hot sauce; tabasco,Tabasco Original; Tabasco Original Hot Sauce
+Taco Seasoning,taco seasoning,,taco powder; taco spice mix,Taco Seasoning
+Soft Taco Shells,taco shell,flour,tortilla,Soft Taco Shells
+Hard Taco Shells,taco shells,,hard shells,Hard Taco Shells
+Tagliatelle Pasta,tagliatelle,wheat,noodles; pasta,Tagliatelle Pasta
+Tahini,tahini,sesame,sesame paste; til paste,Tahini
+Tamarind,tamarind,,imli; tamarind pulp,Tamarind
+Tamarind Paste,tamarind paste,tamarind,imli paste; tamarind concentrate,Tamarind Paste
+Tamarind Water,tamarind water,tamarind,imli pani; tamarind juice,Tamarind Water
+Tandoori Masala,tandoori masala,,tandoori powder; tandoori spice mix,Tandoori Masala
+Tandoori Mayo,tandoori mayo,mayonnaise,spicy mayo; tandoori mayonnaise,Tandoori Mayo
+Tapioca Root,tapioca,,cassava; sago,Tapioca Root
+Sabudana,tapioca pearls,tapioca,sago; tapioca sago,Sabudana
+Tea,tea,,chai; tea leaves,Tea
+Tea Leaves,tea leaves,,chai patti; tea,Tea Leaves
+Tender Coconut Meat,tender coconut meat,coconut,coconut flesh; tender coconut,Tender Coconut Meat
+Tender Coconut Water,tender coconut water,coconut,coconut water; nariyal paani,Tender Coconut Water
+Tequila,tequila,agave,agave spirit; tequila liquor,Tequila
+Thai Basil Leaves,thai basil,,holy basil; krapao,Thai Basil Leaves
+Thai Green Curry Paste,thai green curry paste,,green curry paste; kaeng khiao paste,Thai Green Curry Paste
+Thai Red Chilli,thai red chilli,,bird s eye chilli; prik kee noo,Thai Red Chilli
+Thai Red Curry Paste,thai red curry paste,,kaeng phet paste; red curry paste,Thai Red Curry Paste
+Thai Sweet Chilli Sauce,thai sweet chilli sauce,chilli,nam jim jaew; sweet chilli sauce,Thai Sweet Chilli Sauce
+Thandai Masala,thandai masala,,thandai powder; thandai spice mix,Thandai Masala
+Thandai Powder,thandai powder,,thandai masala; thandai spice mix,Thandai Powder
+Dried Thyme Leaves,thyme,,thymus; thymus vulgaris,Dried Thyme Leaves; Fresh Thyme; Thyme
+Fresh Thyme,thyme,,,Dried Thyme Leaves; Fresh Thyme; Thyme
+Thyme,thyme,,thyme leaves; tulsi,Dried Thyme Leaves; Fresh Thyme; Thyme
+Thyme Leaves,thyme leaves,,thyme; tulsi,Thyme Leaves
+Tikka Masala,tikka masala,,tikka masala powder; tikka masala sauce,Tikka Masala
+Tinda,tinda,,apple gourd; chokra,Tinda; Tindora
+Tindora,tinda,,apple gourd; chokra,Tinda; Tindora
+Tofu,tofu,soybean,bean curd; soybean curd,Tofu
+Tomatillo,tomatillo,,green tomato; tomate verde,Tomatillo
+Blanched Tomatoes,tomato,,blanched tomato; tamatar,Blanched Tomatoes; Sun Dried Tomatoes; Tomatoes
+Sun Dried Tomatoes,tomato,,dried tomato; sun dried tomato,Blanched Tomatoes; Sun Dried Tomatoes; Tomatoes
+Tomatoes,tomato,,tamatar; tomato,Blanched Tomatoes; Sun Dried Tomatoes; Tomatoes
+Tomato Ketchup,tomato ketchup,tomato,ketchup; tomato sauce,Tomato Ketchup
+Tomato Pasta Sauce,tomato pasta sauce,tomato,marinara; pasta sauce,Tomato Pasta Sauce
+Tomato Puree,tomato puree,tomato,tomato paste; tomato pulp,Tomato Puree
+Tomato Salsa,tomato salsa,tomato,salsa; tomato salsa,Tomato Salsa
+Tomato Sauce,tomato sauce,tomato,tomato chutney; tomato gravy,Tomato Sauce
+Fresh Green Toor Dal,toor dal,,green toor dal; pigeon peas,Fresh Green Toor Dal
+Toothpicks,toothpick,,dantunai; skewer,Toothpicks
+Corn Flour Tortilla,tortilla,corn,maize tortilla,Corn Flour Tortilla; Tortillas; Whole Wheat Flour Tortilla
+Tortillas,tortilla,wheat,chapati; roti,Corn Flour Tortilla; Tortillas; Whole Wheat Flour Tortilla
+Whole Wheat Flour Tortilla,tortilla,wheat flour,chapati; roti,Corn Flour Tortilla; Tortillas; Whole Wheat Flour Tortilla
+Triple Sec,triple sec,orange,cointreau; orange liqueur,Triple Sec
+Trumpet,trumpet,,trumpet flower; trumpet vine,Trumpet
+Tulsi,tulsi,,basil; holy basil; tulsi leaves,Tulsi
+Green Tur Dal,tur dal,,arhar dal; pigeon pea,Green Tur Dal
+Turkey Berries,turkey berry,,turkey berry; turkey berry fruit,Turkey Berries
+Fresh Turmeric Root,turmeric,,haldi,Fresh Turmeric Root; Turmeric
+Turmeric,turmeric,,haldi; turmeric root,Fresh Turmeric Root; Turmeric
+Turmeric Powder,turmeric powder,turmeric,ground turmeric; haldi powder,Turmeric Powder
+Turnips,turnip,,shalgam; white turnip,Turnips
+Tutti Frutti,tutti frutti,,assorted fruits; fruit mix,Tutti Frutti
+Tutti Frutti Ice Cream,tutti frutti ice cream,milk,assorted fruit ice cream; fruit ice cream,Tutti Frutti Ice Cream
+Tzatziki,tzatziki,yogurt,greek yogurt dip; yogurt cucumber dip,Tzatziki
+Udon Noodles,udon noodles,wheat,japanese wheat noodles; udon,Udon Noodles
+Urad Dal,urad dal,,black gram; urad; white lentil,Urad Dal
+Urad Dal Flour,urad dal flour,urad dal,besan; chickpea flour; gram flour,Urad Dal Flour
+Urad Dal Papad,urad dal papad,urad dal,papad; papadum; pappadam,Urad Dal Papad
+Vangi Bath Powder,vangi bath powder,eggplant,brinjal bath powder; eggplant bath powder,Vangi Bath Powder
+Vanilla Custard,vanilla custard,milk,custard; vanilla pudding,Vanilla Custard
+Vanilla Custard Powder,vanilla custard powder,milk,custard powder; vanilla pudding mix,Vanilla Custard Powder
+Sprig Extract Of Natural Bourbon Vanilla,vanilla extract,vanilla,vanilla essence,Sprig Extract Of Natural Bourbon Vanilla; Vanilla Extract
+Vanilla Extract,vanilla extract,vanilla,vanilla essence; vanilla flavoring,Sprig Extract Of Natural Bourbon Vanilla; Vanilla Extract
+Vanilla Ice Cream,vanilla ice cream,milk,vanilla frozen dessert; vanilla gelato,Vanilla Ice Cream
+Vegetable Stock,vegetable stock,vegetables,veg broth; vegetable broth,Vegetable Stock
+Vellai Poosanikai,vellai poosanikai,,white drumstick; white moringa,Vellai Poosanikai
+Semiya,vermicelli,wheat,sev; sooji sev; vermicelli,Semiya
+Red Wine Vinaigrette,vinaigrette,wine,red wine dressing; salad dressing,Red Wine Vinaigrette
+Rice Wine Vinegar,vinegar,rice,rice vinegar; shao xing vinegar; sushi vinegar,Rice Wine Vinegar; Vinegar
+Vinegar,vinegar,,acetic acid solution; sirk,Rice Wine Vinegar; Vinegar
+Walnuts,walnut,,akhrot; walnut kernel,Walnuts
+Chilled Water,water,,cold water,Chilled Water; Hot Water; Lukewarm Water; Reserved Water; Water
+Hot Water,water,,hot water,Chilled Water; Hot Water; Lukewarm Water; Reserved Water; Water
+Lukewarm Water,water,,lukewarm water; water,Chilled Water; Hot Water; Lukewarm Water; Reserved Water; Water
+Reserved Water,water,,cooking water; reserved liquid; starch water,Chilled Water; Hot Water; Lukewarm Water; Reserved Water; Water
+Water,water,,h2o; pani,Chilled Water; Hot Water; Lukewarm Water; Reserved Water; Water
+Water Chestnut,water chestnut,,chiku; kumbal; water chestnut fruit,Water Chestnut
+Water Chestnut Flour,water chestnut flour,water chestnut,chiku flour; kumbal flour,Water Chestnut Flour
+Watermelon,watermelon,,kharbooja; water melon,Watermelon
+Watermelon Juice,watermelon juice,watermelon,kharbooja juice; watermelon extract,Watermelon Juice
+Broken Wheat,wheat,,broken wheat; dalia,Broken Wheat; Bulgur Wheat; Wheat
+Bulgur Wheat,wheat,,bulgur; cracked wheat,Broken Wheat; Bulgur Wheat; Wheat
+Wheat,wheat,,gehu; shakti; wheat grain,Broken Wheat; Bulgur Wheat; Wheat
+Wheat Bran,wheat bran,wheat,bran,Wheat Bran
+Wheat Flakes,wheat flakes,wheat,wheat cereal; wheat flakes cereal,Wheat Flakes
+Wheat Germ,wheat germ,wheat,germ,Wheat Germ
+Wheat Grass Powder,wheat grass powder,wheat grass,wheatgrass powder,Wheat Grass Powder
+Wheat Noodles,wheat noodles,wheat,makki noodles; noodles,Wheat Noodles
+White Chocolate,white chocolate,milk,white choco,White Chocolate
+White Pepper Powder,white pepper,,white pepper; white pepper powder,White Pepper Powder
+White Urad Dal,white urad dal,,white lentils; white moong dal; white split black gram,White Urad Dal
+White Vinegar,white vinegar,,distilled vinegar; white wine vinegar,White Vinegar
+White Wine,white wine,,white grape wine,White Wine
+Red Wine,wine,grapes,cabernet; merlot; red wine,Red Wine
+Wood,wood,,lumber; timber,Wood
+Wood Apple,wood apple,,aegle marmelos; bel; bel fruit,Wood Apple
+Worcestershire Sauce,worcestershire sauce,,,Worcestershire Sauce
+Active Dry Yeast,yeast,,baker s yeast; instant yeast,Active Dry Yeast
+Dried Yellow Peas,yellow peas,,chana; chana dal; split peas,Dried Yellow Peas
+Curd,yogurt,,curd; dahi,Curd; Hung Curd; Hung Yogurt; Yogurt
+Hung Curd,yogurt,,hung curd; strained yogurt,Curd; Hung Curd; Hung Yogurt; Yogurt
+Hung Yogurt,yogurt,,hung curd; strained yogurt,Curd; Hung Curd; Hung Yogurt; Yogurt
+Yogurt,yogurt,,curd; dahi,Curd; Hung Curd; Hung Yogurt; Yogurt
+Za'atar,za atar,,zaatar; zaatar spice,Za'atar
+Green Zucchini,zucchini,,courgette,Green Zucchini; Zucchini
+Zucchini,zucchini,,courgette; summer squash,Green Zucchini; Zucchini
